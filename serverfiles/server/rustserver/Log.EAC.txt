@@ -1,0 +1,367 @@
+7/22/2018 6:42:27 PM  [Info] [SetLogCallback] Procedure: 0x41d42bd0 LogLevel: Verbose.
+7/22/2018 6:42:27 PM  [Info] [Initialize] ServerName: 'Anatomia Rust X5 { TP,INSTA,CLAN,KITS, WIPE SEMANAL}'.
+7/22/2018 6:42:27 PM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+7/22/2018 6:56:33 PM  [Info] [SetLogCallback] Procedure: 0x41526ea0 LogLevel: Verbose.
+7/22/2018 6:56:33 PM  [Info] [Initialize] ServerName: 'Anatomia Rust X5 { TP,INSTA,CLAN,KITS, WIPE SEMANAL}'.
+7/22/2018 6:56:33 PM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+7/22/2018 6:58:34 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 7:00:34 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 7:02:35 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 7:04:35 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 7:05:36 PM  [Info] [RegisterClient] Client: 0x1 PlayerGUID: 76561198366855880 PlayerIP: 187.180.180.182:18220 OwnerGUID: 76561198366855880 PlayerName: isvair
+7/22/2018 7:05:37 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 7:05:39 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:05:40 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:05:40 PM  [Info] [Register Client] Success (1/2). Client: 0x1.
+7/22/2018 7:06:36 PM  [Info] [Register Client] Success (2/2). Client: 0x1
+7/22/2018 7:06:36 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:06:59 PM  [Info] [RegisterClient] Client: 0x2 PlayerGUID: 76561198040549314 PlayerIP: 179.176.68.94:50583 OwnerGUID: 76561198040549314 PlayerName: Supernova
+7/22/2018 7:07:02 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:07:02 PM  [Info] [Register Client] Success (1/2). Client: 0x2.
+7/22/2018 7:07:03 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 7:07:03 PM  [Info] [Register Client] Success (2/2). Client: 0x2
+7/22/2018 7:07:03 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:10:12 PM  [Info] [RegisterClient] Client: 0x3 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:60160 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 7:10:19 PM  [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:10:19 PM  [Info] [Register Client] Success (1/2). Client: 0x3.
+7/22/2018 7:10:20 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 7:10:22 PM  [Info] [Register Client] Success (2/2). Client: 0x3
+7/22/2018 7:10:22 PM  [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:10:59 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:10:59 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:10:59 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: Yes.
+7/22/2018 7:12:25 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 7:12:25 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 7:12:26 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: Yes.
+7/22/2018 7:16:13 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:16:13 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: Yes.
+7/22/2018 7:19:02 PM  [Info] [UnregisterClient] Client: 0x3 PlayerGUID: 76561198360164120
+7/22/2018 7:20:13 PM  [Info] [RegisterClient] Client: 0x4 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:63351 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 7:20:15 PM  [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:20:16 PM  [Info] [Register Client] Success (1/2). Client: 0x4.
+7/22/2018 7:20:16 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+7/22/2018 7:20:17 PM  [Info] [Register Client] Success (2/2). Client: 0x4
+7/22/2018 7:20:17 PM  [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:20:28 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+7/22/2018 7:20:29 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: Yes.
+7/22/2018 7:20:40 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 7:20:40 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 7:20:41 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+7/22/2018 7:21:29 PM  [Info] [UnregisterClient] Client: 0x1 PlayerGUID: 76561198366855880
+7/22/2018 7:25:00 PM  [Info] [UnregisterClient] Client: 0x2 PlayerGUID: 76561198040549314
+7/22/2018 7:25:12 PM  [Info] [UnregisterClient] Client: 0x4 PlayerGUID: 76561198360164120
+7/22/2018 7:25:12 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 7:43:08 PM  [Info] [SetLogCallback] Procedure: 0x40959cd0 LogLevel: Verbose.
+7/22/2018 7:43:08 PM  [Info] [Initialize] ServerName: 'Anatomia Rust X5 { TP,INSTA,CLAN,KITS, WIPE SEMANAL}'.
+7/22/2018 7:43:08 PM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+7/22/2018 7:43:49 PM  [Info] [RegisterClient] Client: 0x1 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:61303 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 7:43:50 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 7:43:51 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:43:52 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:43:52 PM  [Info] [Register Client] Success (1/2). Client: 0x1.
+7/22/2018 7:43:54 PM  [Info] [Register Client] Success (2/2). Client: 0x1
+7/22/2018 7:43:54 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:44:03 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 7:44:04 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: Yes.
+7/22/2018 7:44:45 PM  [Info] [UnregisterClient] Client: 0x1 PlayerGUID: 76561198360164120
+7/22/2018 7:44:45 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 7:44:59 PM  [Info] [RegisterClient] Client: 0x2 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:61122 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 7:45:00 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 7:45:02 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 7:45:02 PM  [Info] [Register Client] Success (1/2). Client: 0x2.
+7/22/2018 7:45:03 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 7:45:03 PM  [Info] [Register Client] Success (2/2). Client: 0x2
+7/22/2018 7:45:03 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 7:45:14 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 7:45:15 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+7/22/2018 7:52:30 PM  [Info] [UnregisterClient] Client: 0x2 PlayerGUID: 76561198360164120
+7/22/2018 7:52:30 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 7:56:44 PM  [Info] [SetLogCallback] Procedure: 0x40e52490 LogLevel: Verbose.
+7/22/2018 7:56:44 PM  [Info] [Initialize] ServerName: 'Anatomia Rust X5 { TP,INSTA,CLAN,KITS, WIPE SEMANAL}'.
+7/22/2018 7:56:44 PM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+7/22/2018 7:58:45 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 8:05:26 PM  [Info] [SetLogCallback] Procedure: 0x415ce480 LogLevel: Verbose.
+7/22/2018 8:05:26 PM  [Info] [Initialize] ServerName: 'Anatomia Rust X5 { TP,INSTA,CLAN,KITS, WIPE SEMANAL}'.
+7/22/2018 8:05:26 PM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+7/22/2018 8:07:26 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 8:09:27 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 8:10:15 PM  [Info] [RegisterClient] Client: 0x1 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:61121 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 8:10:16 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 8:10:17 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:10:18 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 8:10:18 PM  [Info] [Register Client] Success (1/2). Client: 0x1.
+7/22/2018 8:10:20 PM  [Info] [Register Client] Success (2/2). Client: 0x1
+7/22/2018 8:10:20 PM  [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 8:10:29 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+7/22/2018 8:10:31 PM  [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: Yes.
+7/22/2018 8:13:34 PM  [Info] [UnregisterClient] Client: 0x1 PlayerGUID: 76561198360164120
+7/22/2018 8:13:34 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 8:15:28 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 8:17:17 PM  [Info] [RegisterClient] Client: 0x2 PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:50879 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 8:17:19 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:17:19 PM  [Info] [Register Client] Success (1/2). Client: 0x2.
+7/22/2018 8:17:20 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 8:17:20 PM  [Info] [Register Client] Success (2/2). Client: 0x2
+7/22/2018 8:17:20 PM  [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 8:17:21 PM  [Info] [RegisterClient] Client: 0x3 PlayerGUID: 76561198037184504 PlayerIP: 191.248.77.191:51042 OwnerGUID: 76561198037184504 PlayerName: Rhoni Stk
+7/22/2018 8:17:23 PM  [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:17:23 PM  [Info] [Register Client] Success (1/2). Client: 0x3.
+7/22/2018 8:17:24 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 8:17:24 PM  [Info] [Register Client] Success (2/2). Client: 0x3
+7/22/2018 8:17:24 PM  [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 8:17:31 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+7/22/2018 8:17:32 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+7/22/2018 8:19:15 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 8:19:15 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+7/22/2018 8:19:16 PM  [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: Yes.
+7/22/2018 8:19:53 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+7/22/2018 8:40:29 PM  [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+7/22/2018 8:46:40 PM  [Info] [RegisterClient] Client: 0x4 PlayerGUID: 76561198181511142 PlayerIP: 200.240.238.204:59772 OwnerGUID: 76561198181511142 PlayerName: Glockin
+7/22/2018 8:46:42 PM  [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:46:42 PM  [Info] [Register Client] Success (1/2). Client: 0x4.
+7/22/2018 8:46:43 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+7/22/2018 8:46:43 PM  [Info] [Register Client] Success (2/2). Client: 0x4
+7/22/2018 8:46:43 PM  [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 8:47:03 PM  [Info] [RegisterClient] Client: 0x5 PlayerGUID: 76561198147291727 PlayerIP: 177.220.172.5:54142 OwnerGUID: 76561198147291727 PlayerName: marco_bmendes CSGO-SKINS.COM
+7/22/2018 8:47:05 PM  [Info] [QueueClientUpdate] Client: 0x5 Session: 5 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:47:05 PM  [Info] [Register Client] Success (1/2). Client: 0x5.
+7/22/2018 8:47:06 PM  [Info] [SetClientNetworkState] ClientObject: 0x5 NetworkActive: No.
+7/22/2018 8:47:06 PM  [Info] [Register Client] Success (2/2). Client: 0x5
+7/22/2018 8:47:06 PM  [Info] [QueueClientUpdate] Client: 0x5 Session: 5 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 8:47:49 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+7/22/2018 8:47:49 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+7/22/2018 8:47:50 PM  [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: Yes.
+7/22/2018 8:48:45 PM  [Info] [UnregisterClient] Client: 0x4 PlayerGUID: 76561198181511142
+7/22/2018 8:52:08 PM  [Info] [UnregisterClient] Client: 0x5 PlayerGUID: 76561198147291727
+7/22/2018 8:59:32 PM  [Info] [RegisterClient] Client: 0x6 PlayerGUID: 76561197994377280 PlayerIP: 179.212.90.80:23939 OwnerGUID: 76561197994377280 PlayerName: Magnani
+7/22/2018 8:59:34 PM  [Info] [QueueClientUpdate] Client: 0x6 Session: 6 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 8:59:34 PM  [Info] [Register Client] Success (1/2). Client: 0x6.
+7/22/2018 8:59:35 PM  [Info] [SetClientNetworkState] ClientObject: 0x6 NetworkActive: No.
+7/22/2018 8:59:35 PM  [Info] [Register Client] Success (2/2). Client: 0x6
+7/22/2018 8:59:35 PM  [Info] [QueueClientUpdate] Client: 0x6 Session: 6 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 9:01:10 PM  [Info] [UnregisterClient] Client: 0x3 PlayerGUID: 76561198037184504
+7/22/2018 9:02:27 PM  [Info] [UnregisterClient] Client: 0x2 PlayerGUID: 76561198360164120
+7/22/2018 9:20:47 PM  [Info] [SetClientNetworkState] ClientObject: 0x6 NetworkActive: No.
+7/22/2018 9:20:47 PM  [Info] [SetClientNetworkState] ClientObject: 0x6 NetworkActive: No.
+7/22/2018 9:20:48 PM  [Info] [SetClientNetworkState] ClientObject: 0x6 NetworkActive: Yes.
+7/22/2018 9:29:12 PM  [Info] [UnregisterClient] Client: 0x6 PlayerGUID: 76561197994377280
+7/22/2018 9:29:12 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 9:29:39 PM  [Info] [RegisterClient] Client: 0x7 PlayerGUID: 76561197994377280 PlayerIP: 179.212.90.80:23555 OwnerGUID: 76561197994377280 PlayerName: Magnani
+7/22/2018 9:29:46 PM  [Info] [QueueClientUpdate] Client: 0x7 Session: 7 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 9:29:46 PM  [Info] [Register Client] Success (1/2). Client: 0x7.
+7/22/2018 9:29:46 PM  [Info] [SetClientNetworkState] ClientObject: 0x7 NetworkActive: No.
+7/22/2018 9:29:46 PM  [Info] [Register Client] Success (2/2). Client: 0x7
+7/22/2018 9:29:46 PM  [Info] [QueueClientUpdate] Client: 0x7 Session: 7 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 9:29:47 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 9:30:03 PM  [Info] [SetClientNetworkState] ClientObject: 0x7 NetworkActive: No.
+7/22/2018 9:35:57 PM  [Info] [SetClientNetworkState] ClientObject: 0x7 NetworkActive: Yes.
+7/22/2018 10:05:45 PM  [Info] [SetClientNetworkState] ClientObject: 0x7 NetworkActive: No.
+7/22/2018 10:05:45 PM  [Info] [SetClientNetworkState] ClientObject: 0x7 NetworkActive: Yes.
+7/22/2018 10:05:58 PM  [Info] [RegisterClient] Client: 0x8 PlayerGUID: 76561198261925181 PlayerIP: 177.220.174.121:58384 OwnerGUID: 76561198261925181 PlayerName: Big Chief gamdom.com
+7/22/2018 10:06:01 PM  [Info] [QueueClientUpdate] Client: 0x8 Session: 8 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 10:06:01 PM  [Info] [Register Client] Success (1/2). Client: 0x8.
+7/22/2018 10:06:02 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: No.
+7/22/2018 10:06:02 PM  [Info] [Register Client] Success (2/2). Client: 0x8
+7/22/2018 10:06:02 PM  [Info] [QueueClientUpdate] Client: 0x8 Session: 8 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 10:07:11 PM  [Info] [UnregisterClient] Client: 0x7 PlayerGUID: 76561197994377280
+7/22/2018 10:10:57 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: No.
+7/22/2018 10:10:57 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: No.
+7/22/2018 10:10:58 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: Yes.
+7/22/2018 10:22:00 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: No.
+7/22/2018 10:22:00 PM  [Info] [SetClientNetworkState] ClientObject: 0x8 NetworkActive: Yes.
+7/22/2018 10:23:10 PM  [Info] [UnregisterClient] Client: 0x8 PlayerGUID: 76561198261925181
+7/22/2018 10:23:10 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 10:23:53 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 10:25:53 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 10:27:54 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 10:29:54 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 10:31:55 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 10:33:55 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 10:35:56 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 10:37:56 PM  [Info] [Cerberus] [Backend] Disconnected.
+7/22/2018 10:39:57 PM  [Info] [Cerberus] [Backend] Connection established.
+7/22/2018 10:40:10 PM  [Info] [RegisterClient] Client: 0x9 PlayerGUID: 76561198056034256 PlayerIP: 186.216.144.157:52429 OwnerGUID: 76561198056034256 PlayerName: Toni_Sc
+7/22/2018 10:40:13 PM  [Info] [QueueClientUpdate] Client: 0x9 Session: 9 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 10:40:14 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: No.
+7/22/2018 10:40:28 PM  [Info] [Register Client - CCS] Connection failed! Client: 0x9
+7/22/2018 10:40:28 PM  [Warning] [Register Client] No back-end connection! Reporting Client( 0x9 ) as authenticated.
+7/22/2018 10:40:28 PM  [Info] [QueueClientUpdate] Client: 0x9 Session: 9 Status: Client Authenticated Remotely Message: Client authenticated remotely (backend unreachable).
+7/22/2018 10:40:54 PM  [Info] [Register Client - CCS] Connection failed! Client: 0x9
+7/22/2018 10:41:05 PM  [Info] [Register Client] Success (1/2). Client: 0x9.
+7/22/2018 10:41:06 PM  [Info] [Register Client] Success (2/2). Client: 0x9
+7/22/2018 10:41:06 PM  [Info] [QueueClientUpdate] Client: 0x9 Session: 9 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 10:41:12 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: No.
+7/22/2018 10:41:12 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: No.
+7/22/2018 10:41:12 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: Yes.
+7/22/2018 10:41:20 PM  [Info] [RegisterClient] Client: 0xa PlayerGUID: 76561198090588920 PlayerIP: 201.180.111.88:58592 OwnerGUID: 76561198090588920 PlayerName: Utunergalann
+7/22/2018 10:41:23 PM  [Info] [QueueClientUpdate] Client: 0xa Session: 10 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 10:41:23 PM  [Info] [Register Client] Success (1/2). Client: 0xa.
+7/22/2018 10:41:24 PM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/22/2018 10:41:24 PM  [Info] [Register Client] Success (2/2). Client: 0xa
+7/22/2018 10:41:24 PM  [Info] [QueueClientUpdate] Client: 0xa Session: 10 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 10:49:25 PM  [Info] [RegisterClient] Client: 0xb PlayerGUID: 76561198134462233 PlayerIP: 190.244.120.33:59540 OwnerGUID: 76561198134462233 PlayerName: amacer6
+7/22/2018 10:49:28 PM  [Info] [QueueClientUpdate] Client: 0xb Session: 11 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 10:49:28 PM  [Info] [Register Client] Success (1/2). Client: 0xb.
+7/22/2018 10:49:29 PM  [Info] [SetClientNetworkState] ClientObject: 0xb NetworkActive: No.
+7/22/2018 10:49:29 PM  [Info] [Register Client] Success (2/2). Client: 0xb
+7/22/2018 10:49:29 PM  [Info] [QueueClientUpdate] Client: 0xb Session: 11 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 11:00:26 PM  [Info] [RegisterClient] Client: 0xc PlayerGUID: 76561198231438844 PlayerIP: 187.19.80.147:53642 OwnerGUID: 76561198231438844 PlayerName: Lord Phantoon
+7/22/2018 11:00:29 PM  [Info] [QueueClientUpdate] Client: 0xc Session: 12 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 11:00:29 PM  [Info] [Register Client] Success (1/2). Client: 0xc.
+7/22/2018 11:00:30 PM  [Info] [SetClientNetworkState] ClientObject: 0xc NetworkActive: No.
+7/22/2018 11:00:30 PM  [Info] [Register Client] Success (2/2). Client: 0xc
+7/22/2018 11:00:30 PM  [Info] [QueueClientUpdate] Client: 0xc Session: 12 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 11:05:30 PM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/22/2018 11:05:30 PM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/22/2018 11:05:31 PM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/22/2018 11:09:02 PM  [Info] [SetClientNetworkState] ClientObject: 0xb NetworkActive: No.
+7/22/2018 11:09:02 PM  [Info] [SetClientNetworkState] ClientObject: 0xb NetworkActive: No.
+7/22/2018 11:09:02 PM  [Info] [SetClientNetworkState] ClientObject: 0xb NetworkActive: Yes.
+7/22/2018 11:13:32 PM  [Info] [SetClientNetworkState] ClientObject: 0xc NetworkActive: No.
+7/22/2018 11:13:32 PM  [Info] [SetClientNetworkState] ClientObject: 0xc NetworkActive: No.
+7/22/2018 11:13:33 PM  [Info] [SetClientNetworkState] ClientObject: 0xc NetworkActive: Yes.
+7/22/2018 11:17:54 PM  [Info] [UnregisterClient] Client: 0xb PlayerGUID: 76561198134462233
+7/22/2018 11:22:36 PM  [Info] [RegisterClient] Client: 0xd PlayerGUID: 76561198134462233 PlayerIP: 190.244.120.33:63901 OwnerGUID: 76561198134462233 PlayerName: amacer6
+7/22/2018 11:22:39 PM  [Info] [QueueClientUpdate] Client: 0xd Session: 13 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 11:22:39 PM  [Info] [Register Client] Success (1/2). Client: 0xd.
+7/22/2018 11:22:40 PM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/22/2018 11:22:40 PM  [Info] [Register Client] Success (2/2). Client: 0xd
+7/22/2018 11:22:40 PM  [Info] [QueueClientUpdate] Client: 0xd Session: 13 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 11:26:31 PM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/22/2018 11:26:32 PM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/22/2018 11:30:13 PM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/22/2018 11:30:13 PM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/22/2018 11:38:24 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: No.
+7/22/2018 11:38:24 PM  [Info] [SetClientNetworkState] ClientObject: 0x9 NetworkActive: Yes.
+7/22/2018 11:42:39 PM  [Info] [RegisterClient] Client: 0xe PlayerGUID: 76561198360164120 PlayerIP: 201.10.11.251:51247 OwnerGUID: 76561198360164120 PlayerName: Mbello
+7/22/2018 11:42:42 PM  [Info] [QueueClientUpdate] Client: 0xe Session: 14 Status: Client Authenticated Message: Client authenticated.
+7/22/2018 11:42:42 PM  [Info] [Register Client] Success (1/2). Client: 0xe.
+7/22/2018 11:42:43 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: No.
+7/22/2018 11:42:43 PM  [Info] [Register Client] Success (2/2). Client: 0xe
+7/22/2018 11:42:43 PM  [Info] [QueueClientUpdate] Client: 0xe Session: 14 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/22/2018 11:43:49 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: No.
+7/22/2018 11:43:49 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/22/2018 11:49:45 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/22/2018 11:51:41 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/22/2018 11:54:38 PM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/23/2018 12:01:59 AM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/23/2018 12:03:00 AM  [Info] [SetClientNetworkState] ClientObject: 0xe NetworkActive: Yes.
+7/23/2018 12:05:32 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 12:05:32 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 12:14:25 AM  [Info] [UnregisterClient] Client: 0xe PlayerGUID: 76561198360164120
+7/23/2018 12:21:26 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 12:21:26 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 12:29:57 AM  [Info] [RegisterClient] Client: 0xf PlayerGUID: 76561198135193562 PlayerIP: 189.106.217.147:64203 OwnerGUID: 76561198135193562 PlayerName: ✪SaMMa✪
+7/23/2018 12:30:00 AM  [Info] [QueueClientUpdate] Client: 0xf Session: 15 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 12:30:00 AM  [Info] [Register Client] Success (1/2). Client: 0xf.
+7/23/2018 12:30:01 AM  [Info] [SetClientNetworkState] ClientObject: 0xf NetworkActive: No.
+7/23/2018 12:30:01 AM  [Info] [Register Client] Success (2/2). Client: 0xf
+7/23/2018 12:30:01 AM  [Info] [QueueClientUpdate] Client: 0xf Session: 15 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 12:30:30 AM  [Info] [UnregisterClient] Client: 0x9 PlayerGUID: 76561198056034256
+7/23/2018 12:31:12 AM  [Info] [UnregisterClient] Client: 0xc PlayerGUID: 76561198231438844
+7/23/2018 12:32:55 AM  [Info] [RegisterClient] Client: 0x10 PlayerGUID: 76561198121046141 PlayerIP: 186.221.43.169:58040 OwnerGUID: 76561198121046141 PlayerName: Zuma
+7/23/2018 12:32:58 AM  [Info] [QueueClientUpdate] Client: 0x10 Session: 16 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 12:32:58 AM  [Info] [Register Client] Success (1/2). Client: 0x10.
+7/23/2018 12:32:59 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: No.
+7/23/2018 12:32:59 AM  [Info] [Register Client] Success (2/2). Client: 0x10
+7/23/2018 12:32:59 AM  [Info] [QueueClientUpdate] Client: 0x10 Session: 16 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 12:39:13 AM  [Info] [SetClientNetworkState] ClientObject: 0xf NetworkActive: No.
+7/23/2018 12:39:13 AM  [Info] [SetClientNetworkState] ClientObject: 0xf NetworkActive: No.
+7/23/2018 12:39:13 AM  [Info] [SetClientNetworkState] ClientObject: 0xf NetworkActive: Yes.
+7/23/2018 12:40:15 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 12:40:15 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 12:41:45 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 12:41:45 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 12:42:03 AM  [Info] [UnregisterClient] Client: 0xf PlayerGUID: 76561198135193562
+7/23/2018 12:42:12 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: No.
+7/23/2018 12:42:12 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: No.
+7/23/2018 12:42:12 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: Yes.
+7/23/2018 12:42:58 AM  [Info] [RegisterClient] Client: 0x11 PlayerGUID: 76561198135193562 PlayerIP: 189.106.217.147:49330 OwnerGUID: 76561198135193562 PlayerName: ✪SaMMa✪
+7/23/2018 12:43:01 AM  [Info] [QueueClientUpdate] Client: 0x11 Session: 17 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 12:43:01 AM  [Info] [Register Client] Success (1/2). Client: 0x11.
+7/23/2018 12:43:02 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 12:43:02 AM  [Info] [Register Client] Success (2/2). Client: 0x11
+7/23/2018 12:43:02 AM  [Info] [QueueClientUpdate] Client: 0x11 Session: 17 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 12:43:21 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 12:43:22 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 12:45:36 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 12:45:36 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 12:49:06 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 1:04:28 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: Yes.
+7/23/2018 1:08:42 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 1:08:42 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 1:18:29 AM  [Info] [RegisterClient] Client: 0x12 PlayerGUID: 76561198346090407 PlayerIP: 201.25.180.101:55749 OwnerGUID: 76561198346090407 PlayerName: eDd_uU <3
+7/23/2018 1:18:32 AM  [Info] [QueueClientUpdate] Client: 0x12 Session: 18 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 1:18:32 AM  [Info] [Register Client] Success (1/2). Client: 0x12.
+7/23/2018 1:18:33 AM  [Info] [SetClientNetworkState] ClientObject: 0x12 NetworkActive: No.
+7/23/2018 1:18:33 AM  [Info] [Register Client] Success (2/2). Client: 0x12
+7/23/2018 1:18:33 AM  [Info] [QueueClientUpdate] Client: 0x12 Session: 18 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 1:19:01 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 1:19:01 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 1:19:07 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: No.
+7/23/2018 1:19:07 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: Yes.
+7/23/2018 1:20:42 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 1:20:42 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 1:23:26 AM  [Info] [SetClientNetworkState] ClientObject: 0x12 NetworkActive: No.
+7/23/2018 1:23:26 AM  [Info] [SetClientNetworkState] ClientObject: 0x12 NetworkActive: No.
+7/23/2018 1:23:26 AM  [Info] [SetClientNetworkState] ClientObject: 0x12 NetworkActive: Yes.
+7/23/2018 1:25:47 AM  [Info] [UnregisterClient] Client: 0x12 PlayerGUID: 76561198346090407
+7/23/2018 1:29:50 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: No.
+7/23/2018 1:29:50 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: Yes.
+7/23/2018 1:42:21 AM  [Info] [SetClientNetworkState] ClientObject: 0x10 NetworkActive: Yes.
+7/23/2018 2:00:24 AM  [Info] [RegisterClient] Client: 0x13 PlayerGUID: 76561198083769728 PlayerIP: 201.250.52.231:64334 OwnerGUID: 76561198083769728 PlayerName: Malikas
+7/23/2018 2:00:27 AM  [Info] [QueueClientUpdate] Client: 0x13 Session: 19 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 2:00:27 AM  [Info] [Register Client] Success (1/2). Client: 0x13.
+7/23/2018 2:00:28 AM  [Info] [SetClientNetworkState] ClientObject: 0x13 NetworkActive: No.
+7/23/2018 2:00:28 AM  [Info] [Register Client] Success (2/2). Client: 0x13
+7/23/2018 2:00:28 AM  [Info] [QueueClientUpdate] Client: 0x13 Session: 19 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 2:04:51 AM  [Info] [SetClientNetworkState] ClientObject: 0x13 NetworkActive: No.
+7/23/2018 2:04:51 AM  [Info] [SetClientNetworkState] ClientObject: 0x13 NetworkActive: No.
+7/23/2018 2:04:51 AM  [Info] [SetClientNetworkState] ClientObject: 0x13 NetworkActive: Yes.
+7/23/2018 2:13:14 AM  [Info] [UnregisterClient] Client: 0x13 PlayerGUID: 76561198083769728
+7/23/2018 2:28:16 AM  [Info] [UnregisterClient] Client: 0x10 PlayerGUID: 76561198121046141
+7/23/2018 2:30:55 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 2:30:55 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 2:32:17 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 2:32:17 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 2:52:27 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 2:52:27 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 2:55:24 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 2:55:24 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 2:57:13 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 2:57:13 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 2:58:40 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 2:58:41 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:01:36 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 3:01:36 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:03:20 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: No.
+7/23/2018 3:03:20 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:09:41 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:16:15 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 3:16:16 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 3:28:57 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 3:28:57 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 3:29:14 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 3:29:14 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 3:34:16 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 3:34:16 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 3:34:28 AM  [Info] [RegisterClient] Client: 0x14 PlayerGUID: 76561198121046141 PlayerIP: 186.221.43.169:65139 OwnerGUID: 76561198121046141 PlayerName: Zuma
+7/23/2018 3:34:31 AM  [Info] [QueueClientUpdate] Client: 0x14 Session: 20 Status: Client Authenticated Message: Client authenticated.
+7/23/2018 3:34:31 AM  [Info] [Register Client] Success (1/2). Client: 0x14.
+7/23/2018 3:34:32 AM  [Info] [SetClientNetworkState] ClientObject: 0x14 NetworkActive: No.
+7/23/2018 3:34:32 AM  [Info] [Register Client] Success (2/2). Client: 0x14
+7/23/2018 3:34:32 AM  [Info] [QueueClientUpdate] Client: 0x14 Session: 20 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+7/23/2018 3:41:21 AM  [Info] [SetClientNetworkState] ClientObject: 0x14 NetworkActive: No.
+7/23/2018 3:41:22 AM  [Info] [SetClientNetworkState] ClientObject: 0x14 NetworkActive: Yes.
+7/23/2018 3:48:01 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: No.
+7/23/2018 3:48:01 AM  [Info] [SetClientNetworkState] ClientObject: 0xa NetworkActive: Yes.
+7/23/2018 3:51:09 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:52:06 AM  [Info] [SetClientNetworkState] ClientObject: 0x11 NetworkActive: Yes.
+7/23/2018 3:52:33 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 3:52:33 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 3:53:00 AM  [Info] [SetClientNetworkState] ClientObject: 0x14 NetworkActive: Yes.
+7/23/2018 3:53:49 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 3:53:49 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 4:04:30 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: No.
+7/23/2018 4:04:30 AM  [Info] [SetClientNetworkState] ClientObject: 0xd NetworkActive: Yes.
+7/23/2018 4:07:16 AM  [Info] [UnregisterClient] Client: 0xd PlayerGUID: 76561198134462233
