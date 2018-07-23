@@ -1,0 +1,26 @@
+{
+  "BatchSize": 500,
+  "Categories": {
+    "floor": [
+      "assets/prefabs/building core/floor.frame/floor.frame.prefab",
+      "assets/prefabs/building core/floor.triangle/floor.triangle.prefab",
+      "assets/prefabs/building core/floor/floor.prefab"
+    ],
+    "foundation": [
+      "assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab",
+      "assets/prefabs/building core/foundation.steps/foundation.steps.prefab",
+      "assets/prefabs/building core/foundation/foundation.prefab"
+    ],
+    "other": [
+      "assets/prefabs/building core/roof/roof.prefab",
+      "assets/prefabs/building core/stairs.l/block.stair.lshape.prefab",
+      "assets/prefabs/building core/stairs.u/block.stair.ushape.prefab"
+    ],
+    "wall": [
+      "assets/prefabs/building core/wall.frame/wall.frame.prefab",
+      "assets/prefabs/building core/wall.window/wall.window.prefab",
+      "assets/prefabs/building core/wall.doorway/wall.doorway.prefab",
+      "assets/prefabs/building core/wall/wall.prefab"
+    ]
+  }
+}

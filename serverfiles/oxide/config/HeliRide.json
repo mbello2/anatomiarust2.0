@@ -1,0 +1,12 @@
+{
+  "BulletDamage": 50.0,
+  "Max Napalm Loaded": 36.0,
+  "Max Rockets Loaded": 36.0,
+  "RocketDelay": 0.2,
+  "RocketNapalmReloadTime": 20.0,
+  "ShowCockpitOverlay": true,
+  "ShowCrosshair": true,
+  "SpawnCrates": false,
+  "UseAutoVanish": false,
+  "UseParachutes": true
+}

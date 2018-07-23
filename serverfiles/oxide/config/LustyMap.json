@@ -1,0 +1,54 @@
+{
+  "Friend Options": {
+    "Allow custom friend lists from other plugins": true,
+    "Enable clans support": true,
+    "Enable friends support": true
+  },
+  "Map - Complex Options": {
+    "Enable the complex map": true,
+    "Force complex zoom mode": false,
+    "Forced zoom number (1, 2 or 3)": 1
+  },
+  "Map - Main Options": {
+    "Enable AFK tracking": true,
+    "Hide event players": true,
+    "Map image options": {
+      "Beancan.io API key (if applicable)": "",
+      "Custom map filename": "2292957-3000-Procedural_Map.jpg",
+      "Use custom map": true
+    },
+    "Map update time (seconds)": 1.0,
+    "Open map on for player's when they connect": true,
+    "Show map compass": true
+  },
+  "Map - Mini Options": {
+    "Enable the minimap": true,
+    "Minimap docked on the left side of the screen": true,
+    "Minimap horizontal scale": 1.0,
+    "Minimap offset from side of the screen": 0.0,
+    "Minimap offset from top of the screen": 0.0,
+    "Minimap vertical scale": 1.0
+  },
+  "Marker Options": {
+    "Show all players": false,
+    "Show cars (un-occupied only)": true,
+    "Show caves": false,
+    "Show debris": false,
+    "Show friends and clanmates": true,
+    "Show helicopters": true,
+    "Show marker names": true,
+    "Show monuments": true,
+    "Show planes": true,
+    "Show self": true,
+    "Show supply drops": true,
+    "Show tanks": true,
+    "Show vending machines (public broadcast only)": true
+  },
+  "Spam Options": {
+    "Allowed time between map changes": 3,
+    "Amount of time a users map will be disabled": 120,
+    "Attempts before disabling the users map": 10,
+    "Attempts before warning the user they are spamming": 5,
+    "Enable spam monitoring": true
+  }
+}

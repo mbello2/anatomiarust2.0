@@ -1,0 +1,14 @@
+{
+  "Copy Options": {
+    "Check radius from each entity (true/false)": true,
+    "Share (true/false)": false,
+    "Tree (true/false)": false
+  },
+  "Paste Options": {
+    "Auth (true/false)": false,
+    "Deployables (true/false)": true,
+    "Inventories (true/false)": true,
+    "Vending Machines (true/false)": true,
+    "Stability (true/false)": true
+  }
+}

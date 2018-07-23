@@ -1,0 +1,23 @@
+{
+  "strikeConfirmed": "Airstrike confirmed at co-ordinates: {0}",
+  "squadConfirmed": "Squadstrike confirmed at co-ordinates: {0}",
+  "strikeInbound": "Airstrike inbound!",
+  "squadInbound": "Squadstrike inbound!",
+  "buyItem": "You need another {0} {1} to buy this strike",
+  "help1": "/airstrike signal strike - Use a supply signal to mark a airstrike position",
+  "help2": "/airstrike signal squad - Use a supply signal to mark a squadstrike position",
+  "help3": "/airstrike buy strike - Purchase a airstrike on your position",
+  "help4": "/airstrike buy squad - Purchase a squadstrike on your position",
+  "help5": "/airstrike call strike - Call a airstrike on your position",
+  "help6": "/airstrike call strike <x> <z> - Call a airstrike to the target position",
+  "help7": "/airstrike call strike <player name> - Call a airstrike to the target player",
+  "help8": "/airstrike call squad - Call a squadstrike on your position",
+  "help9": "/airstrike call squad <x> <z> - Call a squadstrike to the target position",
+  "help10": "/airstrike call squad <player name> - Call a squadstrike to the target player",
+  "onCooldown": "You must wait another {0} before calling this type again",
+  "noPerms": "You do not have permission to use that strike type",
+  "signalReady": "Throw a supply signal to call a strike",
+  "invCoords": "Invalid co-ordinates set. You must enter number values for X and Z",
+  "multiplePlayers": "Multiple players found",
+  "noPlayers": "No players found"
+}

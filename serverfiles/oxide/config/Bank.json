@@ -1,0 +1,20 @@
+{
+  "Settings": {
+    "boxes": {
+      "bank.big": "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab",
+      "bank.default": "assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab"
+    },
+    "cooldownMinutes": 5,
+    "defaultBox": "assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab",
+    "defaultSlots": 4,
+    "keyring": true,
+    "NPCBankersOnly": false,
+    "NPCIDs": [],
+    "radiationMax": 1,
+    "slots": {
+      "bank.big": 30,
+      "bank.default": 4
+    }
+  },
+  "VERSION": "0.1.6"
+}

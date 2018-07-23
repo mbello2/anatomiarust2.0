@@ -1,0 +1,6 @@
+{
+  "Inform On Attack (true/false)": true,
+  "Name Prefix (Default [God])": "[God]",
+  "Show Name Prefix (true/false)": true,
+  "Time Limit (Seconds, 0 to Disable)": 0
+}

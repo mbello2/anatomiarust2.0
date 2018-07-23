@@ -1,0 +1,4 @@
+{
+  "Supply Signal Thrown": "<color=orange>{player}</color> has thrown a supply signal at <color=orange>{position}</color>",
+  "Position Format": "( X: {x}, Y: {y}, Z: {z} )"
+}

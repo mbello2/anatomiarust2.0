@@ -1,0 +1,23 @@
+{
+  "Permission": "You don't have permission to use that command",
+  "Error.InvalidArgs": "Invalid arguments, please use /{0} help",
+  "Error.Resources": "You don't have enough resources to upgrade.",
+  "Error.InvalidTime": "Please enter a valid time. '<color=orange>{0}</color>' is not recognised as a number.",
+  "Error.TimerTooLong": "Please enter a time that is below the value of <color=orange>{0}</color>.",
+  "Notice.SetGrade": "Automatic upgrading is now set to grade <color=orange>{0}</color>.",
+  "Notice.SetTime": "The disable timer is now set to <color=orange>{0}</color>.",
+  "Notice.Disabled": "Automatic upgrading is now disabled.",
+  "Notice.Disabled.Auto": "Automatic upgrading has been automatically disabled.",
+  "Notice.Time": "It'll automatically disable in <color=orange>{0}</color> seconds.",
+  "Command.Help": "<color=orange><size=16>BGrade Command Usages</size></color>",
+  "Command.Help.0": "/{0} 0 - Disables BGrade",
+  "Command.Help.1": "/{0} 1 - Upgrades to Wood upon placement",
+  "Command.Help.2": "/{0} 2 - Upgrades to Stone upon placement",
+  "Command.Help.3": "/{0} 3 - Upgrades to Metal upon placement",
+  "Command.Help.4": "/{0} 4 - Upgrades to Armoured upon placement",
+  "Command.Help.T": "/{0} t <seconds> - Time until BGrade is disabled",
+  "Command.Settings": "<color=orange><size=16>Your current settings</size></color>",
+  "Command.Settings.Timer": "Timer: <color=orange>{0}</color> seconds",
+  "Command.Settings.Grade": "Grade: <color=orange>{0}</color>",
+  "Words.Disabled": "disabled"
+}

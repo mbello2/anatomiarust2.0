@@ -1,0 +1,23 @@
+{
+  "No Permission": "You don't have permission to use this command.",
+  "No Reason": "Unknown reason",
+  "Muted": "{player} was muted by {initiator}: {reason}.",
+  "Muted Time": "{player} was muted by {initiator} for {time}: {reason}.",
+  "Unmuted": "{player} was unmuted by {initiator}.",
+  "Not Muted": "{player} is currently not muted.",
+  "Mute Expired": "{player} is no longer muted.",
+  "Invalid Time Format": "Invalid time format. Example: 1d2h3m4s = 1 day, 2 hours, 3 min, 4 sec",
+  "Nobody Muted": "There is nobody muted at the moment.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Could not find player with name '{name}'",
+  "Player ID Not Found": "Could not find player with ID '{id}'",
+  "Multiple Players Found": "Multiple matching players found: \n{matches}",
+  "Time Muted Player Joined": "{player} is temporarily muted. Remaining time: {time}",
+  "Time Muted Player Chat": "You may not chat, you are temporarily muted. Remaining time: {time}",
+  "Muted Player Joined": "{player} is permanently muted.",
+  "Muted Player Chat": "You may not chat, you are permanently muted.",
+  "Global Mute Enabled": "Global mute was enabled. Nobody can chat while global mute is active.",
+  "Global Mute Disabled": "Global mute was disabled. Everybody can chat again.",
+  "Global Mute Active": "Global mute is active, you may not chat."
+}

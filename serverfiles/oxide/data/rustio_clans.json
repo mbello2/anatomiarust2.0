@@ -1,0 +1,73 @@
+{
+  "clans": {
+    "arg": {
+      "description": "love",
+      "invited": [],
+      "members": [
+        "76561198157233387",
+        "76561198191044726"
+      ],
+      "moderators": [],
+      "owner": "76561198157233387",
+      "tag": "arg"
+    },
+    "FUTA": {
+      "description": "futagirls",
+      "invited": [],
+      "members": [
+        "76561198110550087",
+        "76561198135135687",
+        "76561198020173794"
+      ],
+      "moderators": [],
+      "owner": "76561198110550087",
+      "tag": "FUTA"
+    },
+    "meme": {
+      "description": "lol",
+      "invited": [],
+      "members": [
+        "76561198823607470",
+        "76561198161247685"
+      ],
+      "moderators": [],
+      "owner": "76561198823607470",
+      "tag": "meme"
+    },
+    "Paphu": {
+      "description": "mola",
+      "invited": [],
+      "members": [
+        "76561198273991836",
+        "76561198399320311"
+      ],
+      "moderators": [
+        "76561198399320311"
+      ],
+      "owner": "76561198273991836",
+      "tag": "Paphu"
+    },
+    "SKL": {
+      "description": "VIVENDO E APRENDENDO",
+      "invited": [],
+      "members": [
+        "76561198360164120",
+        "76561198350840720"
+      ],
+      "moderators": [],
+      "owner": "76561198360164120",
+      "tag": "SKL"
+    },
+    "ZTC": {
+      "description": "Zootecria",
+      "invited": [],
+      "members": [
+        "76561198135193562",
+        "76561198121046141"
+      ],
+      "moderators": [],
+      "owner": "76561198135193562",
+      "tag": "ZTC"
+    }
+  }
+}

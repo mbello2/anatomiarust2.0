@@ -1,0 +1,17 @@
+{
+  "is_flying": "<color=#D3D3D3>You can not enter the tank when you are flying</color>",
+  "in_use": "<color=#D3D3D3>This tank is already in use</color>",
+  "not_friend": "<color=#D3D3D3>You must be a friend or clanmate with the operator</color>",
+  "passenger_enter": "<color=#D3D3D3>You have entered the tank as a passenger</color>",
+  "controls": "<color=#ce422b>Tank Controls:</color>",
+  "fire_cannon": "<color=#D3D3D3>Fire Cannon </color><color=#ce422b>{0}</color>",
+  "fire_coax": "<color=#D3D3D3>Fire Coaxial Gun </color><color=#ce422b>{0}</color>",
+  "fire_mg": "<color=#D3D3D3>Fire MG </color><color=#ce422b>{0}</color>",
+  "speed_boost": "<color=#D3D3D3>Speed Boost </color><color=#ce422b>{0}</color>",
+  "enter_exit": "<color=#D3D3D3>Enter/Exit Vehicle </color><color=#ce422b>{0}</color>",
+  "toggle_lights": "<color=#D3D3D3>Toggle Lights </color><color=#ce422b>{0}</color>",
+  "access_inventory": "<color=#D3D3D3>Access Inventory (from outside of the vehicle) </color><color=#ce422b>{0}</color>",
+  "no_ammo_cannon": "<color=#D3D3D3>You do not have ammunition to fire the cannon. It requires </color><color=#ce422b>{0}</color>",
+  "no_ammo_mg": "<color=#D3D3D3>You do not have ammunition to fire the machine gun. It requires </color><color=#ce422b>{0}</color>",
+  "no_ammo_coax": "<color=#D3D3D3>You do not have ammunition to fire the coaxial gun. It requires </color><color=#ce422b>{0}</color>"
+}

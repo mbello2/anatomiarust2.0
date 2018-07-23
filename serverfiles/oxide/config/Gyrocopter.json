@@ -1,0 +1,15 @@
+{
+  "Bomb - Amount of Explosive Damage to deal : ": 250.0,
+  "Bomb - Radius the damage will effect : ": 2.0,
+  "Deploy - Enable limited Gyrocopters per person : ": true,
+  "Deploy - Limit of Copters players can build : ": 1,
+  "Minimum Flight Altitude : ": 10.0,
+  "Movement - Normal - Cost (normal speeed) : ": 5,
+  "Movement - Sprint - Cost (fast speed) : ": 20,
+  "Only the Builder (owner) of copter can lock paint job : ": true,
+  "Recharge - Base Rate : ": 1,
+  "Recharge - Bonus Substation Rate : ": 5,
+  "Recharge - Range - From substation (must be higher than Min Altitude) : ": 12.0,
+  "Speed - Normal Flight Speed is : ": 12.0,
+  "Speed - Sprint Flight Speed is : ": 25.0
+}

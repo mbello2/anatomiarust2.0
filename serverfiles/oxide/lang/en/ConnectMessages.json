@@ -1,0 +1,6 @@
+{
+  "ConnectMessage": "{0} has connected.",
+  "ConnectMessageCountry": "{0} has connected from {1}.",
+  "DisconnectMessage": "{0} has disconnected.",
+  "DisconnectMessageReason": "{0} has disconnected. ({1})"
+}

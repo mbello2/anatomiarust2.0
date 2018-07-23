@@ -1,0 +1,6 @@
+{
+  "ServerUpdated": "Server Update Released!",
+  "ClientUpdated": "Client Update Released. Go Update Your Client!",
+  "StagingUpdated": "Staging Update Released!",
+  "FailedToCheckUpdates": "Failed to check for RUST updates, if this keeps happening please contact the developer."
+}

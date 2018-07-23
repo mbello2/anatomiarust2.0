@@ -1,0 +1,2454 @@
+{
+  "ADMINRESET": false,
+  "ALLOWEDENTITIES": [
+    "furnace",
+    "furnace.large",
+    "refinery_small_deployed",
+    "campfire",
+    "bbq"
+  ],
+  "CHATPREFIX": "<color=lightblue>Hunt</color>: {0}",
+  "DATA_VERSION": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 1
+  },
+  "DEATHREDUCER": 0.05,
+  "DEFAULTHUD": 1,
+  "Defaults": {
+    "SkillPointsGain": 1.0975,
+    "SkillPointsPerLevel": 2,
+    "StatPointsGain": 1.015,
+    "StatPointsPerLevel": 3
+  },
+  "DeleteProfileAfterOfflineDays": 0,
+  "EXPRATETABLE": {
+    "Tree": 0.5,
+    "Ore": 0.5,
+    "Flesh": 5.0
+  },
+  "ITEMTABLE": {
+    "ammo.handmade.shell": {
+      "CanResearch": true,
+      "DisplayName": "Handmade Shell",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.nailgun.nails": {
+      "CanResearch": true,
+      "DisplayName": "Nailgun Nails",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.pistol": {
+      "CanResearch": true,
+      "DisplayName": "Pistol Bullet",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.pistol.fire": {
+      "CanResearch": true,
+      "DisplayName": "Incendiary Pistol Bullet",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.pistol.hv": {
+      "CanResearch": true,
+      "DisplayName": "HV Pistol Ammo",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rifle": {
+      "CanResearch": true,
+      "DisplayName": "5.56 Rifle Ammo",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rifle.explosive": {
+      "CanResearch": true,
+      "DisplayName": "Explosive 5.56 Rifle Ammo",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rifle.hv": {
+      "CanResearch": true,
+      "DisplayName": "HV 5.56 Rifle Ammo",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rifle.incendiary": {
+      "CanResearch": true,
+      "DisplayName": "Incendiary 5.56 Rifle Ammo",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rocket.basic": {
+      "CanResearch": true,
+      "DisplayName": "Rocket",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rocket.fire": {
+      "CanResearch": true,
+      "DisplayName": "Incendiary Rocket",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rocket.hv": {
+      "CanResearch": true,
+      "DisplayName": "High Velocity Rocket",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.rocket.smoke": {
+      "CanResearch": true,
+      "DisplayName": "Smoke Rocket WIP!!!!",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.shotgun": {
+      "CanResearch": true,
+      "DisplayName": "12 Gauge Buckshot",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.shotgun.fire": {
+      "CanResearch": true,
+      "DisplayName": "12 Gauge Incendiary Shell",
+      "ItemCategory": "Ammunition"
+    },
+    "ammo.shotgun.slug": {
+      "CanResearch": true,
+      "DisplayName": "12 Gauge Slug",
+      "ItemCategory": "Ammunition"
+    },
+    "antiradpills": {
+      "CanResearch": true,
+      "DisplayName": "Anti-Radiation Pills",
+      "ItemCategory": "Medical"
+    },
+    "apple": {
+      "CanResearch": true,
+      "DisplayName": "Apple",
+      "ItemCategory": "Food"
+    },
+    "apple.spoiled": {
+      "CanResearch": true,
+      "DisplayName": "Rotten Apple",
+      "ItemCategory": "Food"
+    },
+    "arrow.bone": {
+      "CanResearch": true,
+      "DisplayName": "Bone Arrow",
+      "ItemCategory": "Ammunition"
+    },
+    "arrow.fire": {
+      "CanResearch": true,
+      "DisplayName": "Fire Arrow",
+      "ItemCategory": "Ammunition"
+    },
+    "arrow.hv": {
+      "CanResearch": true,
+      "DisplayName": "High Velocity Arrow",
+      "ItemCategory": "Ammunition"
+    },
+    "arrow.wooden": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Arrow",
+      "ItemCategory": "Ammunition"
+    },
+    "attire.hide.boots": {
+      "CanResearch": true,
+      "DisplayName": "Hide Boots",
+      "ItemCategory": "Attire"
+    },
+    "attire.hide.helterneck": {
+      "CanResearch": true,
+      "DisplayName": "Hide Halterneck",
+      "ItemCategory": "Attire"
+    },
+    "attire.hide.pants": {
+      "CanResearch": true,
+      "DisplayName": "Hide Pants",
+      "ItemCategory": "Attire"
+    },
+    "attire.hide.poncho": {
+      "CanResearch": true,
+      "DisplayName": "Hide Poncho",
+      "ItemCategory": "Attire"
+    },
+    "attire.hide.skirt": {
+      "CanResearch": true,
+      "DisplayName": "Hide Skirt",
+      "ItemCategory": "Attire"
+    },
+    "attire.hide.vest": {
+      "CanResearch": true,
+      "DisplayName": "Hide Vest",
+      "ItemCategory": "Attire"
+    },
+    "attire.reindeer.headband": {
+      "CanResearch": true,
+      "DisplayName": "Reindeer Antlers",
+      "ItemCategory": "Attire"
+    },
+    "autoturret": {
+      "CanResearch": true,
+      "DisplayName": "Auto Turret",
+      "ItemCategory": "Traps"
+    },
+    "axe.salvaged": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Axe",
+      "ItemCategory": "Tool"
+    },
+    "bandage": {
+      "CanResearch": true,
+      "DisplayName": "Bandage",
+      "ItemCategory": "Medical"
+    },
+    "barricade.concrete": {
+      "CanResearch": true,
+      "DisplayName": "Concrete Barricade",
+      "ItemCategory": "Construction"
+    },
+    "barricade.metal": {
+      "CanResearch": true,
+      "DisplayName": "Metal Barricade",
+      "ItemCategory": "Construction"
+    },
+    "barricade.sandbags": {
+      "CanResearch": true,
+      "DisplayName": "Sandbag Barricade",
+      "ItemCategory": "Construction"
+    },
+    "barricade.stone": {
+      "CanResearch": true,
+      "DisplayName": "Stone Barricade",
+      "ItemCategory": "Construction"
+    },
+    "barricade.wood": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Barricade",
+      "ItemCategory": "Construction"
+    },
+    "barricade.woodwire": {
+      "CanResearch": true,
+      "DisplayName": "Barbed Wooden Barricade",
+      "ItemCategory": "Construction"
+    },
+    "battery.small": {
+      "CanResearch": true,
+      "DisplayName": "Battery - Small",
+      "ItemCategory": "Resources"
+    },
+    "bbq": {
+      "CanResearch": true,
+      "DisplayName": "Barbeque",
+      "ItemCategory": "Items"
+    },
+    "bearmeat": {
+      "CanResearch": true,
+      "DisplayName": "Raw Bear Meat",
+      "ItemCategory": "Food"
+    },
+    "bearmeat.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Bear Meat",
+      "ItemCategory": "Food"
+    },
+    "bearmeat.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Bear Meat",
+      "ItemCategory": "Food"
+    },
+    "bed": {
+      "CanResearch": true,
+      "DisplayName": "Bed",
+      "ItemCategory": "Items"
+    },
+    "black.raspberries": {
+      "CanResearch": true,
+      "DisplayName": "Black Raspberries",
+      "ItemCategory": "Food"
+    },
+    "bleach": {
+      "CanResearch": true,
+      "DisplayName": "Bleach",
+      "ItemCategory": "Component"
+    },
+    "blood": {
+      "CanResearch": true,
+      "DisplayName": "Blood",
+      "ItemCategory": "Medical"
+    },
+    "blueberries": {
+      "CanResearch": true,
+      "DisplayName": "Blueberries",
+      "ItemCategory": "Food"
+    },
+    "blueprintbase": {
+      "CanResearch": true,
+      "DisplayName": "Blueprint",
+      "ItemCategory": "Misc"
+    },
+    "bone.armor.suit": {
+      "CanResearch": true,
+      "DisplayName": "Bone Armor",
+      "ItemCategory": "Attire"
+    },
+    "bone.club": {
+      "CanResearch": true,
+      "DisplayName": "Bone Club",
+      "ItemCategory": "Weapon"
+    },
+    "bone.fragments": {
+      "CanResearch": true,
+      "DisplayName": "Bone Fragments",
+      "ItemCategory": "Resources"
+    },
+    "boots.frog": {
+      "CanResearch": true,
+      "DisplayName": "Frog Boots",
+      "ItemCategory": "Attire"
+    },
+    "botabag": {
+      "CanResearch": true,
+      "DisplayName": "Bota Bag",
+      "ItemCategory": "Items"
+    },
+    "bow.hunting": {
+      "CanResearch": true,
+      "DisplayName": "Hunting Bow",
+      "ItemCategory": "Weapon"
+    },
+    "box.repair.bench": {
+      "CanResearch": true,
+      "DisplayName": "Repair Bench",
+      "ItemCategory": "Items"
+    },
+    "box.wooden": {
+      "CanResearch": true,
+      "DisplayName": "Wood Storage Box",
+      "ItemCategory": "Items"
+    },
+    "box.wooden.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Wood Box",
+      "ItemCategory": "Items"
+    },
+    "bucket.helmet": {
+      "CanResearch": true,
+      "DisplayName": "Bucket Helmet",
+      "ItemCategory": "Attire"
+    },
+    "bucket.water": {
+      "CanResearch": true,
+      "DisplayName": "Water Bucket",
+      "ItemCategory": "Tool"
+    },
+    "building.planner": {
+      "CanResearch": true,
+      "DisplayName": "Building Plan",
+      "ItemCategory": "Construction"
+    },
+    "burlap.gloves": {
+      "CanResearch": true,
+      "DisplayName": "Leather Gloves",
+      "ItemCategory": "Attire"
+    },
+    "burlap.headwrap": {
+      "CanResearch": true,
+      "DisplayName": "Burlap Headwrap",
+      "ItemCategory": "Attire"
+    },
+    "burlap.shirt": {
+      "CanResearch": true,
+      "DisplayName": "Burlap Shirt",
+      "ItemCategory": "Attire"
+    },
+    "burlap.shoes": {
+      "CanResearch": true,
+      "DisplayName": "Burlap Shoes",
+      "ItemCategory": "Attire"
+    },
+    "burlap.trousers": {
+      "CanResearch": true,
+      "DisplayName": "Burlap Trousers",
+      "ItemCategory": "Attire"
+    },
+    "cactusflesh": {
+      "CanResearch": true,
+      "DisplayName": "Cactus Flesh",
+      "ItemCategory": "Food"
+    },
+    "campfire": {
+      "CanResearch": true,
+      "DisplayName": "Camp Fire",
+      "ItemCategory": "Items"
+    },
+    "can.beans": {
+      "CanResearch": true,
+      "DisplayName": "Can of Beans",
+      "ItemCategory": "Food"
+    },
+    "can.beans.empty": {
+      "CanResearch": true,
+      "DisplayName": "Empty Can Of Beans",
+      "ItemCategory": "Resources"
+    },
+    "can.tuna": {
+      "CanResearch": true,
+      "DisplayName": "Can of Tuna",
+      "ItemCategory": "Food"
+    },
+    "can.tuna.empty": {
+      "CanResearch": true,
+      "DisplayName": "Empty Tuna Can",
+      "ItemCategory": "Resources"
+    },
+    "candycane": {
+      "CanResearch": true,
+      "DisplayName": "Candy Cane",
+      "ItemCategory": "Food"
+    },
+    "candycaneclub": {
+      "CanResearch": true,
+      "DisplayName": "Candy Cane Club",
+      "ItemCategory": "Weapon"
+    },
+    "cctv.camera": {
+      "CanResearch": true,
+      "DisplayName": "CCTV Camera",
+      "ItemCategory": "Resources"
+    },
+    "ceilinglight": {
+      "CanResearch": true,
+      "DisplayName": "Ceiling Light",
+      "ItemCategory": "Items"
+    },
+    "chainsaw": {
+      "CanResearch": true,
+      "DisplayName": "Chainsaw",
+      "ItemCategory": "Tool"
+    },
+    "chair": {
+      "CanResearch": true,
+      "DisplayName": "Chair",
+      "ItemCategory": "Items"
+    },
+    "charcoal": {
+      "CanResearch": true,
+      "DisplayName": "Charcoal",
+      "ItemCategory": "Resources"
+    },
+    "chicken.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Chicken",
+      "ItemCategory": "Food"
+    },
+    "chicken.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Chicken",
+      "ItemCategory": "Food"
+    },
+    "chicken.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Chicken Breast",
+      "ItemCategory": "Food"
+    },
+    "chicken.spoiled": {
+      "CanResearch": true,
+      "DisplayName": "Spoiled Chicken",
+      "ItemCategory": "Food"
+    },
+    "chocholate": {
+      "CanResearch": true,
+      "DisplayName": "Chocolate Bar",
+      "ItemCategory": "Food"
+    },
+    "clone.corn": {
+      "CanResearch": true,
+      "DisplayName": "Corn Clone",
+      "ItemCategory": "Food"
+    },
+    "clone.hemp": {
+      "CanResearch": true,
+      "DisplayName": "Hemp Clone",
+      "ItemCategory": "Food"
+    },
+    "clone.pumpkin": {
+      "CanResearch": true,
+      "DisplayName": "Pumpkin Plant Clone",
+      "ItemCategory": "Food"
+    },
+    "cloth": {
+      "CanResearch": true,
+      "DisplayName": "Cloth",
+      "ItemCategory": "Resources"
+    },
+    "coal": {
+      "CanResearch": true,
+      "DisplayName": "Coal :(",
+      "ItemCategory": "Resources"
+    },
+    "coffeecan.helmet": {
+      "CanResearch": true,
+      "DisplayName": "Coffee Can Helmet",
+      "ItemCategory": "Attire"
+    },
+    "corn": {
+      "CanResearch": true,
+      "DisplayName": "Corn",
+      "ItemCategory": "Food"
+    },
+    "crossbow": {
+      "CanResearch": true,
+      "DisplayName": "Crossbow",
+      "ItemCategory": "Weapon"
+    },
+    "crude.oil": {
+      "CanResearch": true,
+      "DisplayName": "Crude Oil",
+      "ItemCategory": "Resources"
+    },
+    "cupboard.tool": {
+      "CanResearch": true,
+      "DisplayName": "Tool Cupboard",
+      "ItemCategory": "Construction"
+    },
+    "deer.skull.mask": {
+      "CanResearch": true,
+      "DisplayName": "Bone Helmet",
+      "ItemCategory": "Attire"
+    },
+    "deermeat.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Deer Meat",
+      "ItemCategory": "Food"
+    },
+    "deermeat.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Deer Meat",
+      "ItemCategory": "Food"
+    },
+    "deermeat.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Deer Meat",
+      "ItemCategory": "Food"
+    },
+    "diving.fins": {
+      "CanResearch": true,
+      "DisplayName": "Diving Fins",
+      "ItemCategory": "Attire"
+    },
+    "diving.mask": {
+      "CanResearch": true,
+      "DisplayName": "Diving Mask",
+      "ItemCategory": "Attire"
+    },
+    "diving.tank": {
+      "CanResearch": true,
+      "DisplayName": "Diving Tank",
+      "ItemCategory": "Attire"
+    },
+    "diving.wetsuit": {
+      "CanResearch": true,
+      "DisplayName": "Wetsuit",
+      "ItemCategory": "Attire"
+    },
+    "door.closer": {
+      "CanResearch": true,
+      "DisplayName": "Door Closer",
+      "ItemCategory": "Construction"
+    },
+    "door.double.hinged.metal": {
+      "CanResearch": true,
+      "DisplayName": "Sheet Metal Double Door",
+      "ItemCategory": "Construction"
+    },
+    "door.double.hinged.toptier": {
+      "CanResearch": true,
+      "DisplayName": "Armored Double Door",
+      "ItemCategory": "Construction"
+    },
+    "door.double.hinged.wood": {
+      "CanResearch": true,
+      "DisplayName": "Wood Double Door",
+      "ItemCategory": "Construction"
+    },
+    "door.hinged.metal": {
+      "CanResearch": true,
+      "DisplayName": "Sheet Metal Door",
+      "ItemCategory": "Construction"
+    },
+    "door.hinged.toptier": {
+      "CanResearch": true,
+      "DisplayName": "Armored Door",
+      "ItemCategory": "Construction"
+    },
+    "door.hinged.wood": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Door",
+      "ItemCategory": "Construction"
+    },
+    "door.key": {
+      "CanResearch": true,
+      "DisplayName": "Door Key",
+      "ItemCategory": "Misc"
+    },
+    "dropbox": {
+      "CanResearch": true,
+      "DisplayName": "Drop Box",
+      "ItemCategory": "Items"
+    },
+    "ducttape": {
+      "CanResearch": true,
+      "DisplayName": "Duct Tape",
+      "ItemCategory": "Component"
+    },
+    "explosive.satchel": {
+      "CanResearch": true,
+      "DisplayName": "Satchel Charge",
+      "ItemCategory": "Tool"
+    },
+    "explosive.timed": {
+      "CanResearch": true,
+      "DisplayName": "Timed Explosive Charge",
+      "ItemCategory": "Tool"
+    },
+    "explosives": {
+      "CanResearch": true,
+      "DisplayName": "Explosives",
+      "ItemCategory": "Resources"
+    },
+    "facialhair.style01": {
+      "CanResearch": true,
+      "DisplayName": "m-facialhair01",
+      "ItemCategory": "Attire"
+    },
+    "fat.animal": {
+      "CanResearch": true,
+      "DisplayName": "Animal Fat",
+      "ItemCategory": "Resources"
+    },
+    "female_hairstyle_01": {
+      "CanResearch": true,
+      "DisplayName": "f-hairstyle-1",
+      "ItemCategory": "Attire"
+    },
+    "female_hairstyle_02": {
+      "CanResearch": true,
+      "DisplayName": "f-hairstyle-2",
+      "ItemCategory": "Attire"
+    },
+    "female_hairstyle_03": {
+      "CanResearch": true,
+      "DisplayName": "f-hairstyle-3",
+      "ItemCategory": "Attire"
+    },
+    "female_hairstyle_05": {
+      "CanResearch": true,
+      "DisplayName": "f-hairstyle-5",
+      "ItemCategory": "Attire"
+    },
+    "femalearmpithair.style01": {
+      "CanResearch": true,
+      "DisplayName": "f-armpit01",
+      "ItemCategory": "Attire"
+    },
+    "femaleeyebrow.style01": {
+      "CanResearch": true,
+      "DisplayName": "f-eyebrow01",
+      "ItemCategory": "Attire"
+    },
+    "femalepubichair.style01": {
+      "CanResearch": true,
+      "DisplayName": "f-pubic01",
+      "ItemCategory": "Attire"
+    },
+    "fireplace.stone": {
+      "CanResearch": true,
+      "DisplayName": "Stone Fireplace",
+      "ItemCategory": "Items"
+    },
+    "fish.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Fish",
+      "ItemCategory": "Food"
+    },
+    "fish.minnows": {
+      "CanResearch": true,
+      "DisplayName": "Minnows",
+      "ItemCategory": "Food"
+    },
+    "fish.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Fish",
+      "ItemCategory": "Food"
+    },
+    "fish.troutsmall": {
+      "CanResearch": true,
+      "DisplayName": "Small Trout",
+      "ItemCategory": "Food"
+    },
+    "fishingrod.handmade": {
+      "CanResearch": true,
+      "DisplayName": "Handmade Fishing Rod",
+      "ItemCategory": "Weapon"
+    },
+    "fishtrap.small": {
+      "CanResearch": true,
+      "DisplayName": "Survival Fish Trap",
+      "ItemCategory": "Items"
+    },
+    "flamethrower": {
+      "CanResearch": true,
+      "DisplayName": "Flame Thrower",
+      "ItemCategory": "Weapon"
+    },
+    "flameturret": {
+      "CanResearch": true,
+      "DisplayName": "Flame Turret",
+      "ItemCategory": "Traps"
+    },
+    "flare": {
+      "CanResearch": true,
+      "DisplayName": "Flare",
+      "ItemCategory": "Tool"
+    },
+    "flashlight.held": {
+      "CanResearch": true,
+      "DisplayName": "Flashlight",
+      "ItemCategory": "Tool"
+    },
+    "floor.grill": {
+      "CanResearch": true,
+      "DisplayName": "Floor grill",
+      "ItemCategory": "Construction"
+    },
+    "floor.ladder.hatch": {
+      "CanResearch": true,
+      "DisplayName": "Ladder Hatch",
+      "ItemCategory": "Construction"
+    },
+    "fridge": {
+      "CanResearch": true,
+      "DisplayName": "Fridge",
+      "ItemCategory": "Items"
+    },
+    "fun.guitar": {
+      "CanResearch": true,
+      "DisplayName": "Acoustic Guitar",
+      "ItemCategory": "Misc"
+    },
+    "furnace": {
+      "CanResearch": true,
+      "DisplayName": "Furnace",
+      "ItemCategory": "Items"
+    },
+    "furnace.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Furnace",
+      "ItemCategory": "Items"
+    },
+    "fuse": {
+      "CanResearch": true,
+      "DisplayName": "Electric Fuse",
+      "ItemCategory": "Component"
+    },
+    "gates.external.high.stone": {
+      "CanResearch": true,
+      "DisplayName": "High External Stone Gate",
+      "ItemCategory": "Construction"
+    },
+    "gates.external.high.wood": {
+      "CanResearch": true,
+      "DisplayName": "High External Wooden Gate",
+      "ItemCategory": "Construction"
+    },
+    "gears": {
+      "CanResearch": true,
+      "DisplayName": "Gears",
+      "ItemCategory": "Component"
+    },
+    "geiger.counter": {
+      "CanResearch": true,
+      "DisplayName": "Geiger Counter",
+      "ItemCategory": "Tool"
+    },
+    "generator.wind.scrap": {
+      "CanResearch": true,
+      "DisplayName": "Wind Turbine",
+      "ItemCategory": "Construction"
+    },
+    "gloweyes": {
+      "CanResearch": true,
+      "DisplayName": "Glowing Eyes",
+      "ItemCategory": "Attire"
+    },
+    "glue": {
+      "CanResearch": true,
+      "DisplayName": "Glue",
+      "ItemCategory": "Component"
+    },
+    "granolabar": {
+      "CanResearch": true,
+      "DisplayName": "Granola Bar",
+      "ItemCategory": "Food"
+    },
+    "grenade.beancan": {
+      "CanResearch": true,
+      "DisplayName": "Beancan Grenade",
+      "ItemCategory": "Weapon"
+    },
+    "grenade.f1": {
+      "CanResearch": true,
+      "DisplayName": "F1 Grenade",
+      "ItemCategory": "Weapon"
+    },
+    "gunpowder": {
+      "CanResearch": true,
+      "DisplayName": "Gun Powder",
+      "ItemCategory": "Resources"
+    },
+    "guntrap": {
+      "CanResearch": true,
+      "DisplayName": "Shotgun Trap",
+      "ItemCategory": "Traps"
+    },
+    "hammer": {
+      "CanResearch": true,
+      "DisplayName": "Hammer",
+      "ItemCategory": "Tool"
+    },
+    "hammer.salvaged": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Hammer",
+      "ItemCategory": "Tool"
+    },
+    "hat.beenie": {
+      "CanResearch": true,
+      "DisplayName": "Beenie Hat",
+      "ItemCategory": "Attire"
+    },
+    "hat.boonie": {
+      "CanResearch": true,
+      "DisplayName": "Boonie Hat",
+      "ItemCategory": "Attire"
+    },
+    "hat.candle": {
+      "CanResearch": true,
+      "DisplayName": "Candle Hat",
+      "ItemCategory": "Attire"
+    },
+    "hat.cap": {
+      "CanResearch": true,
+      "DisplayName": "Baseball Cap",
+      "ItemCategory": "Attire"
+    },
+    "hat.miner": {
+      "CanResearch": true,
+      "DisplayName": "Miners Hat",
+      "ItemCategory": "Attire"
+    },
+    "hat.wolf": {
+      "CanResearch": true,
+      "DisplayName": "Wolf Headdress",
+      "ItemCategory": "Attire"
+    },
+    "hatchet": {
+      "CanResearch": true,
+      "DisplayName": "Hatchet",
+      "ItemCategory": "Tool"
+    },
+    "hazmatsuit": {
+      "CanResearch": true,
+      "DisplayName": "Hazmat Suit",
+      "ItemCategory": "Attire"
+    },
+    "hazmatsuit_scientist": {
+      "CanResearch": true,
+      "DisplayName": "Scientist Suit",
+      "ItemCategory": "Attire"
+    },
+    "hazmatsuit_scientist_peacekeeper": {
+      "CanResearch": true,
+      "DisplayName": "Scientist Suit",
+      "ItemCategory": "Attire"
+    },
+    "heavy.plate.helmet": {
+      "CanResearch": true,
+      "DisplayName": "Heavy Plate Helmet",
+      "ItemCategory": "Attire"
+    },
+    "heavy.plate.jacket": {
+      "CanResearch": true,
+      "DisplayName": "Heavy Plate Jacket",
+      "ItemCategory": "Attire"
+    },
+    "heavy.plate.pants": {
+      "CanResearch": true,
+      "DisplayName": "Heavy Plate Pants",
+      "ItemCategory": "Attire"
+    },
+    "hoodie": {
+      "CanResearch": true,
+      "DisplayName": "Hoodie",
+      "ItemCategory": "Attire"
+    },
+    "horsemeat.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Horse Meat",
+      "ItemCategory": "Food"
+    },
+    "horsemeat.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Horse Meat",
+      "ItemCategory": "Food"
+    },
+    "horsemeat.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Horse Meat",
+      "ItemCategory": "Food"
+    },
+    "hq.metal.ore": {
+      "CanResearch": true,
+      "DisplayName": "High Quality Metal Ore",
+      "ItemCategory": "Resources"
+    },
+    "humanmeat.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Human Meat",
+      "ItemCategory": "Food"
+    },
+    "humanmeat.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Human Meat",
+      "ItemCategory": "Food"
+    },
+    "humanmeat.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Human Meat",
+      "ItemCategory": "Food"
+    },
+    "humanmeat.spoiled": {
+      "CanResearch": true,
+      "DisplayName": "Spoiled Human Meat",
+      "ItemCategory": "Food"
+    },
+    "icepick.salvaged": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Icepick",
+      "ItemCategory": "Tool"
+    },
+    "jacket": {
+      "CanResearch": true,
+      "DisplayName": "Jacket",
+      "ItemCategory": "Attire"
+    },
+    "jacket.snow": {
+      "CanResearch": true,
+      "DisplayName": "Snow Jacket - Red",
+      "ItemCategory": "Attire"
+    },
+    "jackolantern.angry": {
+      "CanResearch": true,
+      "DisplayName": "Jack O Lantern Angry",
+      "ItemCategory": "Items"
+    },
+    "jackolantern.happy": {
+      "CanResearch": true,
+      "DisplayName": "Jack O Lantern Happy",
+      "ItemCategory": "Items"
+    },
+    "jar.pickle": {
+      "CanResearch": true,
+      "DisplayName": "Pickles",
+      "ItemCategory": "Food"
+    },
+    "keycard_blue": {
+      "CanResearch": true,
+      "DisplayName": "Blue Keycard",
+      "ItemCategory": "Misc"
+    },
+    "keycard_green": {
+      "CanResearch": true,
+      "DisplayName": "Green Keycard",
+      "ItemCategory": "Misc"
+    },
+    "keycard_red": {
+      "CanResearch": true,
+      "DisplayName": "Red Keycard",
+      "ItemCategory": "Misc"
+    },
+    "knife.bone": {
+      "CanResearch": true,
+      "DisplayName": "Bone Knife",
+      "ItemCategory": "Weapon"
+    },
+    "ladder.wooden.wall": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Ladder",
+      "ItemCategory": "Construction"
+    },
+    "lantern": {
+      "CanResearch": true,
+      "DisplayName": "Lantern",
+      "ItemCategory": "Items"
+    },
+    "largemedkit": {
+      "CanResearch": true,
+      "DisplayName": "Large Medkit",
+      "ItemCategory": "Medical"
+    },
+    "leather": {
+      "CanResearch": true,
+      "DisplayName": "Leather",
+      "ItemCategory": "Resources"
+    },
+    "lmg.m249": {
+      "CanResearch": true,
+      "DisplayName": "M249",
+      "ItemCategory": "Weapon"
+    },
+    "lock.code": {
+      "CanResearch": true,
+      "DisplayName": "Code Lock",
+      "ItemCategory": "Construction"
+    },
+    "lock.key": {
+      "CanResearch": true,
+      "DisplayName": "Key Lock",
+      "ItemCategory": "Construction"
+    },
+    "locker": {
+      "CanResearch": true,
+      "DisplayName": "Locker",
+      "ItemCategory": "Items"
+    },
+    "longsword": {
+      "CanResearch": true,
+      "DisplayName": "Longsword",
+      "ItemCategory": "Weapon"
+    },
+    "lowgradefuel": {
+      "CanResearch": true,
+      "DisplayName": "Low Grade Fuel",
+      "ItemCategory": "Resources"
+    },
+    "mace": {
+      "CanResearch": true,
+      "DisplayName": "Mace",
+      "ItemCategory": "Weapon"
+    },
+    "machete": {
+      "CanResearch": true,
+      "DisplayName": "Machete",
+      "ItemCategory": "Weapon"
+    },
+    "mailbox": {
+      "CanResearch": true,
+      "DisplayName": "Mail Box",
+      "ItemCategory": "Items"
+    },
+    "male.facialhair.style02": {
+      "CanResearch": true,
+      "DisplayName": "m-facialhair02",
+      "ItemCategory": "Attire"
+    },
+    "male.facialhair.style03": {
+      "CanResearch": true,
+      "DisplayName": "m-facialhair03",
+      "ItemCategory": "Attire"
+    },
+    "male.facialhair.style04": {
+      "CanResearch": true,
+      "DisplayName": "m-facialhair04",
+      "ItemCategory": "Attire"
+    },
+    "male_hairstyle_01": {
+      "CanResearch": true,
+      "DisplayName": "m-hairstyle-1",
+      "ItemCategory": "Attire"
+    },
+    "male_hairstyle_02": {
+      "CanResearch": true,
+      "DisplayName": "m-hairstyle-2",
+      "ItemCategory": "Attire"
+    },
+    "male_hairstyle_03": {
+      "CanResearch": true,
+      "DisplayName": "m-hairstyle-3",
+      "ItemCategory": "Attire"
+    },
+    "male_hairstyle_04": {
+      "CanResearch": true,
+      "DisplayName": "m-hairstyle-4",
+      "ItemCategory": "Attire"
+    },
+    "male_hairstyle_05": {
+      "CanResearch": true,
+      "DisplayName": "m-hairstyle-5",
+      "ItemCategory": "Attire"
+    },
+    "malearmpithair.style01": {
+      "CanResearch": true,
+      "DisplayName": "m-armpit01",
+      "ItemCategory": "Attire"
+    },
+    "maleeyebrow.style01": {
+      "CanResearch": true,
+      "DisplayName": "m-eyebrow01",
+      "ItemCategory": "Attire"
+    },
+    "malepubichair.style01": {
+      "CanResearch": true,
+      "DisplayName": "m-pubic01",
+      "ItemCategory": "Attire"
+    },
+    "map": {
+      "CanResearch": true,
+      "DisplayName": "Paper Map",
+      "ItemCategory": "Items"
+    },
+    "mask.balaclava": {
+      "CanResearch": true,
+      "DisplayName": "Improvised Balaclava",
+      "ItemCategory": "Attire"
+    },
+    "mask.bandana": {
+      "CanResearch": true,
+      "DisplayName": "Bandana Mask",
+      "ItemCategory": "Attire"
+    },
+    "meat.boar": {
+      "CanResearch": true,
+      "DisplayName": "Raw Pork",
+      "ItemCategory": "Food"
+    },
+    "meat.pork.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Pork",
+      "ItemCategory": "Food"
+    },
+    "meat.pork.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Pork",
+      "ItemCategory": "Food"
+    },
+    "metal.facemask": {
+      "CanResearch": true,
+      "DisplayName": "Metal Facemask",
+      "ItemCategory": "Attire"
+    },
+    "metal.fragments": {
+      "CanResearch": true,
+      "DisplayName": "Metal Fragments",
+      "ItemCategory": "Resources"
+    },
+    "metal.ore": {
+      "CanResearch": true,
+      "DisplayName": "Metal Ore",
+      "ItemCategory": "Resources"
+    },
+    "metal.plate.torso": {
+      "CanResearch": true,
+      "DisplayName": "Metal Chest Plate",
+      "ItemCategory": "Attire"
+    },
+    "metal.refined": {
+      "CanResearch": true,
+      "DisplayName": "High Quality Metal",
+      "ItemCategory": "Resources"
+    },
+    "metalblade": {
+      "CanResearch": true,
+      "DisplayName": "Metal Blade",
+      "ItemCategory": "Component"
+    },
+    "metalpipe": {
+      "CanResearch": true,
+      "DisplayName": "Metal Pipe",
+      "ItemCategory": "Component"
+    },
+    "metalspring": {
+      "CanResearch": true,
+      "DisplayName": "Metal Spring",
+      "ItemCategory": "Component"
+    },
+    "mining.pumpjack": {
+      "CanResearch": true,
+      "DisplayName": "Pump Jack",
+      "ItemCategory": "Construction"
+    },
+    "mining.quarry": {
+      "CanResearch": true,
+      "DisplayName": "Mining Quarry",
+      "ItemCategory": "Construction"
+    },
+    "mushroom": {
+      "CanResearch": true,
+      "DisplayName": "Mushroom",
+      "ItemCategory": "Food"
+    },
+    "note": {
+      "CanResearch": true,
+      "DisplayName": "Note",
+      "ItemCategory": "Misc"
+    },
+    "pants": {
+      "CanResearch": true,
+      "DisplayName": "Pants",
+      "ItemCategory": "Attire"
+    },
+    "pants.shorts": {
+      "CanResearch": true,
+      "DisplayName": "Shorts",
+      "ItemCategory": "Attire"
+    },
+    "paper": {
+      "CanResearch": true,
+      "DisplayName": "Paper",
+      "ItemCategory": "Resources"
+    },
+    "pickaxe": {
+      "CanResearch": true,
+      "DisplayName": "Pickaxe",
+      "ItemCategory": "Tool"
+    },
+    "pistol.eoka": {
+      "CanResearch": true,
+      "DisplayName": "Eoka Pistol",
+      "ItemCategory": "Weapon"
+    },
+    "pistol.m92": {
+      "CanResearch": true,
+      "DisplayName": "M92 Pistol",
+      "ItemCategory": "Weapon"
+    },
+    "pistol.nailgun": {
+      "CanResearch": true,
+      "DisplayName": "Nailgun",
+      "ItemCategory": "Weapon"
+    },
+    "pistol.python": {
+      "CanResearch": true,
+      "DisplayName": "Python Revolver",
+      "ItemCategory": "Weapon"
+    },
+    "pistol.revolver": {
+      "CanResearch": true,
+      "DisplayName": "Revolver",
+      "ItemCategory": "Weapon"
+    },
+    "pistol.semiauto": {
+      "CanResearch": true,
+      "DisplayName": "Semi-Automatic Pistol",
+      "ItemCategory": "Weapon"
+    },
+    "planter.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Planter Box",
+      "ItemCategory": "Items"
+    },
+    "planter.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Planter Box",
+      "ItemCategory": "Items"
+    },
+    "pookie.bear": {
+      "CanResearch": true,
+      "DisplayName": "Pookie Bear",
+      "ItemCategory": "Items"
+    },
+    "propanetank": {
+      "CanResearch": true,
+      "DisplayName": "Empty Propane Tank",
+      "ItemCategory": "Component"
+    },
+    "pumpkin": {
+      "CanResearch": true,
+      "DisplayName": "Pumpkin",
+      "ItemCategory": "Food"
+    },
+    "research.table": {
+      "CanResearch": true,
+      "DisplayName": "Research Table",
+      "ItemCategory": "Items"
+    },
+    "researchpaper": {
+      "CanResearch": true,
+      "DisplayName": "Research Paper",
+      "ItemCategory": "Resources"
+    },
+    "rifle.ak": {
+      "CanResearch": true,
+      "DisplayName": "Assault Rifle",
+      "ItemCategory": "Weapon"
+    },
+    "rifle.bolt": {
+      "CanResearch": true,
+      "DisplayName": "Bolt Action Rifle",
+      "ItemCategory": "Weapon"
+    },
+    "rifle.lr300": {
+      "CanResearch": true,
+      "DisplayName": "LR-300 Assault Rifle",
+      "ItemCategory": "Weapon"
+    },
+    "rifle.semiauto": {
+      "CanResearch": true,
+      "DisplayName": "Semi-Automatic Rifle",
+      "ItemCategory": "Weapon"
+    },
+    "riflebody": {
+      "CanResearch": true,
+      "DisplayName": "Rifle Body",
+      "ItemCategory": "Component"
+    },
+    "riot.helmet": {
+      "CanResearch": true,
+      "DisplayName": "Riot Helmet",
+      "ItemCategory": "Attire"
+    },
+    "roadsign.jacket": {
+      "CanResearch": true,
+      "DisplayName": "Road Sign Jacket",
+      "ItemCategory": "Attire"
+    },
+    "roadsign.kilt": {
+      "CanResearch": true,
+      "DisplayName": "Road Sign Kilt",
+      "ItemCategory": "Attire"
+    },
+    "roadsigns": {
+      "CanResearch": true,
+      "DisplayName": "Road Signs",
+      "ItemCategory": "Component"
+    },
+    "rock": {
+      "CanResearch": true,
+      "DisplayName": "Rock",
+      "ItemCategory": "Tool"
+    },
+    "rocket.launcher": {
+      "CanResearch": true,
+      "DisplayName": "Rocket Launcher",
+      "ItemCategory": "Weapon"
+    },
+    "rope": {
+      "CanResearch": true,
+      "DisplayName": "Rope",
+      "ItemCategory": "Component"
+    },
+    "rug": {
+      "CanResearch": true,
+      "DisplayName": "Rug",
+      "ItemCategory": "Items"
+    },
+    "rug.bear": {
+      "CanResearch": true,
+      "DisplayName": "Rug Bear Skin",
+      "ItemCategory": "Items"
+    },
+    "salvaged.cleaver": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Cleaver",
+      "ItemCategory": "Weapon"
+    },
+    "salvaged.sword": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Sword",
+      "ItemCategory": "Weapon"
+    },
+    "santahat": {
+      "CanResearch": true,
+      "DisplayName": "Santa Hat",
+      "ItemCategory": "Attire"
+    },
+    "scarecrow": {
+      "CanResearch": true,
+      "DisplayName": "Scarecrow",
+      "ItemCategory": "Items"
+    },
+    "scrap": {
+      "CanResearch": true,
+      "DisplayName": "Scrap",
+      "ItemCategory": "Resources"
+    },
+    "searchlight": {
+      "CanResearch": true,
+      "DisplayName": "Search Light",
+      "ItemCategory": "Items"
+    },
+    "seed.corn": {
+      "CanResearch": true,
+      "DisplayName": "Corn Seed",
+      "ItemCategory": "Food"
+    },
+    "seed.hemp": {
+      "CanResearch": true,
+      "DisplayName": "Hemp Seed",
+      "ItemCategory": "Food"
+    },
+    "seed.pumpkin": {
+      "CanResearch": true,
+      "DisplayName": "Pumpkin Seed",
+      "ItemCategory": "Food"
+    },
+    "semibody": {
+      "CanResearch": true,
+      "DisplayName": "Semi Automatic Body",
+      "ItemCategory": "Component"
+    },
+    "sewingkit": {
+      "CanResearch": true,
+      "DisplayName": "Sewing Kit",
+      "ItemCategory": "Component"
+    },
+    "sheetmetal": {
+      "CanResearch": true,
+      "DisplayName": "Sheet Metal",
+      "ItemCategory": "Component"
+    },
+    "shelves": {
+      "CanResearch": true,
+      "DisplayName": "Salvaged Shelves",
+      "ItemCategory": "Items"
+    },
+    "shirt.collared": {
+      "CanResearch": true,
+      "DisplayName": "Shirt",
+      "ItemCategory": "Attire"
+    },
+    "shirt.tanktop": {
+      "CanResearch": true,
+      "DisplayName": "Tank Top",
+      "ItemCategory": "Attire"
+    },
+    "shoes.boots": {
+      "CanResearch": true,
+      "DisplayName": "Boots",
+      "ItemCategory": "Attire"
+    },
+    "shotgun.double": {
+      "CanResearch": true,
+      "DisplayName": "Double Barrel Shotgun",
+      "ItemCategory": "Weapon"
+    },
+    "shotgun.pump": {
+      "CanResearch": true,
+      "DisplayName": "Pump Shotgun",
+      "ItemCategory": "Weapon"
+    },
+    "shotgun.spas12": {
+      "CanResearch": true,
+      "DisplayName": "Spas-12 Shotgun",
+      "ItemCategory": "Weapon"
+    },
+    "shotgun.waterpipe": {
+      "CanResearch": true,
+      "DisplayName": "Waterpipe Shotgun",
+      "ItemCategory": "Weapon"
+    },
+    "shutter.metal.embrasure.a": {
+      "CanResearch": true,
+      "DisplayName": "Metal horizontal embrasure",
+      "ItemCategory": "Construction"
+    },
+    "shutter.metal.embrasure.b": {
+      "CanResearch": true,
+      "DisplayName": "Metal Vertical embrasure",
+      "ItemCategory": "Construction"
+    },
+    "shutter.wood.a": {
+      "CanResearch": true,
+      "DisplayName": "Wood Shutters",
+      "ItemCategory": "Construction"
+    },
+    "sign.hanging": {
+      "CanResearch": true,
+      "DisplayName": "Two Sided Hanging Sign",
+      "ItemCategory": "Items"
+    },
+    "sign.hanging.banner.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Banner Hanging",
+      "ItemCategory": "Items"
+    },
+    "sign.hanging.ornate": {
+      "CanResearch": true,
+      "DisplayName": "Two Sided Ornate Hanging Sign",
+      "ItemCategory": "Items"
+    },
+    "sign.pictureframe.landscape": {
+      "CanResearch": true,
+      "DisplayName": "Landscape Picture Frame",
+      "ItemCategory": "Items"
+    },
+    "sign.pictureframe.portrait": {
+      "CanResearch": true,
+      "DisplayName": "Portrait Picture Frame",
+      "ItemCategory": "Items"
+    },
+    "sign.pictureframe.tall": {
+      "CanResearch": true,
+      "DisplayName": "Tall Picture Frame",
+      "ItemCategory": "Items"
+    },
+    "sign.pictureframe.xl": {
+      "CanResearch": true,
+      "DisplayName": "XL Picture Frame",
+      "ItemCategory": "Items"
+    },
+    "sign.pictureframe.xxl": {
+      "CanResearch": true,
+      "DisplayName": "XXL Picture Frame",
+      "ItemCategory": "Items"
+    },
+    "sign.pole.banner.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Banner on pole",
+      "ItemCategory": "Items"
+    },
+    "sign.post.double": {
+      "CanResearch": true,
+      "DisplayName": "Double Sign Post",
+      "ItemCategory": "Items"
+    },
+    "sign.post.single": {
+      "CanResearch": true,
+      "DisplayName": "Single Sign Post",
+      "ItemCategory": "Items"
+    },
+    "sign.post.town": {
+      "CanResearch": true,
+      "DisplayName": "One Sided Town Sign Post",
+      "ItemCategory": "Items"
+    },
+    "sign.post.town.roof": {
+      "CanResearch": true,
+      "DisplayName": "Two Sided Town Sign Post",
+      "ItemCategory": "Items"
+    },
+    "sign.wooden.huge": {
+      "CanResearch": true,
+      "DisplayName": "Huge Wooden Sign",
+      "ItemCategory": "Items"
+    },
+    "sign.wooden.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Wooden Sign",
+      "ItemCategory": "Items"
+    },
+    "sign.wooden.medium": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Sign",
+      "ItemCategory": "Items"
+    },
+    "sign.wooden.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Wooden Sign",
+      "ItemCategory": "Items"
+    },
+    "skull.human": {
+      "CanResearch": true,
+      "DisplayName": "Human Skull",
+      "ItemCategory": "Resources"
+    },
+    "skull.wolf": {
+      "CanResearch": true,
+      "DisplayName": "Wolf Skull",
+      "ItemCategory": "Resources"
+    },
+    "skull_fire_pit": {
+      "CanResearch": true,
+      "DisplayName": "Skull Fire Pit",
+      "ItemCategory": "Items"
+    },
+    "sleepingbag": {
+      "CanResearch": true,
+      "DisplayName": "Sleeping Bag",
+      "ItemCategory": "Items"
+    },
+    "small.oil.refinery": {
+      "CanResearch": true,
+      "DisplayName": "Small Oil Refinery",
+      "ItemCategory": "Items"
+    },
+    "smallwaterbottle": {
+      "CanResearch": true,
+      "DisplayName": "Small Water Bottle",
+      "ItemCategory": "Food"
+    },
+    "smg.2": {
+      "CanResearch": true,
+      "DisplayName": "Custom SMG",
+      "ItemCategory": "Weapon"
+    },
+    "smg.mp5": {
+      "CanResearch": true,
+      "DisplayName": "MP5A4",
+      "ItemCategory": "Weapon"
+    },
+    "smg.thompson": {
+      "CanResearch": true,
+      "DisplayName": "Thompson",
+      "ItemCategory": "Weapon"
+    },
+    "smgbody": {
+      "CanResearch": true,
+      "DisplayName": "SMG Body",
+      "ItemCategory": "Component"
+    },
+    "snowball": {
+      "CanResearch": true,
+      "DisplayName": "Snowball",
+      "ItemCategory": "Weapon"
+    },
+    "snowman": {
+      "CanResearch": true,
+      "DisplayName": "Snowman",
+      "ItemCategory": "Items"
+    },
+    "spear.stone": {
+      "CanResearch": true,
+      "DisplayName": "Stone Spear",
+      "ItemCategory": "Weapon"
+    },
+    "spear.wooden": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Spear",
+      "ItemCategory": "Weapon"
+    },
+    "spikes.floor": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Floor Spikes",
+      "ItemCategory": "Traps"
+    },
+    "spinner.wheel": {
+      "CanResearch": true,
+      "DisplayName": "Spinning wheel",
+      "ItemCategory": "Items"
+    },
+    "stash.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Stash",
+      "ItemCategory": "Items"
+    },
+    "sticks": {
+      "CanResearch": true,
+      "DisplayName": "Sticks",
+      "ItemCategory": "Component"
+    },
+    "stocking.large": {
+      "CanResearch": true,
+      "DisplayName": "SUPER Stocking",
+      "ItemCategory": "Items"
+    },
+    "stocking.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Stocking",
+      "ItemCategory": "Items"
+    },
+    "stone.pickaxe": {
+      "CanResearch": true,
+      "DisplayName": "Stone Pickaxe",
+      "ItemCategory": "Tool"
+    },
+    "stonehatchet": {
+      "CanResearch": true,
+      "DisplayName": "Stone Hatchet",
+      "ItemCategory": "Tool"
+    },
+    "stones": {
+      "CanResearch": true,
+      "DisplayName": "Stones",
+      "ItemCategory": "Resources"
+    },
+    "sulfur": {
+      "CanResearch": true,
+      "DisplayName": "Sulfur",
+      "ItemCategory": "Resources"
+    },
+    "sulfur.ore": {
+      "CanResearch": true,
+      "DisplayName": "Sulfur Ore",
+      "ItemCategory": "Resources"
+    },
+    "supply.signal": {
+      "CanResearch": true,
+      "DisplayName": "Supply Signal",
+      "ItemCategory": "Tool"
+    },
+    "surveycharge": {
+      "CanResearch": true,
+      "DisplayName": "Survey Charge",
+      "ItemCategory": "Tool"
+    },
+    "syringe.medical": {
+      "CanResearch": true,
+      "DisplayName": "Medical Syringe",
+      "ItemCategory": "Medical"
+    },
+    "table": {
+      "CanResearch": true,
+      "DisplayName": "Table",
+      "ItemCategory": "Items"
+    },
+    "target.reactive": {
+      "CanResearch": true,
+      "DisplayName": "Reactive Target",
+      "ItemCategory": "Items"
+    },
+    "targeting.computer": {
+      "CanResearch": true,
+      "DisplayName": "Targeting Computer",
+      "ItemCategory": "Resources"
+    },
+    "tarp": {
+      "CanResearch": true,
+      "DisplayName": "Tarp",
+      "ItemCategory": "Component"
+    },
+    "techparts": {
+      "CanResearch": true,
+      "DisplayName": "Tech Trash",
+      "ItemCategory": "Component"
+    },
+    "tool.binoculars": {
+      "CanResearch": true,
+      "DisplayName": "Binoculars",
+      "ItemCategory": "Tool"
+    },
+    "tool.camera": {
+      "CanResearch": true,
+      "DisplayName": "Camera",
+      "ItemCategory": "Tool"
+    },
+    "torch": {
+      "CanResearch": true,
+      "DisplayName": "Torch",
+      "ItemCategory": "Tool"
+    },
+    "trap.bear": {
+      "CanResearch": true,
+      "DisplayName": "Snap Trap",
+      "ItemCategory": "Traps"
+    },
+    "trap.landmine": {
+      "CanResearch": true,
+      "DisplayName": "Land Mine",
+      "ItemCategory": "Traps"
+    },
+    "tshirt": {
+      "CanResearch": true,
+      "DisplayName": "T-Shirt",
+      "ItemCategory": "Attire"
+    },
+    "tshirt.long": {
+      "CanResearch": true,
+      "DisplayName": "Longsleeve T-Shirt",
+      "ItemCategory": "Attire"
+    },
+    "tunalight": {
+      "CanResearch": true,
+      "DisplayName": "Tuna Can Lamp",
+      "ItemCategory": "Items"
+    },
+    "vending.machine": {
+      "CanResearch": true,
+      "DisplayName": "Vending Machine",
+      "ItemCategory": "Items"
+    },
+    "wall.external.high": {
+      "CanResearch": true,
+      "DisplayName": "High External Wooden Wall",
+      "ItemCategory": "Construction"
+    },
+    "wall.external.high.stone": {
+      "CanResearch": true,
+      "DisplayName": "High External Stone Wall",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.cell": {
+      "CanResearch": true,
+      "DisplayName": "Prison Cell Wall",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.cell.gate": {
+      "CanResearch": true,
+      "DisplayName": "Prison Cell Gate",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.fence": {
+      "CanResearch": true,
+      "DisplayName": "Chainlink Fence",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.fence.gate": {
+      "CanResearch": true,
+      "DisplayName": "Chainlink Fence Gate",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.garagedoor": {
+      "CanResearch": true,
+      "DisplayName": "Garage Door",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.netting": {
+      "CanResearch": true,
+      "DisplayName": "Netting",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.shopfront": {
+      "CanResearch": true,
+      "DisplayName": "Shop Front",
+      "ItemCategory": "Construction"
+    },
+    "wall.frame.shopfront.metal": {
+      "CanResearch": true,
+      "DisplayName": "Metal Shop Front",
+      "ItemCategory": "Construction"
+    },
+    "wall.window.bars.metal": {
+      "CanResearch": true,
+      "DisplayName": "Metal Window Bars",
+      "ItemCategory": "Construction"
+    },
+    "wall.window.bars.toptier": {
+      "CanResearch": true,
+      "DisplayName": "Reinforced Window Bars",
+      "ItemCategory": "Construction"
+    },
+    "wall.window.bars.wood": {
+      "CanResearch": true,
+      "DisplayName": "Wooden Window Bars",
+      "ItemCategory": "Construction"
+    },
+    "wall.window.glass.reinforced": {
+      "CanResearch": true,
+      "DisplayName": "Reinforced Glass Window",
+      "ItemCategory": "Construction"
+    },
+    "water": {
+      "CanResearch": true,
+      "DisplayName": "Water",
+      "ItemCategory": "Resources"
+    },
+    "water.barrel": {
+      "CanResearch": true,
+      "DisplayName": "Water Barrel",
+      "ItemCategory": "Items"
+    },
+    "water.catcher.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Water Catcher",
+      "ItemCategory": "Construction"
+    },
+    "water.catcher.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Water Catcher",
+      "ItemCategory": "Construction"
+    },
+    "water.purifier": {
+      "CanResearch": true,
+      "DisplayName": "Water Purifier",
+      "ItemCategory": "Items"
+    },
+    "water.salt": {
+      "CanResearch": true,
+      "DisplayName": "Salt Water",
+      "ItemCategory": "Resources"
+    },
+    "waterjug": {
+      "CanResearch": true,
+      "DisplayName": "Water Jug",
+      "ItemCategory": "Tool"
+    },
+    "weapon.mod.flashlight": {
+      "CanResearch": true,
+      "DisplayName": "Weapon flashlight",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.holosight": {
+      "CanResearch": true,
+      "DisplayName": "Holosight",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.lasersight": {
+      "CanResearch": true,
+      "DisplayName": "Weapon Lasersight",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.muzzleboost": {
+      "CanResearch": true,
+      "DisplayName": "Muzzle Boost",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.muzzlebrake": {
+      "CanResearch": true,
+      "DisplayName": "Muzzle Brake",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.silencer": {
+      "CanResearch": true,
+      "DisplayName": "Silencer",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.simplesight": {
+      "CanResearch": true,
+      "DisplayName": "Simple Handmade Sight",
+      "ItemCategory": "Weapon"
+    },
+    "weapon.mod.small.scope": {
+      "CanResearch": true,
+      "DisplayName": "4x Zoom Scope",
+      "ItemCategory": "Weapon"
+    },
+    "wolfmeat.burned": {
+      "CanResearch": true,
+      "DisplayName": "Burnt Wolf Meat",
+      "ItemCategory": "Food"
+    },
+    "wolfmeat.cooked": {
+      "CanResearch": true,
+      "DisplayName": "Cooked Wolf Meat",
+      "ItemCategory": "Food"
+    },
+    "wolfmeat.raw": {
+      "CanResearch": true,
+      "DisplayName": "Raw Wolf Meat",
+      "ItemCategory": "Food"
+    },
+    "wolfmeat.spoiled": {
+      "CanResearch": true,
+      "DisplayName": "Spoiled Wolf Meat",
+      "ItemCategory": "Food"
+    },
+    "wood": {
+      "CanResearch": true,
+      "DisplayName": "Wood",
+      "ItemCategory": "Resources"
+    },
+    "wood.armor.helmet": {
+      "CanResearch": true,
+      "DisplayName": "Wood Armor Helmet",
+      "ItemCategory": "Attire"
+    },
+    "wood.armor.jacket": {
+      "CanResearch": true,
+      "DisplayName": "Wood Chestplate",
+      "ItemCategory": "Attire"
+    },
+    "wood.armor.pants": {
+      "CanResearch": true,
+      "DisplayName": "Wood Armor Pants",
+      "ItemCategory": "Attire"
+    },
+    "workbench1": {
+      "CanResearch": true,
+      "DisplayName": "Work Bench Level 1",
+      "ItemCategory": "Items"
+    },
+    "workbench2": {
+      "CanResearch": true,
+      "DisplayName": "Work Bench Level 2",
+      "ItemCategory": "Items"
+    },
+    "workbench3": {
+      "CanResearch": true,
+      "DisplayName": "Work Bench Level 3",
+      "ItemCategory": "Items"
+    },
+    "xmas.decoration.baubels": {
+      "CanResearch": true,
+      "DisplayName": "Decorative Baubels",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.candycanes": {
+      "CanResearch": true,
+      "DisplayName": "Decorative Plastic Candy Canes",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.gingerbreadmen": {
+      "CanResearch": true,
+      "DisplayName": "Decorative Gingerbread Men",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.lights": {
+      "CanResearch": true,
+      "DisplayName": "Tree Lights",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.pinecone": {
+      "CanResearch": true,
+      "DisplayName": "Decorative Pinecones",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.star": {
+      "CanResearch": true,
+      "DisplayName": "Star Tree Topper",
+      "ItemCategory": "Misc"
+    },
+    "xmas.decoration.tinsel": {
+      "CanResearch": true,
+      "DisplayName": "Decorative Tinsel",
+      "ItemCategory": "Misc"
+    },
+    "xmas.door.garland": {
+      "CanResearch": true,
+      "DisplayName": "Festive Doorway Garland",
+      "ItemCategory": "Items"
+    },
+    "xmas.lightstring": {
+      "CanResearch": true,
+      "DisplayName": "Christmas Lights",
+      "ItemCategory": "Items"
+    },
+    "xmas.present.large": {
+      "CanResearch": true,
+      "DisplayName": "Large Present",
+      "ItemCategory": "Misc"
+    },
+    "xmas.present.medium": {
+      "CanResearch": true,
+      "DisplayName": "Medium Present",
+      "ItemCategory": "Misc"
+    },
+    "xmas.present.small": {
+      "CanResearch": true,
+      "DisplayName": "Small Present",
+      "ItemCategory": "Misc"
+    },
+    "xmas.tree": {
+      "CanResearch": true,
+      "DisplayName": "Christmas Tree",
+      "ItemCategory": "Items"
+    },
+    "xmas.window.garland": {
+      "CanResearch": true,
+      "DisplayName": "Festive Window Garland",
+      "ItemCategory": "Items"
+    },
+    "xmasdoorwreath": {
+      "CanResearch": true,
+      "DisplayName": "Christmas Door Wreath",
+      "ItemCategory": "Items"
+    }
+  },
+  "MAXSTATSTABLE": {
+    "str_block_percent_gain": {
+      "Args": [
+        1.00095,
+        0.5
+      ]
+    },
+    "agi_evasion_percent_gain": {
+      "Args": [
+        1.000625,
+        0.5
+      ]
+    },
+    "int_crafting_reducer_percent": {
+      "Args": [
+        1.001,
+        0.5
+      ]
+    }
+  },
+  "NIGHTXP": 2,
+  "RESEARCHSKILLTABLE": {
+    "Tool": 1,
+    "Attire": 2,
+    "Construction": 3,
+    "Resources": 3,
+    "Medical": 4,
+    "Ammunition": 4,
+    "Weapon": 5
+  },
+  "SHOWHUD": true,
+  "SHOWPROFILE": false,
+  "SKILLTABLE": {
+    "Lumberjack": {
+      "Name": "Lumberjack",
+      "Type": "Lumberjack",
+      "Enabled": true,
+      "Description": "LumberjackDesc",
+      "Usage": "None",
+      "RequiredLevel": 0,
+      "MaxLevel": 20,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Gather": {
+          "Args": [
+            1.035265
+          ]
+        }
+      },
+      "RequiredStats": [],
+      "SkillPointsPerLevel": 1
+    },
+    "Miner": {
+      "Name": "Miner",
+      "Type": "Miner",
+      "Enabled": true,
+      "Description": "MinerDesc",
+      "Usage": "None",
+      "RequiredLevel": 0,
+      "MaxLevel": 20,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Gather": {
+          "Args": [
+            1.02048
+          ]
+        }
+      },
+      "RequiredStats": [],
+      "SkillPointsPerLevel": 1
+    },
+    "Hunter": {
+      "Name": "Hunter",
+      "Type": "Hunter",
+      "Enabled": true,
+      "Description": "HunterDesc",
+      "Usage": "None",
+      "RequiredLevel": 0,
+      "MaxLevel": 20,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Gather": {
+          "Args": [
+            1.035265
+          ]
+        }
+      },
+      "RequiredStats": [],
+      "SkillPointsPerLevel": 1
+    },
+    "Gatherer": {
+      "Name": "Gatherer",
+      "Type": "Gatherer",
+      "Enabled": true,
+      "Description": "GathererDesc",
+      "Usage": "None",
+      "RequiredLevel": 0,
+      "MaxLevel": 20,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Gather": {
+          "Args": [
+            1.035265
+          ]
+        }
+      },
+      "RequiredStats": [],
+      "SkillPointsPerLevel": 1
+    },
+    "Researcher": {
+      "Name": "Researcher",
+      "Type": "Researcher",
+      "Enabled": false,
+      "Description": "ResearcherDesc",
+      "Usage": "ResearcherUsage",
+      "RequiredLevel": 30,
+      "MaxLevel": 5,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Cooldown": {
+          "Args": [
+            10.0,
+            2.0
+          ]
+        },
+        "Chance": {
+          "Args": [
+            0.6
+          ]
+        }
+      },
+      "RequiredStats": [
+        {
+          "int": 90
+        }
+      ],
+      "SkillPointsPerLevel": 7
+    },
+    "Blacksmith": {
+      "Name": "Blacksmith",
+      "Type": "Blacksmith",
+      "Enabled": true,
+      "Description": "BlacksmithDesc",
+      "Usage": "None",
+      "RequiredLevel": 30,
+      "MaxLevel": 5,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Chance": {
+          "Args": [
+            0.15
+          ]
+        },
+        "RessRate": {
+          "Args": [
+            0.5
+          ]
+        }
+      },
+      "RequiredStats": [
+        {
+          "str": 75
+        }
+      ],
+      "SkillPointsPerLevel": 7
+    },
+    "Blinkarrow": {
+      "Name": "Blinkarrow",
+      "Type": "Blinkarrow",
+      "Enabled": false,
+      "Description": "BlinkarrowDesc",
+      "Usage": "BlinkarrowUsage",
+      "RequiredLevel": 150,
+      "MaxLevel": 5,
+      "RequiredSkills": [],
+      "Modifiers": {
+        "Cooldown": {
+          "Args": [
+            9.0,
+            2.0
+          ]
+        }
+      },
+      "RequiredStats": [
+        {
+          "agi": 300
+        }
+      ],
+      "SkillPointsPerLevel": 10
+    },
+    "Tamer": {
+      "Name": "Tamer",
+      "Type": "Tamer",
+      "Enabled": true,
+      "Description": "TamerDesc",
+      "Usage": "TamerUsage",
+      "RequiredLevel": 50,
+      "MaxLevel": 6,
+      "RequiredSkills": [],
+      "Modifiers": {},
+      "RequiredStats": [],
+      "SkillPointsPerLevel": 5
+    }
+  },
+  "TAMETABLE": {
+    "1": "canchicken",
+    "2": "canboar",
+    "3": "canstag",
+    "4": "canwolf",
+    "5": "canbear",
+    "6": "canhorse"
+  },
+  "TRAINER": [],
+  "UPGRADEBUILDTABLE": {
+    "Twigs": 1.0,
+    "Wood": 1.0,
+    "Stone": 1.0,
+    "Metal": 1.0,
+    "TopTier": 1.0
+  },
+  "VERSION": {
+    "Major": 1,
+    "Minor": 6,
+    "Patch": 61
+  },
+  "XPTABLE": {
+    "0": 383,
+    "1": 416,
+    "2": 452,
+    "3": 491,
+    "4": 534,
+    "5": 580,
+    "6": 631,
+    "7": 686,
+    "8": 746,
+    "9": 811,
+    "10": 877,
+    "11": 949,
+    "12": 1027,
+    "13": 1111,
+    "14": 1202,
+    "15": 1301,
+    "16": 1408,
+    "17": 1524,
+    "18": 1649,
+    "19": 1785,
+    "20": 1922,
+    "21": 2069,
+    "22": 2228,
+    "23": 2399,
+    "24": 2583,
+    "25": 2781,
+    "26": 2995,
+    "27": 3225,
+    "28": 3473,
+    "29": 3740,
+    "30": 4007,
+    "31": 4293,
+    "32": 4599,
+    "33": 4927,
+    "34": 5279,
+    "35": 5656,
+    "36": 6060,
+    "37": 6493,
+    "38": 6957,
+    "39": 7454,
+    "40": 7945,
+    "41": 8469,
+    "42": 9027,
+    "43": 9622,
+    "44": 10257,
+    "45": 10933,
+    "46": 11654,
+    "47": 12423,
+    "48": 13242,
+    "49": 14115,
+    "50": 14968,
+    "51": 15873,
+    "52": 16833,
+    "53": 17851,
+    "54": 18930,
+    "55": 20075,
+    "56": 21289,
+    "57": 22576,
+    "58": 23941,
+    "59": 25389,
+    "60": 26785,
+    "61": 28258,
+    "62": 29812,
+    "63": 31451,
+    "64": 33180,
+    "65": 35004,
+    "66": 36929,
+    "67": 38960,
+    "68": 41102,
+    "69": 43362,
+    "70": 45508,
+    "71": 47760,
+    "72": 50124,
+    "73": 52605,
+    "74": 55208,
+    "75": 57940,
+    "76": 60808,
+    "77": 63818,
+    "78": 66977,
+    "79": 70292,
+    "80": 73384,
+    "81": 76612,
+    "82": 79982,
+    "83": 83501,
+    "84": 87175,
+    "85": 91010,
+    "86": 95014,
+    "87": 99194,
+    "88": 103558,
+    "89": 108114,
+    "90": 112276,
+    "91": 116598,
+    "92": 121087,
+    "93": 125748,
+    "94": 130589,
+    "95": 135616,
+    "96": 140837,
+    "97": 146259,
+    "98": 151890,
+    "99": 157737,
+    "100": 162942,
+    "101": 168319,
+    "102": 173873,
+    "103": 179610,
+    "104": 185537,
+    "105": 191659,
+    "106": 197983,
+    "107": 204516,
+    "108": 211265,
+    "109": 218236,
+    "110": 224237,
+    "111": 230403,
+    "112": 236739,
+    "113": 243249,
+    "114": 249938,
+    "115": 256811,
+    "116": 263873,
+    "117": 271129,
+    "118": 278585,
+    "119": 286246,
+    "120": 292543,
+    "121": 298979,
+    "122": 305556,
+    "123": 312278,
+    "124": 319148,
+    "125": 326169,
+    "126": 333344,
+    "127": 340677,
+    "128": 348172,
+    "129": 355831,
+    "130": 361702,
+    "131": 367670,
+    "132": 373736,
+    "133": 379902,
+    "134": 386170,
+    "135": 392542,
+    "136": 399019,
+    "137": 405603,
+    "138": 412295,
+    "139": 419098,
+    "140": 423708,
+    "141": 428369,
+    "142": 433081,
+    "143": 437845,
+    "144": 442661,
+    "145": 447530,
+    "146": 452453,
+    "147": 457430,
+    "148": 462462,
+    "149": 467549,
+    "150": 472224,
+    "151": 476946,
+    "152": 481715,
+    "153": 486532,
+    "154": 491397,
+    "155": 496310,
+    "156": 501273,
+    "157": 506285,
+    "158": 511347,
+    "159": 516460,
+    "160": 521624,
+    "161": 526840,
+    "162": 532108,
+    "163": 537429,
+    "164": 542803,
+    "165": 548231,
+    "166": 553713,
+    "167": 559250,
+    "168": 564842,
+    "169": 570490,
+    "170": 576194,
+    "171": 581955,
+    "172": 587774,
+    "173": 593651,
+    "174": 599587,
+    "175": 605582,
+    "176": 611637,
+    "177": 617753,
+    "178": 623930,
+    "179": 630169,
+    "180": 636470,
+    "181": 642834,
+    "182": 649262,
+    "183": 655754,
+    "184": 662311,
+    "185": 668934,
+    "186": 675623,
+    "187": 682379,
+    "188": 689202,
+    "189": 696094,
+    "190": 703054,
+    "191": 710084,
+    "192": 717184,
+    "193": 724355,
+    "194": 731598,
+    "195": 738913,
+    "196": 746302,
+    "197": 753765,
+    "198": 761302,
+    "199": 768915
+  }
+}

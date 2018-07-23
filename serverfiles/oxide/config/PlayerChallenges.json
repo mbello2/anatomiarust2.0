@@ -1,0 +1,182 @@
+{
+  "Challenge Settings": {
+    "AnimalKills": {
+      "Title for name tag": "Hunter",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 0,
+      "Title priority": 5
+    },
+    "ArrowKills": {
+      "Title for name tag": "Archer",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 1,
+      "Title priority": 11
+    },
+    "StructuresBuilt": {
+      "Title for name tag": "Architect",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 2,
+      "Title priority": 12
+    },
+    "ClothesCrafted": {
+      "Title for name tag": "Tailor",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 3,
+      "Title priority": 19
+    },
+    "ExplosivesThrown": {
+      "Title for name tag": "Bomb-tech",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 4,
+      "Title priority": 10
+    },
+    "Headshots": {
+      "Title for name tag": "Assassin",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 5,
+      "Title priority": 1
+    },
+    "PlayersHealed": {
+      "Title for name tag": "Medic",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 6,
+      "Title priority": 18
+    },
+    "PlayersKilled": {
+      "Title for name tag": "Murderer",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 7,
+      "Title priority": 2
+    },
+    "MeleeKills": {
+      "Title for name tag": "Fighter",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 8,
+      "Title priority": 3
+    },
+    "PlantsGathered": {
+      "Title for name tag": "Harvester",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 9,
+      "Title priority": 17
+    },
+    "PVEKillDistance": {
+      "Title for name tag": "Deadshot",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 10,
+      "Title priority": 6
+    },
+    "PVPKillDistance": {
+      "Title for name tag": "Sniper",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 11,
+      "Title priority": 4
+    },
+    "StructuresRepaired": {
+      "Title for name tag": "Handyman",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 12,
+      "Title priority": 13
+    },
+    "RevolverKills": {
+      "Title for name tag": "Gunslinger",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 13,
+      "Title priority": 7
+    },
+    "RocketsFired": {
+      "Title for name tag": "Rocketeer",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 14,
+      "Title priority": 8
+    },
+    "RocksGathered": {
+      "Title for name tag": "Miner",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 15,
+      "Title priority": 16
+    },
+    "BladeKills": {
+      "Title for name tag": "BladeKillsman",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 16,
+      "Title priority": 9
+    },
+    "WeaponsCrafted": {
+      "Title for name tag": "Gunsmith",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 17,
+      "Title priority": 14
+    },
+    "WoodGathered": {
+      "Title for name tag": "Lumberjack",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 18,
+      "Title priority": 15
+    },
+    "HelicopterKills": {
+      "Title for name tag": "HeliHunter",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 19,
+      "Title priority": 20
+    },
+    "APCKills": {
+      "Title for name tag": "TankHunter",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 20,
+      "Title priority": 21
+    },
+    "NPCKills": {
+      "Title for name tag": "BotHunter",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 21,
+      "Title priority": 22
+    },
+    "QuestsCompleted": {
+      "Title for name tag": "Adventurer",
+      "Enable this challenge": true,
+      "Position in the UI leaderboard": 22,
+      "Title priority": 23
+    }
+  },
+  "Options": {
+    "Ignore kills against sleeping players (Players killed)": true,
+    "Ignore explosive kill distance": false,
+    "Kills against NPC players are counted seperate to player kills": true,
+    "NPC kill distance counts as PVE distance": true,
+    "Show challenge leader title tags (Requires BetterChat)": true,
+    "Ignore all statistics recorded by admins": true,
+    "Ignore kills for event players (Players killed)": true,
+    "Ignore supply signals thrown (Explosives thrown)": false,
+    "Ignore survey charges thrown (Explosives thrown)": false,
+    "Ignore flares thrown (Explosives thrown)": true,
+    "Broadcast new challenge leaders to chat": false,
+    "Update leaders on a timer (Recommended)": false,
+    "Create and use Oxide groups for each challenge type": false,
+    "Update timer (hours)": 168,
+    "Maximum tags to display (Requires BetterChat)": 2,
+    "Format of tags displayed (Requires BetterChat)": "[{TAG}]"
+  },
+  "Colors": {
+    "Primary message color (hex)": "#ce422b",
+    "Secondary message color (hex)": "#939393",
+    "Title color (hex) (Requires BetterChat)": "#ce422b",
+    "UI Color - Background": {
+      "Color (hex)": "#2b2b2b",
+      "Alpha (0.0 - 1.0)": 0.98
+    },
+    "UI Color - Panel": {
+      "Color (hex)": "#404141",
+      "Alpha (0.0 - 1.0)": 1.0
+    },
+    "UI Color - Button": {
+      "Color (hex)": "#393939",
+      "Alpha (0.0 - 1.0)": 1.0
+    }
+  },
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 43
+  }
+}

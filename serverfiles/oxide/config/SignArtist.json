@@ -1,0 +1,10 @@
+{
+  "Time in seconds between download requests (0 to disable)": 0,
+  "Maximum concurrent downloads": 5,
+  "Maximum distance from the sign": 3,
+  "Maximum filesize in MB": 1.0,
+  "Enforce JPG file format": false,
+  "JPG image quality (0-100)": 85,
+  "Enable logging file": false,
+  "Enable logging console": false
+}

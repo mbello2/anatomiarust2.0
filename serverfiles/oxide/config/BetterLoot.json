@@ -1,0 +1,86 @@
+{
+  "Barrel": {
+    "barrelTypes": "loot-barrel|loot_barrel|loot_trash",
+    "enableBarrels": true,
+    "maxItemsPerBarrel": 9,
+    "minItemsPerBarrel": 1,
+    "randomAmountBarrels": true,
+    "refreshBarrels": false
+  },
+  "BradleyCrate": {
+    "includeBradleyCrate": false,
+    "maxItemsPerBradleyCrate": 9,
+    "minItemsPerBradleyCrate": 2,
+    "randomAmountBradleyCrate": true,
+    "useCustomTableBradley": true
+  },
+  "Crate": {
+    "crateTypes": "crate_normal|crate_tools",
+    "enableCrates": true,
+    "maxItemsPerCrate": 9,
+    "minItemsPerCrate": 3,
+    "randomAmountCrates": true,
+    "refreshCrates": true
+  },
+  "Generic": {
+    "dropWeaponsWithAmmo": true,
+    "enableScrapSpawn": true,
+    "enforceBlacklist": false,
+    "listUpdatesOnLoaded": true,
+    "listUpdatesOnRefresh": false,
+    "pluginEnabled": true,
+    "refreshMinutes": 10,
+    "removeStackedContainers": true,
+    "seperateLootTables": true
+  },
+  "HeliCrate": {
+    "includeHeliCrate": false,
+    "maxItemsPerHeliCrate": 9,
+    "minItemsPerHeliCrate": 2,
+    "randomAmountHeliCrate": true,
+    "useCustomTableHeli": true
+  },
+  "Rarity": {
+    "Override": {
+      "autoturret": 9,
+      "lmg.m249": 9,
+      "targeting.computer": 9
+    }
+  },
+  "ScrapAmounts": {
+    "bradley_crate": 0,
+    "codelockedhackablecrate": 0,
+    "crate_basic": 3,
+    "crate_elite": 25,
+    "crate_mine": 0,
+    "crate_normal": 8,
+    "crate_normal_2": 5,
+    "crate_normal_2_food": 0,
+    "crate_normal_2_medical": 0,
+    "crate_tools": 5,
+    "crate_underwater_advanced": 10,
+    "crate_underwater_basic": 5,
+    "foodbox": 0,
+    "giftbox_loot": 0,
+    "heli_crate": 0,
+    "loot_barrel_1": 2,
+    "loot_barrel_2": 2,
+    "loot_component_test": 0,
+    "loot_trash": 0,
+    "loot-barrel-1": 2,
+    "loot-barrel-2": 2,
+    "minecart": 0,
+    "oil_barrel": 0,
+    "stocking_large_deployed": 0,
+    "stocking_small_deployed": 0,
+    "supply_drop": 0,
+    "trash-pile-1": 0
+  },
+  "SupplyDrop": {
+    "includeSupplyDrop": false,
+    "maxItemsPerSupplyDrop": 9,
+    "minItemsPerSupplyDrop": 3,
+    "randomAmountSupplyDrop": true,
+    "useCustomTableSupply": true
+  }
+}

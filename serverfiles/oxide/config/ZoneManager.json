@@ -1,0 +1,13 @@
+{
+  "AutoLights": {
+    "Lights Off Time": "8.0",
+    "Lights On Time": "18.0"
+  },
+  "Chat": {
+    "Prefix": "ZoneManager: ",
+    "Prefix Color (hex)": "#d85540"
+  },
+  "Notifications": {
+    "Use Popup Notifications": true
+  }
+}

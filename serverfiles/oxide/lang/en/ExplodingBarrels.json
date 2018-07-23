@@ -1,0 +1,20 @@
+{
+  "ConsoleCommand": "xbar",
+  "VersionString": "ExplodingBarrels v. {0}",
+  "UsageHeader": "---- ExplodingBarrels usage ----",
+  "CmdUsageShow": "Highlights explosive barrels for the specified number of seconds",
+  "CmdUsageDef": "Loads default configuration",
+  "CmdUsageCount": "Count and display locations of explodable barrels",
+  "CmdUsageVersion": "Prints version information",
+  "CmdUsageValueString": "[value]",
+  "CmdUsageClosestString": "[\"closest\"]",
+  "CmdUsageTimeString": "[time]",
+  "DefConfigLoad": "Loaded default configuration",
+  "CountHeader": "---- Explosive Barrels: {0} ----\n",
+  "InvalidParameter": "Invalid parameter: {0}",
+  "InvalidParamForCmd": "Invalid parameters for command \"{0}\"",
+  "NoPermission": "Cannot execute command: No permission",
+  "Warning_MissingEffect": "Unable to find configuration entry for effect \"{0}\"",
+  "Warning_InvalidDamageType": "No DamageType exists for \"{0}\"",
+  "Warning_InvalidDamageValue": "Invalid damage value for \"{0}\": {1}"
+}

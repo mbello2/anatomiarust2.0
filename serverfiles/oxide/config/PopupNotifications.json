@@ -1,0 +1,25 @@
+{
+  "Notification duration (in seconds)": 8,
+  "Maximum notifications shown at any time": 6,
+  "UI Positioning": {
+    "Position of the left side of notification (0.0 - 1.0)": 0.8,
+    "Position of the bottom of noticiation (0.0 - 1.0)": 0.78,
+    "Width (0.0 - 1.0)": 0.19,
+    "Height (0.0 - 1.0)": 0.1,
+    "Space between notification (0.0 - 1.0)": 0.01
+  },
+  "UI Options": {
+    "Show close button": true,
+    "Panel color (hex)": "#2b2b2b",
+    "Panel transparency (0.0 - 1.0)": 0.5,
+    "Close button color (hex)": "#d85540",
+    "Close button transparency (0.0 - 1.0)": 0.5,
+    "Font": "droidsansmono.ttf",
+    "Font size": 12
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 0
+  }
+}

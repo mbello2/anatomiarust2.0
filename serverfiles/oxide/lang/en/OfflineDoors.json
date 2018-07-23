@@ -1,0 +1,8 @@
+{
+  "Clans_detected": "Clans plugin detected",
+  "Clans_notInstalled_first": "Clans plugin is not installed, will check again in 30 seconds",
+  "Clans_notInstalled": "Clans plugin is not installed!",
+  "noperm": "You don't have permission to use this command.",
+  "turnedoff": "<color=silver>Turned <color=red>off</color> automatic door closing on disconnect</color>",
+  "turnedon": "<color=silver>Turned <color=green>on</color> automatic door closing on disconnect, your doors will now close when you disconnect</color>"
+}

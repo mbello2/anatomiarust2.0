@@ -1,0 +1,16 @@
+{
+  "Deposit": "Deposit",
+  "DepositAll": "All",
+  "DepositAmmo": "Ammo",
+  "DepositAttire": "Attire",
+  "DepositConstruction": "Construction",
+  "DepositExisting": "Existing",
+  "DepositFood": "Food",
+  "DepositItems": "Deployables",
+  "DepositMedical": "Medical",
+  "DepositResources": "Resources",
+  "DepositTools": "Tools",
+  "DepositTraps": "Traps",
+  "DepositWeapons": "Weapons",
+  "LootAll": "Loot All"
+}

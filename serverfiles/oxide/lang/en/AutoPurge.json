@@ -1,0 +1,4 @@
+{
+  "RunBefore": "<color=yellow>INFO:</color> Beginning <color=red>purge</color>. (<color=yellow>Slight lag may occur, please do not spam the chat.</color>)",
+  "RunComplete": "Purge <color=green>complete</color> (<color=yellow>{0}</color> entities removed from <color=yellow>{1}</color> inactive players)."
+}

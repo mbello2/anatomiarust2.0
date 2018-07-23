@@ -1,0 +1,27 @@
+{
+  "Color": {
+    "Hit body color": "1 1 1 1",
+    "Hit clanmate color": "0 1 0 1",
+    "Hit friend color": "0 1 0 1",
+    "Hit head color": "1 0 0 1",
+    "Text damage color": "1 1 1 1",
+    "Text head damage color": "1 0 0 1"
+  },
+  "Configuration": {
+    "Damage text size": 15,
+    "Show clanmate damage": false,
+    "Show damage": true,
+    "Show death skull": true,
+    "Show friend damage": true,
+    "Show hit icon": true,
+    "Show hits/deaths on NPC (Bears, wolfs, etc.)": false,
+    "Text Font": "robotocondensed-regular.ttf",
+    "Text Outline Color": "0 0 0 1",
+    "Text Outline Distance": "-0.4 0.4",
+    "Time to destroy": 0.45,
+    "Use Clans": true,
+    "Use Friends": true,
+    "Use sound when mate get attacked": true,
+    "When mate get attacked sound fx": "assets/prefabs/instruments/guitar/effects/guitarpluck.prefab"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "itemMappings": {
+    "0": "DefaultExplosion",
+    "1974032895": "DefaultExplosion"
+  },
+  "barrelEffects": {
+    "DefaultExplosion": {
+      "name": "DefaultExplosion",
+      "damageMap": {
+        "Blunt": 50.0,
+        "Heat": 25.0,
+        "Explosion": 25.0
+      },
+      "minRadius": 0.0,
+      "maxRadius": 10.0,
+      "delay": 3.5,
+      "chance": 15.0,
+      "effects": [
+        "assets/prefabs/weapons/rocketlauncher/effects/rocket_explosion_incendiary.prefab",
+        "assets/bundled/prefabs/fx/gas_explosion_small.prefab"
+      ],
+      "triggerEffect": "assets/bundled/Prefabs/fx/weapons/landmine/landmine_trigger.prefab",
+      "killInventory": true
+    }
+  }
+}

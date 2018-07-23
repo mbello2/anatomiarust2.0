@@ -1,0 +1,14 @@
+{
+  "CannotHurt": "{0} is your friend and cannot be hurt. To disable, type: <color=\"#33cccc\">/ff on</color>",
+  "Usage": "Usage: <color=\"#33cccc\">/ff [on|off]</color>",
+  "FFFriends": "Friendly fire is {0} for your friends:",
+  "FFNotAvailable": "Friendly fire is not available.",
+  "FFEnabled": "<color=red>enabled</color>",
+  "FFDisabled": "<color=green>disabled</color>",
+  "NoFriends": "You do not have any friends.",
+  "FFToggle": "To toggle friendly fire on or off, type: <color=\"#33cccc\">/ff on|off</color>",
+  "FFAlready": "Friendly fire for your friends is already {0}.",
+  "FFChanged": "You have {0} friendly fire for your friends.",
+  "FFHelp1": "<color=\"#33cccc\">/ff</color> - Displays your friendly fire status",
+  "FFHelp2": "<color=\"#33cccc\">/ff on|off</color> - Toggles friendly fire <color=red>on</color> or <color=green>off</color>"
+}

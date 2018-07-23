@@ -1,0 +1,5 @@
+{
+  "Maximum balance for accounts (0 to disable)": 0,
+  "Remove unused accounts (true/false)": true,
+  "Starting money amount (0 or higher)": 1000
+}

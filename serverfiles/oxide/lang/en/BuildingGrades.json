@@ -1,0 +1,11 @@
+{
+  "NotEnoughItems": "Not enough {0}! You need {1} but you only have {2}",
+  "NotAllowed": "<color=red>You are not allowed to use that command!</color>",
+  "UnknownGrade": "<color=red>Unknown grade!</color>",
+  "UnknownCategory": "<color=red>Unknown category!</color>",
+  "NotLookingAt": "<color=red>You are not looking at a building block!</color>",
+  "FinishedUp": "Finished upgrading!",
+  "FinishedDown": "Finished downgrading!",
+  "AlreadyRunning": "Already running, please wait!",
+  "AnotherProcess": "Another process already running, please try again in a few seconds!"
+}

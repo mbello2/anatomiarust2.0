@@ -1,0 +1,6 @@
+{
+  "Only Notify Admins": false,
+  "Enable Staging Notifications": false,
+  "Checking Interval (in Seconds)": 45,
+  "GUI Removal Delay (in Seconds)": 300
+}

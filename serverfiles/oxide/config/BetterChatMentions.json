@@ -1,0 +1,6 @@
+{
+  "Group Color To Use (Title/Username/Message)": "Username",
+  "Alert to play": "assets/prefabs/locks/keypad/effects/lock.code.unlock.prefab",
+  "Delay Between Alert Sounds (Seconds)": 0.0,
+  "Everyone Ping Color": "#55aaff"
+}

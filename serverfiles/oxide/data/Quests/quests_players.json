@@ -1,0 +1,13 @@
+{
+  "PlayerProgress": {
+    "76561198075411253": {
+      "Quests": {},
+      "RequiredItems": [],
+      "CurrentDelivery": {
+        "VendorID": null,
+        "TargetID": null,
+        "Distance": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Light Settings": {
+    "BBQ": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Campfire": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "CeilingLight": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Firepit": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Fireplace": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Furnace": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": false,
+      "This type requires permission to be toggled by the owner": false
+    },
+    "JackOLantern": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Lanterns": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "LargeFurnace": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Searchlight": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "TunaLight": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    },
+    "Refinery": {
+      "This type is enabled": true,
+      "This type consumes fuel": true,
+      "This type can be toggled by the owner": true,
+      "This type requires permission to be toggled by the owner": true
+    }
+  },
+  "Time autolights are disabled": 7.5,
+  "Time autolights are enabled": 18.5,
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 94
+  }
+}

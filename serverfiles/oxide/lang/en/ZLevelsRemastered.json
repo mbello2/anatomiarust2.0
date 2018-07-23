@@ -1,0 +1,17 @@
+{
+  "StatsHeadline": "Level stats (/statinfo - To get more information about skills)",
+  "StatsText": "-{0}\nLevel: {1} (+{4}% bonus) \nXP: {2}/{3} [{5}].\n<color=red>-{6} XP loose on death.</color>",
+  "LevelUpText": "{0} Level up\nLevel: {1} (+{4}% bonus) \nXP: {2}/{3}",
+  "LevelUpTextBroadcast": "<color=#5af>{0}</color> has reached level <color=#5af>{1}</color> in <color={2}>{3}</color>",
+  "PenaltyText": "<color=orange>You have lost XP for dying:{0}</color>",
+  "NoPermission": "You don't have permission to use this command",
+  "WCSkill": "Woodcutting",
+  "MSkill": "Mining",
+  "SSkill": "Skinning",
+  "CSkill": "Crafting",
+  "ASkill": "Acquire",
+  "NightBonusOn": "Nightbonus for points per hit enabled",
+  "NightBonusOff": "Nightbonus for points per hit disabled",
+  "PluginPlayerOn": "The plugin functions are now enabled again",
+  "PluginPlayerOff": "The plugin functions are now disabled for your character"
+}

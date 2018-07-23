@@ -1,0 +1,29 @@
+{
+  "players": {
+    "76561198397444657": {
+      "displayName": "humphreys huge dong",
+      "totalBounties": 1,
+      "bountiesClaimed": 0,
+      "totalWantedTime": 137057.64564609528,
+      "activeBounties": [],
+      "unclaimedRewards": []
+    },
+    "76561198341065601": {
+      "displayName": "a43k",
+      "totalBounties": 0,
+      "bountiesClaimed": 1,
+      "totalWantedTime": 0.0,
+      "activeBounties": [],
+      "unclaimedRewards": [
+        7286
+      ]
+    }
+  },
+  "rewards": {
+    "7286": {
+      "rpAmount": 5000,
+      "econAmount": 0,
+      "rewardItems": []
+    }
+  }
+}

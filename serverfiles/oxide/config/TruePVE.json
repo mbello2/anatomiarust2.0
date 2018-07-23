@@ -1,0 +1,86 @@
+{
+  "Config Version": "0.8.9",
+  "Default RuleSet": "default",
+  "Configuration Options": {
+    "handleDamage": true,
+    "useZones": true
+  },
+  "Mappings": {
+    "default": "default"
+  },
+  "Schedule": {
+    "enabled": false,
+    "useRealtime": false,
+    "broadcast": false,
+    "entries": []
+  },
+  "RuleSets": [
+    {
+      "name": "default",
+      "enabled": true,
+      "defaultAllowDamage": false,
+      "flags": "HumanNPCDamage, LockedBoxesImmortal, LockedDoorsImmortal",
+      "rules": [
+        "anything can hurt dispensers",
+        "anything can hurt players",
+        "players cannot hurt players",
+        "anything can hurt traps",
+        "traps cannot hurt players",
+        "players can hurt barricades",
+        "barricades cannot hurt players",
+        "highwalls cannot hurt players",
+        "anything can hurt heli",
+        "anything can hurt npcs",
+        "fire cannot hurt players",
+        "anything can hurt resources"
+      ]
+    }
+  ],
+  "Entity Groups": [
+    {
+      "name": "dispensers",
+      "members": "BaseCorpse, HelicopterDebris",
+      "exclusions": ""
+    },
+    {
+      "name": "players",
+      "members": "BasePlayer",
+      "exclusions": ""
+    },
+    {
+      "name": "traps",
+      "members": "AutoTurret, BearTrap, FlameTurret, Landmine, GunTrap, ReactiveTarget, spikes.floor",
+      "exclusions": ""
+    },
+    {
+      "name": "barricades",
+      "members": "Barricade",
+      "exclusions": ""
+    },
+    {
+      "name": "highwalls",
+      "members": "wall.external.high.stone, wall.external.high.wood, gates.external.high.wood, gates.external.high.wood",
+      "exclusions": ""
+    },
+    {
+      "name": "heli",
+      "members": "BaseHelicopter",
+      "exclusions": ""
+    },
+    {
+      "name": "npcs",
+      "members": "NPCPlayerApex, BradleyAPC",
+      "exclusions": ""
+    },
+    {
+      "name": "fire",
+      "members": "FireBall",
+      "exclusions": ""
+    },
+    {
+      "name": "resources",
+      "members": "ResourceEntity, TreeEntity, OreResourceEntity",
+      "exclusions": ""
+    }
+  ]
+}

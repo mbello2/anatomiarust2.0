@@ -1,0 +1,384 @@
+00:00 [Info] [Rewards] Utunergalann got 25 for activity
+00:00 [Info] [Rewards] amacer6 got 25 for activity
+00:01 [Info] [Rewards] Toni_Sc got 25 for activity
+00:01 [Info] [NTeleportation] Mbello teleported to Lord Phantoon.
+00:02 [Info] [Rewards] Lord Phantoon got 25 for activity
+00:03 [Info] [NTeleportation] Mbello teleported to Rhoni Stk.
+00:04 [Warning] Calling 'OnItemRemovedFromContainer' on 'Quests v2.2.7' took 121ms [GARBAGE COLLECT]
+00:04 [Warning] Calling 'OnTick' on 'BetterLoot v2.15.0' took 130ms [GARBAGE COLLECT]
+00:05 [Info] [Better Chat] [Player] Toni_Sc: caraka muleke tem ate arma já...aff
+00:05 [Info] [Better Chat] [Player] [Admin] [God] Mbello: como ?
+00:05 [Info] [Death Notes] amacer6 was shot by Utunergalann with their Wooden Spear over a distance of 0.1 meters.
+00:05 [Info] [Better Chat] [Player] Toni_Sc: tem gente com arma por ai, e eu ainda no começo
+00:05 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+00:05 [Info] [Better Chat] [Player] [Admin] [God] Mbello: haha e ne mano tem que jogar
+00:06 [Info] [Economics] Saving balances for players...
+00:06 [Info] [Rewards] Utunergalann got 25 for activity
+00:06 [Info] [Rewards] amacer6 got 25 for activity
+00:06 [Info] [Better Chat] [Player] Toni_Sc: verdade, me diga ai admin... tem kit nesse server
+00:06 [Info] [Better Chat] [Player] Utunergalann: portuges o español
+00:06 [Info] [Better Chat] [Player] [Admin] [God] Mbello: tem
+00:06 [Info] [Better Chat] [Player] [Admin] [God] Mbello: to editando ele agora
+00:06 [Info] [Better Chat] [Player] [Admin] [God] Mbello: pois tava os kit do x50
+00:06 [Info] [Better Chat] [Player] [Admin] [God] Mbello: dae tive que remover
+00:07 [Info] [Better Chat] [Player] Toni_Sc: massa, por isso vou ficar aqui nesse server
+00:07 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: TankCommander, TimedExecute, TurboGather, Trade, UpdateNotice, Godmode, HeliRide, NTeleportation, SurveyBlocker, XpRevived, ZoneDomes, PlaytimeTracker, WeaponTrajectory, SupplySignalAlerts, ZoneManager, Metabolism, RandomDeployables, OfflineDoors, SaveMyMap, Quests, RemoverTool, NoDecay, PrivateMessage, PopupNotifications, ServerRewards, OnScreenLogo, NightLantern, Ping, PlayerChallenges, SignArtist, ServerInfo, PlayerRankings, SafeTraps, LoadingMessages, QuickSmelt, SkipNightUI and StackSizeController
+00:07 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: MoneyTime
+00:07 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+00:07 [Warning] [Update Checker] Following plugins are outdated:
+
+00:07 [Info] [Rewards] Toni_Sc got 25 for activity
+00:08 [Info] [Rewards] Lord Phantoon got 25 for activity
+00:12 [Info] [Rewards] Utunergalann got 25 for activity
+00:12 [Info] [Rewards] amacer6 got 25 for activity
+00:13 [Info] [Rewards] Toni_Sc got 25 for activity
+00:14 [Info] [Rewards] Lord Phantoon got 25 for activity
+00:14 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198360164120|Mbello to protection list.
+00:14 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 124ms [GARBAGE COLLECT]
+00:18 [Info] [Rewards] Utunergalann got 25 for activity
+00:18 [Info] [Rewards] amacer6 got 25 for activity
+00:19 [Info] [Rewards] Toni_Sc got 25 for activity
+00:19 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198360164120|Mbello.
+00:20 [Info] [Rewards] Lord Phantoon got 25 for activity
+00:21 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 14,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+00:21 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 5,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+00:23 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 395ms
+00:24 [Info] [Rewards] Utunergalann got 25 for activity
+00:24 [Info] [Rewards] amacer6 got 25 for activity
+00:24 [Warning] Calling 'OnEntitySpawned' on 'ExplodingBarrels v0.3.4' took 126ms [GARBAGE COLLECT]
+00:25 [Info] [Rewards] Toni_Sc got 25 for activity
+00:26 [Info] [Economics] Saving balances for players...
+00:26 [Info] [Rewards] Lord Phantoon got 25 for activity
+00:27 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 423ms
+00:30 [Info] [Rewards] Utunergalann got 25 for activity
+00:30 [Info] [Rewards] amacer6 got 25 for activity
+00:30 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198056034256|Toni_Sc to protection list.
+00:31 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198231438844|Lord Phantoon to protection list.
+00:35 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198056034256|Toni_Sc.
+00:35 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+00:36 [Info] [Rewards] Utunergalann got 25 for activity
+00:36 [Info] [Rewards] amacer6 got 25 for activity
+00:36 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198231438844|Lord Phantoon.
+00:37 [Info] [Dangerous Treasures] M10: Explosive 5.56 Rifle Ammo (60), MP5A4 (1), Supply Signal (1), Custom SMG (1), High Quality Metal (150), Incendiary 5.56 Rifle Ammo (60)
+00:37 [Info] [Dangerous Treasures] Event at M10
+00:37 [Info] [Dangerous Treasures] Next automated event in 1 hour, 26 minutes, and 7 seconds at 07/23/2018 02:03:12
+00:39 [Info] [Rewards] ✪SaMMa✪ got 250 as a welcome reward
+00:39 [Info] [Rewards] Data saved
+00:40 [Info] [Death Notes] A Scientist shot down Utunergalann.
+00:40 [Info] [Rewards] ✪SaMMa✪ got 25 for activity
+00:42 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198135193562|✪SaMMa✪ to protection list.
+00:42 [Info] [Rewards] Utunergalann got 25 for activity
+00:42 [Info] [Rewards] amacer6 got 25 for activity
+00:42 [Info] [Rewards] Zuma got 250 as a welcome reward
+00:42 [Info] [Rewards] Data saved
+00:43 [Info] [Rewards] Zuma got 25 for activity
+00:46 [Info] [Economics] Saving balances for players...
+00:47 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198135193562|✪SaMMa✪.
+00:48 [Info] [Rewards] Utunergalann got 25 for activity
+00:48 [Info] [Rewards] amacer6 got 25 for activity
+00:48 [Info] [Better Chat] [Player] amacer6: tpa to acept
+00:49 [Info] [Rewards] Zuma got 25 for activity
+00:54 [Info] [Rewards] Utunergalann got 25 for activity
+00:54 [Info] [Rewards] amacer6 got 25 for activity
+00:54 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+00:59 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:00 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 129ms [GARBAGE COLLECT]
+01:00 [Info] [Rewards] Utunergalann got 25 for activity
+01:00 [Info] [Rewards] amacer6 got 25 for activity
+01:00 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:02 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 408ms
+01:05 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:05 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+01:06 [Info] [Economics] Saving balances for players...
+01:06 [Info] [Rewards] Utunergalann got 25 for activity
+01:06 [Info] [Rewards] amacer6 got 25 for activity
+01:06 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:07 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: ZoneManager, TimedExecute, NightLantern and NoDecay
+01:07 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+01:07 [Warning] [Update Checker] Following plugins are outdated:
+
+01:11 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:11 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:12 [Info] [Rewards] Utunergalann got 25 for activity
+01:12 [Info] [Rewards] amacer6 got 25 for activity
+01:13 [Info] [Death Notes] amacer6 shot a Bear using their Double Barrel Shotgun over a distance of 3 meters.
+01:13 [Info] [Rewards] amacer6 got 52.5 for killing a bear
+01:13 [Info] [Rewards] Utunergalann got 35 for killing a bear
+01:14 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 396ms
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:16 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x10
+01:17 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:17 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:18 [Info] [Rewards] Utunergalann got 25 for activity
+01:18 [Info] [Rewards] amacer6 got 25 for activity
+01:18 [Info] [Death Notes] [ZTC] Zuma bled out after being attacked by Utunergalann.
+01:23 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 131ms [GARBAGE COLLECT]
+01:23 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:23 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:23 [Info] [Rewards] eDd_uU <3 got 250 as a welcome reward
+01:23 [Info] [Rewards] Data saved
+01:24 [Info] [Rewards] Utunergalann got 25 for activity
+01:24 [Info] [Rewards] amacer6 got 25 for activity
+01:24 [Info] [Rewards] eDd_uU <3 got 25 for activity
+01:25 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198346090407|eDd_uU <3 to protection list.
+01:26 [Info] [Economics] Saving balances for players...
+01:28 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:29 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:29 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 5,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+01:29 [Warning] Calling 'OnEntityDeath' on 'GUIAnnouncements v1.23.83' took 139ms [GARBAGE COLLECT]
+01:30 [Info] [Rewards] Utunergalann got 25 for activity
+01:30 [Info] [Rewards] amacer6 got 25 for activity
+01:30 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198346090407|eDd_uU <3.
+01:34 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:35 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:35 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+01:36 [Info] [Rewards] Utunergalann got 25 for activity
+01:36 [Info] [Rewards] amacer6 got 25 for activity
+01:38 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 418ms
+01:40 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:40 [Warning] Calling 'OnFrame' on 'WeaponTrajectory v1.0.1' took 126ms [GARBAGE COLLECT]
+01:41 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:42 [Info] [Rewards] Utunergalann got 25 for activity
+01:42 [Info] [Rewards] amacer6 got 25 for activity
+01:45 [Info] [GUI Shop] Player: [ZTC] Zuma Buyed Item: lowgradefuel x10
+01:45 [Info] [GUI Shop] Player: [ZTC] Zuma Buyed Item: lowgradefuel x10
+01:45 [Info] [GUI Shop] Player: [ZTC] Zuma Buyed Item: lowgradefuel x10
+01:45 [Info] [GUI Shop] Player: [ZTC] Zuma Buyed Item: lowgradefuel x10
+01:45 [Info] [GUI Shop] Player: [ZTC] Zuma Buyed Item: lowgradefuel x10
+01:46 [Info] [Economics] Saving balances for players...
+01:46 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:47 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:48 [Info] [Rewards] Utunergalann got 25 for activity
+01:48 [Info] [Rewards] amacer6 got 25 for activity
+01:51 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 409ms
+01:52 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:53 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+01:54 [Info] [Rewards] Utunergalann got 25 for activity
+01:54 [Info] [Rewards] amacer6 got 25 for activity
+01:58 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+01:58 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Selled Item: sulfur x1000
+01:59 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:00 [Info] [Rewards] Utunergalann got 25 for activity
+02:00 [Info] [Rewards] amacer6 got 25 for activity
+02:02 [Info] [Dangerous Treasures] M4: Custom SMG (1), M92 Pistol (1), Metal Facemask (1), Assault Rifle (1), Incendiary 5.56 Rifle Ammo (60), 12 Gauge Buckshot (24)
+02:02 [Info] [Dangerous Treasures] Event at M4
+02:02 [Info] [Dangerous Treasures] Next automated event in 1 hour, 34 minutes, and 58 seconds at 07/23/2018 03:37:22
+02:04 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+02:04 [Info] [PlayerRankings] Malikas has been ranked up to Pro
+02:05 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:05 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+02:05 [Info] [AutoPurge] Included entity count on this run: 583
+02:05 [Info] [AutoPurge] Nothing to remove... up to date.
+02:06 [Info] [Economics] Saving balances for players...
+02:06 [Info] [Rewards] Utunergalann got 25 for activity
+02:06 [Info] [Rewards] amacer6 got 25 for activity
+02:06 [Info] [Rewards] Malikas got 25 for activity
+02:06 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: DCProtect, CraftingController, LustyMap, BetterLoot, RustIO, CopyPaste, Metabolism, AutoDoors, SurveyBlocker, Airstrike, BuildingGrades, ConnectMessages, Bank, EnhancedHammer, Clans, UpdateNotice, Godmode, ImageLibrary, Trade, Ping, DiscordMessages, GUIShop, BradleyControl, SafeTraps, TurboGather, OfflineDoors, NoDecay, ZLevelsRemastered, LockSync, RandomDeployables, LoadingMessages, GUIAnnouncements, AutoPurge, PlayerChallenges, ItemSkinRandomizer, PlayerRankings, NTeleportation, OnScreenLogo, XpRevived, DecayNotifications, HeliRide, Kits, ZoneManager, ZoneDomes, QuickSmelt, TimedExecute, SaveMyMap, ExplodingBarrels, WeaponTrajectory, PopupNotifications, ServerInfo, RemoverTool, ServerRewards, TankCommander, PlayerRanks, PlaytimeTracker, NightLantern, StackSizeController, SkipNightUI, PrivateMessage, SupplySignalAlerts, Quests and SignArtist
+02:06 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: MoneyTime and LifeStealer
+02:06 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+02:06 [Warning] [Update Checker] Following plugins are outdated:
+# Duelist | Installed: 1.1.6 - Latest: 1.1.7 | https://umod.org/plugins/Duelist
+# Dangerous Treasures | Installed: 1.1.4 - Latest: 1.1.51 | https://umod.org/plugins/DangerousTreasures
+02:09 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+02:10 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 129ms [GARBAGE COLLECT]
+02:11 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:12 [Info] [Rewards] Utunergalann got 25 for activity
+02:12 [Info] [Rewards] amacer6 got 25 for activity
+02:12 [Info] [Rewards] Malikas got 25 for activity
+02:13 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198083769728|Malikas to protection list.
+02:15 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+02:17 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:18 [Info] [Rewards] Utunergalann got 25 for activity
+02:18 [Info] [Rewards] amacer6 got 25 for activity
+02:18 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198083769728|Malikas.
+02:21 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+02:21 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: lowgradefuel x100
+02:23 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:24 [Info] [Rewards] Utunergalann got 25 for activity
+02:24 [Info] [Rewards] amacer6 got 25 for activity
+02:26 [Info] [Economics] Saving balances for players...
+02:27 [Info] [Rewards] [ZTC] Zuma got 25 for activity
+02:28 [Warning] [DCProtect] Player Disconnected. Adding Player 76561198121046141|[ZTC] Zuma to protection list.
+02:29 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:30 [Info] [Rewards] Utunergalann got 25 for activity
+02:30 [Info] [Rewards] amacer6 got 25 for activity
+02:30 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 5,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+02:31 [Warning] [DCProtect] Player 76561198135193562|[ZTC] ✪SaMMa✪ tried to loot 76561198121046141|[ZTC] Zuma after they disconnected...tisk tisk.
+02:32 [Info] [Death Notes] [ZTC] ✪SaMMa✪ had enough of life.
+02:32 [Info] [Death Notes] Utunergalann killed a Chicken using their Rock.
+02:32 [Info] [Rewards] Utunergalann got 15 for killing a chicken
+02:32 [Info] [Rewards] Utunergalann got 15 for killing a chicken
+02:33 [Warning] [DCProtect] Timer Complete. Removing Player: 76561198121046141|[ZTC] Zuma.
+02:35 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:35 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+02:36 [Info] [Rewards] Utunergalann got 25 for activity
+02:36 [Info] [Rewards] amacer6 got 25 for activity
+02:37 [Info] [Death Notes] amacer6 did not want to be a part of the Scientist's experiments.
+02:39 [Info] [Death Notes] amacer6 shot a Horse using their Hunting Bow over a distance of 19.4 meters.
+02:39 [Info] [Rewards] amacer6 got 15 for killing a horse
+02:39 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 139ms [GARBAGE COLLECT]
+02:39 [Info] [Death Notes] amacer6 shot a Wolf using their Hunting Bow over a distance of 1.8 meters.
+02:39 [Info] [Rewards] amacer6 got 30 for killing a wolf
+02:40 [Info] [Death Notes] amacer6 shot a Boar using their Hunting Bow over a distance of 6.4 meters.
+02:40 [Info] [Rewards] amacer6 got 15 for killing a boar
+02:41 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:42 [Info] [Rewards] Utunergalann got 25 for activity
+02:42 [Info] [Rewards] amacer6 got 25 for activity
+02:44 [Info] [Death Notes] amacer6 shot a Wolf using their Hunting Bow over a distance of 1.9 meters.
+02:44 [Info] [Rewards] amacer6 got 30 for killing a wolf
+02:46 [Info] [Economics] Saving balances for players...
+02:46 [Warning] Calling 'OnServerSave' on 'PlayerChallenges v2.0.43' took 141ms [GARBAGE COLLECT]
+02:47 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:48 [Info] [Rewards] Utunergalann got 25 for activity
+02:48 [Info] [Rewards] amacer6 got 25 for activity
+02:52 [Info] [Death Notes] A Scientist shot down [ZTC] ✪SaMMa✪.
+02:52 [Info] [Rewards] 2832453 got 50 for killing [ZTC] ✪SaMMa✪
+02:53 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+02:54 [Info] [Rewards] Utunergalann got 25 for activity
+02:54 [Info] [Rewards] amacer6 got 25 for activity
+02:55 [Info] [Death Notes] [ZTC] ✪SaMMa✪ had enough of life.
+02:55 [Warning] Calling 'OnEntityDeath' on 'GUIAnnouncements v1.23.83' took 137ms [GARBAGE COLLECT]
+02:58 [Info] [Death Notes] [ZTC] ✪SaMMa✪ had enough of life.
+02:59 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:00 [Info] [Rewards] Utunergalann got 25 for activity
+03:00 [Info] [Rewards] amacer6 got 25 for activity
+03:03 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 14,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+03:03 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 14,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+03:03 [Error] [Death Notes] Exception while trying to access Flame component: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Oxide.Plugins.DeathNotes.HandleExceptions (Oxide.Plugins.DeathNotes+DeathData& data) [0x000eb] in <2da646b9c73f4244bb1e1fd6a486a167>:0 
+
+Death Details: {
+  "VictimEntityType": 5,
+  "KillerEntityType": 15,
+  "DamageType": 11
+}
+03:05 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:05 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+03:06 [Info] [Economics] Saving balances for players...
+03:06 [Info] [Rewards] Utunergalann got 25 for activity
+03:06 [Info] [Rewards] amacer6 got 25 for activity
+03:06 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: LockSync, NoDecay, GUIAnnouncements, Gyrocopter, Godmode, TurboGather, PrivateMessage, TimedExecute, RemoverTool, UpdateNotice, XpRevived, Quests, OfflineDoors, QuickSmelt, Metabolism, PlayerChallenges, PlayerRankings, WeaponTrajectory, PlayerRanks, Friends, Trade, OnScreenLogo, ConnectMessages, InfoPanel, BuildingGrades, BradleyControl, StackSizeController, BotSpawn, PlaytimeTracker, NTeleportation, HeliRide, ImageLibrary, SaveMyMap, ItemSkinRandomizer, SurveyBlocker, SignArtist, ServerRewards, SkipNightUI and SafeTraps
+03:06 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: MoneyTime and LifeStealer
+03:06 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+03:06 [Warning] [Update Checker] Following plugins are outdated:
+
+03:09 [Info] [Death Notes] Utunergalann did not want to be a part of the Scientist's experiments.
+03:11 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:12 [Info] [Rewards] Utunergalann got 25 for activity
+03:12 [Info] [Rewards] amacer6 got 25 for activity
+03:12 [Info] [Death Notes] Utunergalann shot a Wolf using their Hunting Bow over a distance of 7 meters.
+03:12 [Info] [Rewards] Utunergalann got 30 for killing a wolf
+03:15 [Info] [Death Notes] amacer6 was shot by Utunergalann with their Hunting Bow over a distance of 5 meters.
+03:15 [Warning] Calling 'OnEntityDeath' on 'GUIAnnouncements v1.23.83' took 140ms [GARBAGE COLLECT]
+03:17 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:18 [Info] [Rewards] Utunergalann got 25 for activity
+03:18 [Info] [Rewards] amacer6 got 25 for activity
+03:23 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:24 [Info] [Rewards] Utunergalann got 25 for activity
+03:24 [Info] [Rewards] amacer6 got 25 for activity
+03:26 [Info] [Economics] Saving balances for players...
+03:28 [Info] [Death Notes] amacer6 did not want to be a part of the Scientist's experiments.
+03:28 [Info] [Death Notes] A Scientist shot down amacer6.
+03:29 [Info] [Death Notes] A Scientist shot down Utunergalann.
+03:29 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:30 [Info] [Rewards] Utunergalann got 25 for activity
+03:30 [Info] [Rewards] amacer6 got 25 for activity
+03:33 [Info] [Death Notes] Utunergalann shot a Bear using their Spas-12 Shotgun over a distance of 3.1 meters.
+03:33 [Info] [Rewards] Utunergalann got 35 for killing a bear
+03:33 [Info] [Rewards] Utunergalann got 35 for killing a bear
+03:34 [Info] [Death Notes] amacer6 did not want to be a part of the Scientist's experiments.
+03:35 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:35 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+03:36 [Info] [Rewards] Utunergalann got 25 for activity
+03:36 [Info] [Rewards] amacer6 got 25 for activity
+03:36 [Info] [Dangerous Treasures] O3: 12 Gauge Buckshot (24), Timed Explosive Charge (1), Explosive 5.56 Rifle Ammo (60), High Quality Metal (150), MP5A4 (1), HV Pistol Ammo (40)
+03:36 [Info] [Dangerous Treasures] Event at O3
+03:36 [Info] [Dangerous Treasures] Next automated event in 1 hour, 57 minutes, and 47 seconds at 07/23/2018 05:34:23
+03:38 [Warning] Calling 'OnPlayerInput' on 'TankCommander v0.1.6' took 133ms [GARBAGE COLLECT]
+03:40 [Info] [Death Notes] amacer6 did not want to be a part of the Scientist's experiments.
+03:41 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:41 [Info] [Death Notes] Utunergalann did not want to be a part of the Scientist's experiments.
+03:42 [Info] [Rewards] Utunergalann got 25 for activity
+03:42 [Info] [Rewards] amacer6 got 25 for activity
+03:46 [Info] [Economics] Saving balances for players...
+03:47 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:47 [Info] [Death Notes] Utunergalann fell to their death.
+03:48 [Info] [Rewards] Utunergalann got 25 for activity
+03:48 [Info] [Rewards] amacer6 got 25 for activity
+03:53 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+03:53 [Warning] Calling 'OnEntityDeath' on 'GUIAnnouncements v1.23.83' took 136ms [GARBAGE COLLECT]
+03:54 [Info] [Rewards] Utunergalann got 25 for activity
+03:54 [Info] [Rewards] amacer6 got 25 for activity
+03:59 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+04:00 [Info] [Rewards] Utunergalann got 25 for activity
+04:00 [Info] [Rewards] amacer6 got 25 for activity
+04:04 [Warning] Calling 'OnEntityDeath' on 'GUIAnnouncements v1.23.83' took 132ms [GARBAGE COLLECT]
+04:05 [Info] [Rewards] [ZTC] ✪SaMMa✪ got 25 for activity
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x10
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x10
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x1
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x1
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x1
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x1
+04:05 [Info] [GUI Shop] Player: [ZTC] ✪SaMMa✪ Buyed Item: scrap x1
+04:05 [Info] [Duelist] Type /duel for information on the dueling system. See your standing on the leaderboard by using /duel ladder. Type /queue to enter the dueling queue now!
+04:06 [Info] [Economics] Saving balances for players...
+04:06 [Info] [Rewards] Utunergalann got 25 for activity
+04:06 [Info] [Rewards] amacer6 got 25 for activity

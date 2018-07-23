@@ -1,0 +1,18 @@
+{
+  "BoostStart": "<color=#00FFFF>Engaging turbo gather! (x{0} resources for {1}s) </color>",
+  "BoostEnd": "<color=#00FFFF>Your ability has ended! (available again in {0}s) </color>",
+  "NoPermissions": "<color=#B20000>You do not have the required permissions to use this command! </color>",
+  "AlreadyInUse": "<color=#B20000>Your ability is already in use!</color>",
+  "OnCooldown": "<color=#B20000>You are currently on cooldown! ({0}s remaining) </color>",
+  "CooldownEnded": "<color=#00FFFF>Your cooldown has ended! </color>",
+  "AdminInvalidSyntax": "<color=#B20000>Invalid syntax! /giveturbo <playername> <length> <multiplier> </color>",
+  "PlayerOffline": "<color=#B20000>The playername / ID you entered is not online or invalid! </color>",
+  "PlayerGivenTurbo": "<color=#00FFFF>{0}'s TurboGather has been activated! (x{1} for {2}s) </color>",
+  "PlayerGivenTurbo(CONSOLE)": "{0}'s TurboGather has been activated! (x{1} for {2}s)",
+  "AdminBoostEnd": "<color=#00FFFF>Your admin applied ability has ended! </color>",
+  "AdminBoostStart": "<color=#00FFFF>An admin has given you turbo gather! (x{0} resources for {1}s) </color>",
+  "AnimalBoostEnd": "<color=#00FFFF>Your ability has ended!</color>",
+  "InvalidSyntaxGlobal": "<color=#B20000>Invalid syntax! /globalturbo <length> <multiplier> </color>",
+  "GlobalTurboInvoke": "<color=#00FFFF>An admin has started a global turbogather! (x{0} resources for {1}s!)</color>",
+  "GlobalTurboEnd": "<color=#00FFFF>Global turbogather has ended!</color>"
+}

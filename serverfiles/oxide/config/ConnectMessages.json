@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "ShowConnectMessage": true,
+    "ShowConnectCountry": true,
+    "ShowDisconnectMessage": true,
+    "ShowDisconnectReason":  true,
+    "ShowAdminMessages": true
+  }
+}

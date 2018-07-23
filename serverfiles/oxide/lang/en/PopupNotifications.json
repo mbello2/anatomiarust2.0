@@ -1,0 +1,11 @@
+{
+  "Usage: /popupmsg \"Your message here.\" OR /popupmsg \"player name\" \"You message here.\"": "Usage: /popupmsg \"Your message here.\" OR /popupmsg \"player name\" \"You message here.\"",
+  "Invalid duration": "Invalid duration",
+  "Usage: popupmsg.global \"Your message here.\" duration": "Usage: popupmsg.global \"Your message here.\" duration",
+  "Couldn't send popup notification to player": "Couldn't send popup notification to player",
+  "Usage: popupmsg.toplayer \"Your message here.\" \"Player name\" <duration>": "Usage: popupmsg.toplayer \"Your message here.\" \"Player name\" <duration>",
+  "No players found with that name": "No players found with that name",
+  "Multiple players found with that name": "Multiple players found with that name",
+  "{0} is not online": "{0} is not online",
+  "Unable to find a valid player": "Unable to find a valid player"
+}

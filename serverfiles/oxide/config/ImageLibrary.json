@@ -1,0 +1,7 @@
+{
+  "Avatars - Store player avatars": true,
+  "Progress - Show download progress in console": true,
+  "Progress - Time between update notifications": 20,
+  "User Images - Manually define images to be loaded": {},
+  "Workshop - Download workshop image information": true
+}

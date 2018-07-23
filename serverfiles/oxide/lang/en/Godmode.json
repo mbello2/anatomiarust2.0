@@ -1,0 +1,14 @@
+{
+  "GodmodeDisabled": "You have disabled godmode",
+  "GodmodeDisabledBy": "Your godmode has been disabled by {0}",
+  "GodmodeDisabledFor": "You have disabled godmode for {0}",
+  "GodmodeEnabled": "You have enabled godmode",
+  "GodmodeEnabledBy": "Your godmode has been enabled by {0}",
+  "GodmodeEnabledFor": "You have enabled godmode for {0}",
+  "InformAttacker": "{0} is in godmode and can't take any damage",
+  "InformVictim": "{0} just tried to deal damage to you",
+  "NoGods": "No players currently have godmode enabled",
+  "NoLooting": "You are not allowed to loot a player with godmode",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "PlayerNotFound": "Player '{0}' was not found"
+}

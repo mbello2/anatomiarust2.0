@@ -1,0 +1,8 @@
+{
+  "KickWarning": "Vous sera lancé dans {0} secondes si votre ping n’est pas abaissé",
+  "NotAllowed": "Vous n’êtes pas autorisé à utiliser la commande « {0} »",
+  "PingTooHigh": "Ping est trop élevée : {0} ms",
+  "PlayerKicked": "{0} expulsé pour ping élevé ({1} ms)",
+  "PlayerNotFound": "Player « {0} » n’a pas été trouvée",
+  "YourPing": "Vous avez un ping de {0} ms"
+}

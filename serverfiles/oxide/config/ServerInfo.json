@@ -1,0 +1,178 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "First Tab",
+        "HeaderText": "First Tab",
+        "Pages": [
+          {
+            "TextLines": [
+              "This is first tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "Press next page to check second page.",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "http://th04.deviantart.net/fs70/PRE/f/2012/223/4/4/rust_logo_by_furrypigdog-d5aqi3r.png",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "http://files.enjin.com/176331/IMGS/LOGO_RUST1.fw.png",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://files.enjin.com/176331/IMGS/LOGO_RUST1.fw.png",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://th04.deviantart.net/fs70/PRE/f/2012/223/4/4/rust_logo_by_furrypigdog-d5aqi3r.png",
+                "TransparencyInPercent": 100
+              }
+            ]
+          },
+          {
+            "TextLines": [
+              "This is first tab, second page",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "Press next page to check third page.",
+              "Press prev page to go back to first page.",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "This is first tab, third page",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "Press prev page to go back to second page."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Second Tab",
+        "HeaderText": "Second Tab",
+        "Pages": [
+          {
+            "TextLines": [
+              "This is second tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Third Tab",
+        "HeaderText": "Third Tab",
+        "Pages": [
+          {
+            "TextLines": [
+              "This is third tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://7-themes.com/data_images/out/35/6889756-black-backgrounds.jpg",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#127127127255",
+    "CloseButtonColor": "#127127127255",
+    "NextPageButtonColor": "#127127127255",
+    "PrevPageButtonColor": "#127127127255",
+    "BackgroundColor": "#000255",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#127127127255",
+      "FontSize": 18
+    },
+    "UpgradedConfig": false
+  }
+}

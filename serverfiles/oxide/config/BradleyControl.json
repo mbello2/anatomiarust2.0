@@ -1,0 +1,30 @@
+{
+  "options": {
+    "bradleyEnabled": true,
+    "respawnDelay": 5.0,
+    "startHealth": 1000.0,
+    "maxTurretRange": 100.0,
+    "gunAccuracy": 1.0,
+    "gunDamage": 1.0,
+    "speed": 1.0,
+    "targetsNakeds": true,
+    "ammoDoesDamage": false,
+    "maxLootCrates": 2,
+    "customLootTables": false,
+    "enableNapalm": true,
+    "napamWaterRequired": -1,
+    "lootAccessDelay": -1.0,
+    "enableGibs": true,
+    "gibsHotDelay": -1.0,
+    "gibsHealth": 500.0,
+    "disableStartSearch": false
+  },
+  "lootTables": {
+    "bradleyCrate": {}
+  },
+  "targetable": {
+    "mostClothing": 2,
+    "targetable": [],
+    "nonTargetable": []
+  }
+}

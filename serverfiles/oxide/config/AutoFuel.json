@@ -1,0 +1,17 @@
+{
+  "Settings": {
+    "Don't require fuel": false
+  },
+  "Types to autofuel": {
+    "Use Barbeque": false,
+    "Use Campfire": false,
+    "Use Ceiling Light": true,
+    "Use Fireplace": false,
+    "Use Furnace": false,
+    "Use JackOLanterns": true,
+    "Use Lantern": true,
+    "Use Search Light": true,
+    "Use Skull Fire Pit": false,
+    "Use Tuna Can Lamp": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Settings": {
+    "Animals Enabled": false,
+    "Enabled Animals": [
+      "boar",
+      "horse",
+      "stag",
+      "chicken",
+      "wolf",
+      "bear"
+    ],
+    "Heal Percent": 0.5
+  },
+  "Static Heal": {
+    "Static Heal Amount": 5.0,
+    "Static Heal Enabled": false
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Admin": {
+    "MaxLevel": 2,
+    "MinLevel": 1
+  },
+  "AdminColors": {
+    "1": "#b4da73"
+  },
+  "Dependencies": {
+    "PopupNotifications": false
+  },
+  "FadeGradient": {
+    "1": "#E6E6E6",
+    "2": "#C8C8C8",
+    "3": "#AAAAAA",
+    "4": "#8C8C8C",
+    "5": "#6E6E6E"
+  },
+  "General": {
+    "IconDisabled": "76561197967728661",
+    "MaxColorLength": 10,
+    "MaxTagLength": 15,
+    "Protocol": 2094,
+    "PublicPrefix": "@",
+    "ShowUserIcons": true,
+    "UserTagColor": "#00FFFF",
+    "VoipEnabled": true
+  },
+  "Local": {
+    "ChatPrefex": "Local",
+    "Enabled": true,
+    "FadeColors": true,
+    "PrefixColor": "#F5A9F2",
+    "PrefixEnabled": true,
+    "Radius": 60.0,
+    "ShowPlayerTags": true
+  },
+  "Messages": {
+    "AuthLevel": "You <color=red>don't</color> have the required auth level.",
+    "DBCleared": "You have <color=green>successfully</color> cleared the MagicChat database.",
+    "PublicDisabled": "Public chat is currently <color=red>disabled</color>."
+  },
+  "Notifications": {
+    "Enabled": true,
+    "TimerInterval": 60
+  },
+  "Public": {
+    "ChatPrefex": "Public",
+    "Enabled": true,
+    "PrefixColor": "#82FA58",
+    "PrefixEnabled": true,
+    "ShowPlayerTags": true
+  },
+  "UserSettings": {
+    "AdminColor": "#b4da73",
+    "AllowIconHide": false,
+    "DefaultCanColor": true,
+    "DefaultCanTag": true,
+    "DefaultColor": "#81DAF5",
+    "DefaultPublicChat": true,
+    "DefaultTag": "O.G.",
+    "DefaultWorld": 0
+  }
+}

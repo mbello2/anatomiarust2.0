@@ -1,0 +1,88 @@
+{
+  "DataProfiles": {
+    "Ricardim": {
+      "AutoSpawn": false,
+      "Murderer": false,
+      "Bots": 5,
+      "BotHealth": 100,
+      "Radius": 100,
+      "Kit": [],
+      "BotNamePrefix": "",
+      "BotNames": [
+        ""
+      ],
+      "Bot_Accuracy": 4,
+      "Bot_Damage": 0.4,
+      "Disable_Radio": true,
+      "Roam_Range": 40,
+      "Peace_Keeper": true,
+      "Peace_Keeper_Cool_Down": 5,
+      "Weapon_Drop": true,
+      "Keep_Default_Loadout": false,
+      "Wipe_Belt": true,
+      "Wipe_Clothing": true,
+      "Allow_Rust_Loot": true,
+      "Suicide_Timer": 300,
+      "Chute": false,
+      "Respawn_Timer": 60,
+      "LocationX": -960.869141,
+      "LocationY": 21.960022,
+      "LocationZ": 657.9349,
+      "Parent_Monument": "",
+      "Sci_Aggro_Range": 30,
+      "Sci_DeAggro_Range": 40
+    },
+    "DynamicPVP": {
+      "AutoSpawn": false,
+      "Murderer": false,
+      "Bots": 2,
+      "BotHealth": 100,
+      "Radius": 20,
+      "Kit": [],
+      "BotNamePrefix": "Sgt.",
+      "BotNames": [],
+      "Bot_Accuracy": 4,
+      "Bot_Damage": 0.4,
+      "Disable_Radio": false,
+      "Roam_Range": 20,
+      "Peace_Keeper": true,
+      "Peace_Keeper_Cool_Down": 5,
+      "Weapon_Drop": true,
+      "Keep_Default_Loadout": false,
+      "Wipe_Belt": false,
+      "Wipe_Clothing": false,
+      "Allow_Rust_Loot": true,
+      "Suicide_Timer": 1200,
+      "Chute": false,
+      "Respawn_Timer": 0,
+      "LocationX": 0.0,
+      "LocationY": 0.0,
+      "LocationZ": 0.0,
+      "Parent_Monument": "",
+      "Sci_Aggro_Range": 30,
+      "Sci_DeAggro_Range": 40
+    }
+  },
+  "MigrationDataDoNotEdit": {
+    "Ricardim": {
+      "OldParentMonumentX": 0.0,
+      "OldParentMonumentY": 0.0,
+      "OldParentMonumentZ": 0.0,
+      "ParentMonumentX": 0.0,
+      "ParentMonumentY": 0.0,
+      "ParentMonumentZ": 0.0,
+      "oldRotation": 0.0,
+      "worldRotation": 0.0
+    },
+    "DynamicPVP": {
+      "OldParentMonumentX": 0.0,
+      "OldParentMonumentY": 0.0,
+      "OldParentMonumentZ": 0.0,
+      "ParentMonumentX": 0.0,
+      "ParentMonumentY": 0.0,
+      "ParentMonumentZ": 0.0,
+      "oldRotation": 0.0,
+      "worldRotation": 0.0
+    }
+  }
+}

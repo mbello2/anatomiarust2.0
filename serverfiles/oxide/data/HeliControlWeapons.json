@@ -1,0 +1,24 @@
+{
+  "WeaponList": {
+    "Assault Rifle": 1.0,
+    "Bolt Action Rifle": 1.0,
+    "Hunting Bow": 1.0,
+    "Crossbow": 1.0,
+    "LR-300 Assault Rifle": 1.0,
+    "M249": 1.0,
+    "M92 Pistol": 1.0,
+    "MP5A4": 1.0,
+    "Nailgun": 1.0,
+    "Eoka Pistol": 1.0,
+    "Revolver": 1.0,
+    "Semi-Automatic Pistol": 1.0,
+    "Python Revolver": 1.0,
+    "Semi-Automatic Rifle": 1.0,
+    "Double Barrel Shotgun": 1.0,
+    "Pump Shotgun": 1.0,
+    "Waterpipe Shotgun": 1.0,
+    "Custom SMG": 1.0,
+    "Spas-12 Shotgun": 1.0,
+    "Thompson": 1.0
+  }
+}

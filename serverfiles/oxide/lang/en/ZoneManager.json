@@ -1,0 +1,18 @@
+{
+  "noBuild": "You are not allowed to build in this area!",
+  "noUpgrade": "You are not allowed to upgrade structures in this area!",
+  "noDeploy": "You are not allowed to deploy items in this area!",
+  "noCup": "You are not allowed to deploy cupboards in this area!",
+  "noChat": "You are not allowed to chat in this area!",
+  "noSuicide": "You are not allowed to suicide in this area!",
+  "noGather": "You are not allowed to gather in this area!",
+  "noLoot": "You are not allowed loot in this area!",
+  "noSignUpdates": "You can not update signs in this area!",
+  "noOvenToggle": "You can not toggle ovens and lights in this area!",
+  "noPickup": "You can not pick up objects in this area!",
+  "noVending": "You can not use vending machines in this area!",
+  "noStash": "You can not hide a stash in this area!",
+  "noCraft": "You can not craft in this area!",
+  "eject": "You are not allowed in this area!",
+  "kill": "Access to this area is restricted!"
+}

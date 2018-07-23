@@ -1,0 +1,32 @@
+{
+  "Text Display Frequency (Seconds)": 0.3,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=yellow>Bem Vindo ao Servidor!</color>",
+      "Bottom Status": "<color=lightblue>Obrigado Pela Preferencia.</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>Bem Vindo ao Servidor !!</color>",
+      "Bottom Status": "<color=yellow>Carregando.</color>"
+    }
+  ],
+  "Enable Queue Messages": false,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=yellow>You're in queue...</color>",
+      "Bottom Status": "<color=lightblue>{AHEAD} players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>You're in queue...</color>",
+      "Bottom Status": "<color=yellow>{BEHIND} players behind you.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=yellow>Bem Vindo ao Servidor !!</color>",
+    "Bottom Status": "<color=green>Entrando no Jogo...</color>"
+  }
+}

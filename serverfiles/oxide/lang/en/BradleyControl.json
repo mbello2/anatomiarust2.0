@@ -1,0 +1,11 @@
+{
+  "BRADLEY_ABOUT": "<color=#ff3b3b>Bradley Control {Version}</color>: by <color=green>mattparks</color>. Bradley Control is a plugin that controls Bradley properties. Use the /bradley command as follows: \n <color=#1586db>•</color> /bradley - Displays Bradley Control about and help. \n <color=#1586db>•</color> /bradley reset - Resets the Bradley in the area. \n <color=#1586db>•</color> /bradley clearGibs - Clears all Bradley gibs/parts. \n <color=#1586db>•</color> /bradley clearFire - Clears all Bradley fire. \n <color=#1586db>•</color> /bradley clearCrates - Clears all Bradley crates. \n <color=#1586db>•</color> /bradley unlockCrates - Unlocks all Bradley crates. \n <color=#1586db>•</color> /bradley clearAll - Clears all Bradley stuff.",
+  "BRADLEY_RESET": "<color=#ff3b3b>Resetting the Bradley!</color>",
+  "BRADLEY_RESET_FAIL": "<color=#ff3b3b>Failed to reset the Bradley!</color>",
+  "BRADLEY_REMOVE_GIBS": "<color=#ff3b3b>Removing Bradley gibs from the world!</color>",
+  "BRADLEY_REMOVE_FIRE": "<color=#ff3b3b>Removing Bradley fire from the world!</color>",
+  "BRADLEY_UNLOCK_CRATES": "<color=#ff3b3b>Unlocking Bradley crates!</color>",
+  "BRADLEY_REMOVE_CRATES": "<color=#ff3b3b>Removing Bradley crates!</color>",
+  "BRADLEY_REMOVE_ALL": "<color=#ff3b3b>Removing all Bradleys, parts, fires, and crates!</color>",
+  "BRADLEY_COUNT": "There are {Count} Bradleys."
+}

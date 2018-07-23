@@ -1,0 +1,5 @@
+{
+  "noheli": "You are not flying a helicopter.",
+  "notallowed": "You are not allowed to access that command.",
+  "notflying": "You must be noclipping to activate Helicopter."
+}

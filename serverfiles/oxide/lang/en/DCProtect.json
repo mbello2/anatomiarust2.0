@@ -1,0 +1,15 @@
+{
+  "NotAllowed": "This player has just disconnected. They are protected for '{0}' seconds. This action has been logged.",
+  "ServerStart": "The server just started. All players are protected for '{0}' seconds. This action has been logged.",
+  "InvalidCommand": "[DCP] That is an invalid command.",
+  "ManualAdd": "[DCP] You are looking at player {0}|{1}. Manually adding protection.",
+  "ManualRemove": "[DCP] You are looking at player {0}|{1}. Manually removing protection.",
+  "ListTitle": "[DCP] Current Protected Player List",
+  "TimerComplete": "Timer Complete. Removing Player: {0}|{1}.",
+  "PlayerDisconnected": "Player Disconnected. Adding Player {0}|{1} to protection list.",
+  "LogViolation_DC_Loot": "Player {0}|{1} tried to loot {2}|{3} after they disconnected...tisk tisk.",
+  "LogViolation_ServerStart_Loot": "Player {0}|{1} tried to loot {2}|{3} after the server started...tisk tisk.",
+  "LogViolation_DC_Damage": "Player {0}|{1} tried to damage {2}|{3} after they disconnected...tisk tisk.",
+  "LogViolation_ServerStart_Damage": "Player {0}|{1} tried to damage {2}|{3} after the server started...tisk tisk.",
+  "Usage": "<size=30><color=blue>DC Protect</color></size> v{0}\nby {1}\n\nNOTE: All commands are meant for testing by a moderator or administrator.\n\nUsage Syntax:\n/DCP add - Manually add the player you are looking at to the protection list.\n/DCP remove - Manually remove the player you are looking at from the protection list.\n/DCP list - List all current protected players by SteamID.\n/DCP time - Show the number of seconds since the server has started.\n"
+}

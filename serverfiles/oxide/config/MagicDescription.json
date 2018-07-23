@@ -1,0 +1,6 @@
+{
+  "Server description": "Powered by Oxide {magic.version} for Rust {magic.version protocol}",
+  "Update interval (seconds)": 300,
+  "Show loaded plugins (true/false)": false,
+  "Hidden plugins (filename or title)": []
+}

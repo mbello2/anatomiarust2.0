@@ -1,0 +1,6 @@
+{
+  "Enable chat mute action": true,
+  "Enable chat unmute action": true,
+  "Enable voice mute action": true,
+  "Enable voice unmute action": true
+}

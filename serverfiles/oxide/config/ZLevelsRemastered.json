@@ -1,0 +1,122 @@
+{
+  "CUI": {
+    "Bounds": {
+      "HeightLower": "0.02",
+      "HeightUpper": "0.1225",
+      "WidthLeft": "0.725",
+      "WidthRight": "0.83"
+    },
+    "BoundsBackground": "0.1 0.1 0.1 0.1",
+    "cuiEnabled": true,
+    "FontColor": "0.74 0.76 0.78 1",
+    "FontSizeBar": 11,
+    "FontSizeLevel": 11,
+    "FontSizePercent": 11,
+    "TextShadowEnabled": true,
+    "XpBarBackground": "0.2 0.2 0.2 0.2",
+    "XpBarColors": {
+      "A": "0 0.8 0 0.5",
+      "C": "0.2 0.72 0.5 0.5",
+      "M": "0.1 0.5 0.8 0.5",
+      "S": "0.8 0.1 0 0.5",
+      "WC": "0.8 0.4 0 0.5"
+    }
+  },
+  "Functions": {
+    "CollectibleEntitys": {
+      "corn-collectable": true,
+      "halloween-bone-collectable": true,
+      "halloween-metal-collectable": true,
+      "halloween-stone-collectable": true,
+      "halloween-sulfur-collectible": true,
+      "halloween-wood-collectable": true,
+      "hemp-collectable": true,
+      "metal-collectable": true,
+      "mushroom-cluster-5": true,
+      "mushroom-cluster-6": true,
+      "pumpkin-collectable": true,
+      "stone-collectable": true,
+      "sulfur-collectable": true,
+      "wood-collectable": true
+    },
+    "enableCollectiblePickup": true,
+    "enableCropGather": true,
+    "enableDispenserGather": true
+  },
+  "Generic": {
+    "enableLevelupBroadcast": false,
+    "enablePermission": false,
+    "exludeWeaponsOnGather": false,
+    "gameProtocol": 2099,
+    "penaltyMinutes": 10,
+    "penaltyOnDeath": true,
+    "permissionName": "zlevelsremastered.use",
+    "playerCuiDefaultEnabled": true,
+    "playerPluginDefaultEnabled": true,
+    "pluginPrefix": "<color=orange>ZLevels</color>:",
+    "wipeDataOnNewSave": false
+  },
+  "NightBonus": {
+    "broadcastEnabledBonus": true,
+    "enableNightBonus": false,
+    "logEnabledBonusConsole": false,
+    "PointsPerHitAtNight": {
+      "A": 60,
+      "M": 60,
+      "S": 60,
+      "WC": 60
+    },
+    "ResourcePerLevelMultiplierAtNight": {
+      "A": 2,
+      "M": 2,
+      "S": 2,
+      "WC": 2
+    }
+  },
+  "Settings": {
+    "CraftingDetails": {
+      "PercentFasterPerLevel": 5,
+      "TimeSpent": 1,
+      "XPPerTimeSpent": 3
+    },
+    "DefaultResourceMultiplier": {
+      "A": 1,
+      "M": 1,
+      "S": 1,
+      "WC": 1
+    },
+    "LevelCaps": {
+      "A": 200,
+      "C": -1,
+      "M": 200,
+      "S": 200,
+      "WC": 200
+    },
+    "PercentLostOnDeath": {
+      "A": 50,
+      "C": 50,
+      "M": 50,
+      "S": 50,
+      "WC": 50
+    },
+    "PointsPerHit": {
+      "A": 30,
+      "M": 30,
+      "S": 30,
+      "WC": 30
+    },
+    "ResourcePerLevelMultiplier": {
+      "A": 2,
+      "M": 2,
+      "S": 2,
+      "WC": 2
+    },
+    "SkillColors": {
+      "A": "#ADD8E6",
+      "C": "#CCFF99",
+      "M": "#DDDDDD",
+      "S": "#FFDDDD",
+      "WC": "#FFDDAA"
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "Advanced Options": {
+    "Let Players Die Normally": false,
+    "Require 1v1 Maximum Spawn Points To Be Less Than Or Equal To X": 200,
+    "Require 1v1 Minimum Spawn Points To Be Equal Or Greater Than X": 2,
+    "Require TDM Minimum Spawn Points To Be Equal Or Greater To The Number Of Players Joining": false,
+    "Send Dead Players Back Home": true,
+    "Send Defeated Players Back Home": false
+  },
+  "Animals": {
+    "Die Instantly": false,
+    "Put To Sleep": true
+  },
+  "Betting": {
+    "Allow Bets To Be Forfeit": true,
+    "Allow Bets To Be Refunded": false,
+    "Bets": [
+      {
+        "itemid": -2099697608,
+        "max": 50000,
+        "trigger": "stone"
+      },
+      {
+        "itemid": -1581843485,
+        "max": 50000,
+        "trigger": "sulfur"
+      },
+      {
+        "itemid": 69511070,
+        "max": 50000,
+        "trigger": "fragment"
+      },
+      {
+        "itemid": -1938052175,
+        "max": 50000,
+        "trigger": "charcoal"
+      },
+      {
+        "itemid": -265876753,
+        "max": 25000,
+        "trigger": "gp"
+      },
+      {
+        "itemid": 317398316,
+        "max": 1000,
+        "trigger": "hqm"
+      },
+      {
+        "itemid": 1248356124,
+        "max": 10,
+        "trigger": "c4"
+      },
+      {
+        "itemid": -742865266,
+        "max": 6,
+        "trigger": "rocket"
+      }
+    ],
+    "Enabled": false
+  },
+  "Custom Kits": {
+    "Kits": {
+      "Assault Rifle and Bolt Action Rifle": [
+        {
+          "ammo": "ammo.rifle",
+          "amount": 1,
+          "container": "belt",
+          "mods": [
+            "weapon.mod.lasersight"
+          ],
+          "shortname": "rifle.ak",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": "ammo.rifle",
+          "amount": 1,
+          "container": "belt",
+          "mods": [
+            "weapon.mod.lasersight",
+            "weapon.mod.small.scope"
+          ],
+          "shortname": "rifle.bolt",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "largemedkit",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bandage",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "syringe.medical",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 10,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bearmeat.cooked",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "hoodie",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.facemask",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.plate.torso",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "pants",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.gloves",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "shoes.boots",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 200,
+          "container": "main",
+          "mods": null,
+          "shortname": "ammo.rifle",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "main",
+          "mods": null,
+          "shortname": "weapon.mod.flashlight",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "main",
+          "mods": null,
+          "shortname": "weapon.mod.small.scope",
+          "skin": 0,
+          "slot": -1
+        }
+      ],
+      "Hunting Bow": [
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bow.hunting",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 50,
+          "container": "belt",
+          "mods": null,
+          "shortname": "arrow.wooden",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "belt",
+          "mods": null,
+          "shortname": "spear.stone",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bandage",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "syringe.medical",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "largemedkit",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.gloves",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.headwrap",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.shirt",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.shoes",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.trousers",
+          "skin": 0,
+          "slot": -1
+        }
+      ],
+      "Pump Shotgun": [
+        {
+          "ammo": "ammo.shotgun.slug",
+          "amount": 1,
+          "container": "belt",
+          "mods": [
+            "weapon.mod.lasersight"
+          ],
+          "shortname": "shotgun.pump",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "largemedkit",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bandage",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "syringe.medical",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 10,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bearmeat.cooked",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "hoodie",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.facemask",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.plate.torso",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "pants",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.gloves",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "shoes.boots",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 200,
+          "container": "main",
+          "mods": null,
+          "shortname": "ammo.shotgun.slug",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "main",
+          "mods": null,
+          "shortname": "weapon.mod.flashlight",
+          "skin": 0,
+          "slot": -1
+        }
+      ],
+      "Semi-Automatic Pistol": [
+        {
+          "ammo": "ammo.pistol",
+          "amount": 1,
+          "container": "belt",
+          "mods": [
+            "weapon.mod.lasersight"
+          ],
+          "shortname": "pistol.semiauto",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "largemedkit",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bandage",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 5,
+          "container": "belt",
+          "mods": null,
+          "shortname": "syringe.medical",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 10,
+          "container": "belt",
+          "mods": null,
+          "shortname": "bearmeat.cooked",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "hoodie",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.facemask",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "metal.plate.torso",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "pants",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "burlap.gloves",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "wear",
+          "mods": null,
+          "shortname": "shoes.boots",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 200,
+          "container": "main",
+          "mods": null,
+          "shortname": "ammo.pistol",
+          "skin": 0,
+          "slot": -1
+        },
+        {
+          "ammo": null,
+          "amount": 1,
+          "container": "main",
+          "mods": null,
+          "shortname": "weapon.mod.flashlight",
+          "skin": 0,
+          "slot": -1
+        }
+      ]
+    },
+    "Use Workshop Skins": true
+  },
+  "Deathmatch": {
+    "Announce Deaths To Match": true,
+    "Announce Deaths To Server": false,
+    "Chat Command": "tdm",
+    "Economics Money [0 = disabled]": 0.0,
+    "Enabled": true,
+    "Evil Shirt Skin": 14177,
+    "Friendly Fire": true,
+    "Good Shirt Skin": 101,
+    "Max Team Size": 5,
+    "Min Team Size": 2,
+    "ServerRewards Points [0 = disabled]": 0,
+    "Shirt Shortname": "tshirt"
+  },
+  "Deployables": {
+    "Allow Barbed Wooden Barricade": false,
+    "Allow Concrete Barricade": false,
+    "Allow High External Stone Wall": false,
+    "Allow High External Wooden Wall": false,
+    "Allow Metal Barricade": false,
+    "Allow Sandbag Barricade": false,
+    "Allow Stone Barricade": false,
+    "Allow Wooden Barricade": false,
+    "Morph Barricades Into High External Stone Walls": false,
+    "Morph Barricades Into High External Wooden Walls": false
+  },
+  "Ranked Ladder": {
+    "Award Top X Players On Wipe": 3,
+    "Enabled": true
+  },
+  "Respawn": {
+    "Give Kit If Respawn Items Are Empty": "autokit",
+    "Items": [
+      {
+        "ammo": null,
+        "amount": 1,
+        "container": "belt",
+        "mods": null,
+        "shortname": "rock",
+        "skin": 0,
+        "slot": -1
+      },
+      {
+        "ammo": null,
+        "amount": 1,
+        "container": "belt",
+        "mods": null,
+        "shortname": "torch",
+        "skin": 0,
+        "slot": -1
+      }
+    ]
+  },
+  "Rewards": {
+    "Economics Money [0 = disabled]": 0.0,
+    "Required Money To Duel": 0.0,
+    "ServerRewards Points [0 = disabled]": 0
+  },
+  "Settings": {
+    "Allow Announcement": true,
+    "Auto Create Dueling Zone If Zone Does Not Exist": false,
+    "Auto Enable Dueling If Zone(s) Exist": false,
+    "Blacklist Commands": false,
+    "Blacklisted Chat Commands": [
+      "/tp",
+      "/remove",
+      "/bank",
+      "/shop",
+      "/event",
+      "/rw",
+      "/home",
+      "/trade"
+    ],
+    "Broadcast Defeat To All Players": true,
+    "Building Block Extension Radius": 30.0,
+    "Bypass Naked Check And Strip Items Anyway": false,
+    "Disable Requirement To Allow Duels": false,
+    "Duel Command Name": "duel",
+    "Immunity Time": 10,
+    "Kits": [
+      "kit_1",
+      "kit_2",
+      "kit_3"
+    ],
+    "Kits Least Used": [
+      "kit_4",
+      "kit_5",
+      "kit_6"
+    ],
+    "Kits Least Used Chance": 0.25,
+    "No Movement During Immunity": false,
+    "No Stability On Structures": true,
+    "Player Health After Duel [0 = disabled]": 100.0,
+    "Queue Command Name": "queue",
+    "Reset Temporary Ladder Each Wipe": true,
+    "Respawn Dead Players On Disconnect": true,
+    "Respawn Zone Walls On Death": false,
+    "Scale Damage Percent": 1.0,
+    "Time To Duel In Minutes Before Death": 10,
+    "Use Invisibility": true,
+    "Use Random Skins": true,
+    "Whitelist Commands": false,
+    "Whitelisted Chat Commands": [
+      "/report",
+      "/pm",
+      "/r",
+      "/help"
+    ]
+  },
+  "Spawns": {
+    "Auto Remove On Zone Removal": false,
+    "Draw Time": 30.0,
+    "Remove All Distance": 50.0,
+    "Remove Distance": 10.0
+  },
+  "Spectators": {
+    "Send Home If Rematch Times Out": false
+  },
+  "User Interface": {
+    "Auto Enable GUI For Players": false,
+    "Chat Command": "dui",
+    "Send Spectators Home First When Clicking Requeue": false,
+    "Show Close Button (X)": true,
+    "Show Defeat Message UI For X Seconds": 7.5,
+    "Use Cursor": false
+  },
+  "Zone": {
+    "Avoid Creating Automatic Spawn Points In Water": true,
+    "Create Least Amount Of Walls": false,
+    "Create New Zone Every X Duels [0 = disabled]": 10,
+    "Extra High External Wall Stacks": 2,
+    "Max Zones [Min 1]": 1,
+    "Maximum Incline On Hills": 40.0,
+    "Players Per Zone [Multiple Of 2]": 10,
+    "Players Visible To Admins": true,
+    "Use Arena Wall Generation": true,
+    "Use Wooden Walls": false,
+    "Zone Radius (Min: 50, Max: 300)": 50.0
+  }
+}

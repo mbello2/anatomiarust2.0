@@ -1,0 +1,14 @@
+{
+  "AlreadyOnList": "{0} is already your friend.",
+  "CantAddSelf": "You cant add yourself.",
+  "FriendAdded": "{0} is now your friend.",
+  "FriendRemoved": "{0} was removed from your friendlist.",
+  "FriendlistFull": "Your friendlist is full.",
+  "HelpText": "Use /friend <add|+|remove|-|list> <name/steamID> to add/remove/list friends",
+  "List": "Friends {0}:\n{1}",
+  "MultiplePlayers": "Multiple players were found, please specify: {0}",
+  "NoFriends": "You don't have friends.",
+  "NotOnFriendlist": "{0} not found on your friendlist.",
+  "PlayerNotFound": "Player '{0}' not found.",
+  "Syntax": "Syntax: /friend <add/+/remove/-> <name/steamID> or /friend list"
+}

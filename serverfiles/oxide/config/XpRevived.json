@@ -1,0 +1,49 @@
+{
+  "options": {
+    "unlimitedComponents": false,
+    "blockedItems": null,
+    "itemDatas": [],
+    "levelUpPrefab": "assets/prefabs/misc/xmas/presents/effects/unwrap.prefab",
+    "learnPrefab": "assets/prefabs/misc/xmas/presents/effects/unwrap.prefab",
+    "levelPivot": 7.0,
+    "levelXpRatio": 2.666,
+    "xpFromGivenTool": 0.05,
+    "lootRemoveScrap": true,
+    "removeIngredients": false,
+    "unlockAllOnLevel": false
+  },
+  "display": {
+    "levelIcon": "https://i.imgur.com/lXpowuB.png",
+    "xpIcon": "https://i.imgur.com/RoKRyG7.png",
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "textColourLearned": "#27ae60",
+    "textColourNotLearned": "#e74c3c",
+    "hudColourLevel": "#CD7C41",
+    "hudColourXp": "#95BB42",
+    "hudEnabled": true
+  },
+  "levelRates": {
+    "repeatDelay": 120.0,
+    "repeat": 0.054,
+    "playerKilled": 0.072,
+    "playerRecovered": 0.087,
+    "playerHelped": 0.1,
+    "itemCrafted": 0.081,
+    "recycling": 0.082,
+    "looting": 0.072,
+    "killedHeli": 0.92,
+    "killedAnimal": 0.082,
+    "brokeBarrel": 0.063,
+    "itemPickup": 0.045,
+    "hitTree": 0.017,
+    "hitOre": 0.02,
+    "hitFlesh": 0.009,
+    "supplyThrown": 0.09,
+    "structureUpgraded": 0.02
+  },
+  "noobKill": {
+    "maxNoobLevel": 4,
+    "xpPunishment": -2
+  }
+}

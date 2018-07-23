@@ -1,0 +1,13 @@
+{
+  "CantDamageBuilds": "You can't damage buildings while vanished",
+  "CantHurtAnimals": "You can't hurt animals while vanished",
+  "CantHurtPlayers": "You can't hurt players while vanished",
+  "CantUseTeleport": "You can't teleport while vanished",
+  "CommandVanish": "vanish",
+  "NotAllowed": "Sorry, you can't use '{0}' right now",
+  "NotAllowedPerm": "You are missing permissions! ({0})",
+  "PlayersOnly": "Command '{0}' can only be used by a player",
+  "VanishDisabled": "You are no longer invisible!",
+  "VanishEnabled": "You have vanished from sight...",
+  "VanishTimedOut": "Vanish time limit reached!"
+}

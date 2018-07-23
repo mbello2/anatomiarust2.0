@@ -1,0 +1,18 @@
+{
+  "helptext1": "type /copterbuild to spawn a gyrocopter and automount it.",
+  "helptext2": "type /copterlockpaint to lock copter paintjob and /copterunlockpaint to unlock",
+  "helptext3": "use Spinner wheel while seated to start and stop flying copter.",
+  "helptext4": "Rehcharge - land copter to recharge, hover over substation to fast charge.",
+  "helptext5": "Locking codelock will prevent anyone from using copter (even owner).",
+  "helptext6": "Once copter runs out of charge, it will autoland.",
+  "helptext7": "To reload the Bomb Barrel on back, use the Reload key while hovering over a barrel.",
+  "helptext8": "To Drop a Bomb, press or click mouse wheel down.",
+  "notauthorized": "You don't have permission to do that !!",
+  "copterlocked": "You must unlock Copter to start engines !!",
+  "tellabouthelp": "type /copterhelp to see a list of commands !!",
+  "dropnet": "Dropping cargo netting !!",
+  "raisenet": "Raising cargo netting !!",
+  "notflyingcopter": "You are not piloting a gyrocopter !!",
+  "maxcopters": "You have reached the maximum allowed copters",
+  "landingcopter": "Gryocopter Landing Sequence started !!"
+}

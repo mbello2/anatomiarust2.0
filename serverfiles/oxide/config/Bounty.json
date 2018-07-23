@@ -1,0 +1,21 @@
+{
+  "Ignore kills by clan members": true,
+  "Ignore kills by friends": true,
+  "Notification Options": {
+    "PopupNotifications - Broadcast using PopupNotifications": false,
+    "PopupNotifications - Duration of notification": 8.0,
+    "Broadcast new bounties globally": true,
+    "Reminders - Remind targets they have a bounty on them": true,
+    "Reminders - Amount of time between reminders (in minutes)": 30
+  },
+  "Reward Options": {
+    "Allow bounties to be placed using Economics": true,
+    "Allow bounties to be placed using RP": true,
+    "Allow bounties to be placed using items": true
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 0
+  }
+}

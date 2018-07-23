@@ -1,0 +1,187 @@
+{
+  "A List Of Available Colors To Use (DO NOT CHANGE)": {
+    "Banner Colors": "Grey, Red, Orange, Yellow, Green, Cyan, Blue, Purple",
+    "Text Colors": "White, Red, Orange, Yellow, Green, Cyan, Blue, Purple"
+  },
+  "General Settings": {
+    "Adjust Vertical Position": 0.0,
+    "Announcement Duration": 10.0,
+    "Fade In Time": 0.5,
+    "Fade Out Time": 0.5,
+    "Font Size": 18
+  },
+  "Private New Player Announcements": {
+    "Announcements List (Show On This Many Joins : List To Show)": {
+      "1": [
+        "1st Join {rank} {playername} New player announcement 1.",
+        "1st Join {rank} {playername} New player announcement 2.",
+        "1st Join {rank} {playername} New player announcement 3."
+      ],
+      "2": [
+        "2nd Join {rank} {playername} New player announcement 1.",
+        "2nd Join {rank} {playername} New player announcement 2.",
+        "2nd Join {rank} {playername} New player announcement 3."
+      ],
+      "3": [
+        "3rd Join {rank} {playername} New player announcement 1.",
+        "3rd Join {rank} {playername} New player announcement 2.",
+        "3rd Join {rank} {playername} New player announcement 3."
+      ]
+    },
+    "Banner Color": "Grey",
+    "Enabled": false,
+    "Text Color": "White"
+  },
+  "Private Respawn Announcements": {
+    "Announcements List": [
+      "{playername} Respawn announcement 1.",
+      "{playername} Respawn announcement 2.",
+      "{playername} Respawn announcement 3."
+    ],
+    "Banner Color": "Grey",
+    "Enabled": false,
+    "Text Color": "White"
+  },
+  "Private Test Announcement": {
+    "Adjust Vertical Position": 0.0,
+    "Banner Color": "Grey",
+    "Duration": 10.0,
+    "Fade In Time": 0.5,
+    "Fade Out Time": 0.5,
+    "Font Size": 18,
+    "Text Color": "White"
+  },
+  "Private Welcome Announcements": {
+    "Banner Color": "Grey",
+    "Duration": 20.0,
+    "Enabled": true,
+    "Show Welcome Back If Player Has Been Here Before": true,
+    "Text Color": "White",
+    "Welcome Back Text": "Welcome back {playername}! There are {playercount} player(s) online.",
+    "Welcome Text": "Welcome {playername}! There are {playercount} player(s) online."
+  },
+  "Public Airdrop Announcements": {
+    "Banner Color": "Green",
+    "Enabled": true,
+    "Show Location": false,
+    "Text": "Airdrop en route!",
+    "Text Color": "Yellow",
+    "Text With Coords": "Airdrop en route to x{x}, z{z}"
+  },
+  "Public Automatic Game Time Announcements": {
+    "Announcement List (Show at this in game time : Announcements to show)": {
+      "18:15": [
+        "The in game time is 18:15 announcement 1.",
+        "The in game time is 18:15 announcement 2.",
+        "The in game time is 18:15 announcement 3."
+      ],
+      "00:00": [
+        "The in game time is 00:00 announcement 1.",
+        "The in game time is 00:00 announcement 2.",
+        "The in game time is 00:00 announcement 3."
+      ],
+      "12:00": [
+        "The in game time is 12:00 announcement 1.",
+        "The in game time is 12:00 announcement 2.",
+        "The in game time is 12:00 announcement 3."
+      ]
+    },
+    "Banner Color": "Grey",
+    "Enabled": false,
+    "Text Color": "White"
+  },
+  "Public Automatic Timed Announcements": {
+    "Announcement List": [
+      [
+        "1st Automatic Timed Announcement 1",
+        "1st Automatic Timed Announcement 2"
+      ],
+      [
+        "2nd Automatic Timed Announcement 1",
+        "2nd Automatic Timed Announcement 2"
+      ],
+      [
+        "3rd Automatic Timed Announcement 1",
+        "3rd Automatic Timed Announcement 2"
+      ]
+    ],
+    "Banner Color": "Grey",
+    "Enabled": false,
+    "Show Every (HH:MM:SS)": "00:30:00",
+    "Text Color": "White"
+  },
+  "Public Christmas Stocking Refill Announcement": {
+    "Banner Color": "Green",
+    "Enabled": false,
+    "Text": "Santa has refilled your stockings. Go check what you've got!",
+    "Text Color": "Red"
+  },
+  "Public Helicopter Announcements": {
+    "Despawn": false,
+    "Despawn Banner Color": "Red",
+    "Despawn Text": "The patrol helicopter has left.",
+    "Despawn Text Color": "White",
+    "Destroyed": true,
+    "Destroyed Banner Color": "Red",
+    "Destroyed Text": "The patrol helicopter has been taken down!",
+    "Destroyed Text Color": "White",
+    "Destroyed Text With Destroyer": "{playername} got the last shot on the helicopter taking it down!",
+    "Show Destroyer": true,
+    "Spawn": true,
+    "Spawn Banner Color": "Red",
+    "Spawn Text": "Patrol Helicopter Inbound!",
+    "Spawn Text Color": "Orange"
+  },
+  "Public Join/Leave Announcements": {
+    "Announce Only Players With Permission": true,
+    "Join Banner Color": "Grey",
+    "Join Enabled": false,
+    "Join Text": "{rank} {playername} has joined.",
+    "Join Text Color": "White",
+    "Leave Banner Color": "Grey",
+    "Leave Enabled": false,
+    "Leave Text": "{rank} {playername} has left.",
+    "Leave Text Color": "White"
+  },
+  "Public Player Banned Announcement": {
+    "Banner Color": "Grey",
+    "Enabled": false,
+    "Text": "{playername} has been banned. {reason}.",
+    "Text Color": "Red"
+  },
+  "Public Restart Announcements": {
+    "Announce With Time Left (HH:MM:SS)": [
+      "12:00:00",
+      "11:00:00",
+      "10:00:00",
+      "09:00:00",
+      "08:00:00",
+      "07:00:00",
+      "06:00:00",
+      "05:00:00",
+      "04:00:00",
+      "03:00:00",
+      "02:00:00",
+      "01:00:00",
+      "00:45:00",
+      "00:30:00",
+      "00:15:00",
+      "00:05:00"
+    ],
+    "Banner Color": "Grey",
+    "Cancelled Scheduled Restart Text": "The restart in {time} has been cancelled.",
+    "Enabled": false,
+    "Restart Announcement Text": "Restarting in {time}",
+    "Restart At (HH:MM:SS)": [
+      "08:00:00",
+      "20:00:00"
+    ],
+    "Restart My Server": false,
+    "Suspended Restart Text": "The restart in {time} has been suspended.",
+    "Text Color": "White"
+  },
+  "Third Party Plugin Support": {
+    "Do Not Overlay LustyMap": false,
+    "LustyMap Position (Left/Right)": "Left"
+  }
+}

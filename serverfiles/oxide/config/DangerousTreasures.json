@@ -1,0 +1,272 @@
+{
+  "Countdown": {
+    "Time In Seconds": [
+      "120",
+      "60",
+      "30",
+      "15"
+    ],
+    "Use Countdown Before Event Starts": false
+  },
+  "Event Messages": {
+    "Show Barrage Message": true,
+    "Show Opened Message": true,
+    "Show Prefix": true,
+    "Show Started Message": true
+  },
+  "Events": {
+    "Amount Of Items To Spawn": 6,
+    "Amount Of Spheres": 5,
+    "Auto Draw Minimum Distance": 300.0,
+    "Auto Draw On New Event For Nearby Players": false,
+    "Automated": true,
+    "Every Max Seconds": 7200.0,
+    "Every Min Seconds": 3600.0,
+    "Fire Aura Radius (Advanced Users Only)": 25.0,
+    "Grant DDRAW temporarily to players": true,
+    "Grant Draw Time": 15.0,
+    "Max Manual Events": 1,
+    "Player Limit For Event": 0,
+    "Time To Loot": 900.0,
+    "Use Spheres": true
+  },
+  "Fireballs": {
+    "Damage Per Second": 10.0,
+    "Enabled": true,
+    "Generation": 5.0,
+    "Lifetime Max": 10.0,
+    "Lifetime Min": 7.5,
+    "Radius": 1.0,
+    "Spawn Every X Seconds": 5,
+    "Tick Rate": 1.0
+  },
+  "GUIAnnouncements": {
+    "Banner Tint Color": "Black",
+    "Enabled": false,
+    "Maximum Distance": 300.0,
+    "Text Color": "White"
+  },
+  "Lusty Map": {
+    "Enabled": true,
+    "Icon File": "http://i.imgur.com/XoEMTJj.png",
+    "Icon Name": "dtchest",
+    "Icon Rotation": 0.0
+  },
+  "Missile Launcher": {
+    "Acquire Time In Seconds": 10.0,
+    "Damage Per Missile": 0.0,
+    "Detection Distance": 15.0,
+    "Enabled": false,
+    "Ignore Flying Players": false,
+    "Life Time In Seconds": 60.0,
+    "Spawn Every X Seconds": 15.0,
+    "Target Chest If No Player Target": false
+  },
+  "Newman Mode": {
+    "Protect Nakeds From Fire Aura": false,
+    "Protect Nakeds From Other Harm": false
+  },
+  "NPCs": {
+    "Amount To Spawn": 2,
+    "Despawn Inventory On Death": true,
+    "Enabled": false,
+    "Generate Random Names": true,
+    "Spawn Murderers": false,
+    "Spawn Murderers And Scientists": false
+  },
+  "Ranked Ladder": {
+    "Award Top X Players On Wipe": 3,
+    "Enabled": true,
+    "Group Name": "treasurehunter",
+    "Permission Name": "dangeroustreasures.th"
+  },
+  "Rewards": {
+    "Economics Money": 20.0,
+    "ServerRewards Points": 20.0,
+    "Use Economics": false,
+    "Use ServerRewards": false
+  },
+  "Rocket Opener": {
+    "Enabled": true,
+    "Rockets": 10,
+    "Speed": 25.0,
+    "Use Fire Rockets": false
+  },
+  "Settings": {
+    "Distance Chat Command": "dtd",
+    "Event Chat Command": "dtevent",
+    "Event Console Command": "dtevent",
+    "Permission Name": "dangeroustreasures.use",
+    "Show X Z Coordinates": false
+  },
+  "Skins": {
+    "Include Workshop Skins": true,
+    "Preset Skin": 0,
+    "Use Random Skin": true
+  },
+  "Treasure": {
+    "Day Of Week Loot Friday": [],
+    "Day Of Week Loot Monday": [],
+    "Day Of Week Loot Saturday": [],
+    "Day Of Week Loot Sunday": [],
+    "Day Of Week Loot Thursday": [],
+    "Day Of Week Loot Tuesday": [],
+    "Day Of Week Loot Wednesday": [],
+    "Include Workshop Skins": false,
+    "Loot": [
+      {
+        "shortname": "ammo.pistol",
+        "amount": 40,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.pistol.fire",
+        "amount": 40,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.pistol.hv",
+        "amount": 40,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.rifle",
+        "amount": 60,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.rifle.explosive",
+        "amount": 60,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.rifle.hv",
+        "amount": 60,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.rifle.incendiary",
+        "amount": 60,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.shotgun",
+        "amount": 24,
+        "skin": 0
+      },
+      {
+        "shortname": "ammo.shotgun.slug",
+        "amount": 40,
+        "skin": 0
+      },
+      {
+        "shortname": "survey.charge",
+        "amount": 20,
+        "skin": 0
+      },
+      {
+        "shortname": "metal.refined",
+        "amount": 150,
+        "skin": 0
+      },
+      {
+        "shortname": "bucket.helmet",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "cctv.camera",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "coffeecan.helmet",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "explosive.timed",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "metal.facemask",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "metal.plate.torso",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "mining.quarry",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "pistol.m92",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "rifle.ak",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "rifle.bolt",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "rifle.lr300",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "smg.2",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "smg.mp5",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "smg.thomspon",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "supply.signal",
+        "amount": 1,
+        "skin": 0
+      },
+      {
+        "shortname": "targeting.computer",
+        "amount": 1,
+        "skin": 0
+      }
+    ],
+    "Minimum Percent Loss": 0.0,
+    "Percent Increase On Friday": 0.0,
+    "Percent Increase On Monday": 0.0,
+    "Percent Increase On Saturday": 0.0,
+    "Percent Increase On Sunday": 0.0,
+    "Percent Increase On Thursday": 0.0,
+    "Percent Increase On Tuesday": 0.0,
+    "Percent Increase On Wednesday": 0.0,
+    "Percent Increase When Using Day Of Week Loot": false,
+    "Use Random Skins": false
+  },
+  "Unlock Time": {
+    "Max Seconds": 480.0,
+    "Min Seconds": 300.0
+  },
+  "Unlooted Announcements": {
+    "Enabled": false,
+    "Notify Every X Minutes (Minimum 1)": 3.0
+  }
+}

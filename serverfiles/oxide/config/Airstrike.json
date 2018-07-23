@@ -1,0 +1,47 @@
+{
+  "Cooldown Options": {
+    "Squad cooldown time (seconds)": 3600,
+    "Strike cooldown time (seconds)": 3600,
+    "Use cooldown timers": true
+  },
+  "Other Options": {
+    "Broadcast strikes to chat": true,
+    "Can call squad strikes using a supply signal": true,
+    "Can call standard strikes using a supply signal": true,
+    "Random timer (minimum, maximum. In seconds)": [
+      1800,
+      3600
+    ],
+    "Use random airstrikes": true,
+    "Use random squad strikes": true
+  },
+  "Plane Options": {
+    "Distance from target to engage": 900.0,
+    "Flight speed (meters per second)": 105.0
+  },
+  "Purchase Options": {
+    "Can purchase squad strike": true,
+    "Can purchase standard strike": true,
+    "Cost to purchase a squad strike (shortname, amount)": {
+      "metal.refined": 100,
+      "targeting.computer": 1,
+      "techparts": 50
+    },
+    "Cost to purchase a standard strike (shortname, amount)": {
+      "metal.refined": 50,
+      "targeting.computer": 1
+    },
+    "Require permission to purchase squad strike": true,
+    "Require permission to purchase strike": true
+  },
+  "Rocket Options": {
+    "Accuracy of rocket (a lower number is more accurate)": 1.5,
+    "Amount of rockets to fire": 15,
+    "Chance of a fire rocket (when using both types)": 4,
+    "Damage modifier": 1.0,
+    "Interval between rockets (seconds)": 0.6,
+    "Speed of the rocket": 110.0,
+    "Type of rocket (Normal, Napalm)": "Normal",
+    "Use both rocket types": true
+  }
+}

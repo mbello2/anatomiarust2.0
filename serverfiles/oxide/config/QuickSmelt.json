@@ -1,0 +1,11 @@
+{
+  "SmeltSpeed": 10,
+  "WoodRate": 1,
+  "CharcoalRate": 3.0,
+  "CanCookFoodInFurnace": false,
+  "UsePermissions": false,
+  "Large Furnace Multiplier": 10.0,
+  "Campfire Multiplier": 10.0,
+  "Oil Refinery Multiplier": 10.0,
+  "Water Purifier Multiplier": 10.0
+}

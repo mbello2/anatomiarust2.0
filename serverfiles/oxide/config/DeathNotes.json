@@ -1,0 +1,454 @@
+{
+  "Translations": {
+    "Death Messages": [
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{victim} was shot by {killer} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{killer} inflamed {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed a {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Murderer",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fought off a {victim}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Scientist",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} did not want to be a part of the {victim}'s experiments."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Bradley",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} blew up the {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Helicopter",
+        "DamageType": "*",
+        "Messages": [
+          "The {victim} was finally shot down."
+        ]
+      },
+      {
+        "KillerType": "Animal",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} couldn't run away from the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Bradley",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was shredded by the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Helicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} had no chance against the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Trap",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was uncautious and ran into a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Barricade",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was impaled by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Turret",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{owner}'s {killer} did its job and killed {victim}."
+        ]
+      },
+      {
+        "KillerType": "Murderer",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} haunted down {victim}."
+        ]
+      },
+      {
+        "KillerType": "Scientist",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} shot down {victim}."
+        ]
+      },
+      {
+        "KillerType": "ScientistSentry",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} did not did not follow the rules in a safezone and was killed by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "-",
+        "VictimType": "Player",
+        "DamageType": "Fall",
+        "Messages": [
+          "{victim} fell to their death."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Suicide",
+        "Messages": [
+          "{victim} had enough of life."
+        ]
+      },
+      {
+        "KillerType": "HeatSource",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} burned to death on a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Lock",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was electrecuted by {owner}'s {killer}."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{victim} burned to death."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bleeding",
+        "Messages": [
+          "{victim} bled out after being attacked by {killer}."
+        ]
+      }
+    ],
+    "Names": {
+      "Boar": "Boar",
+      "Scientist": "Scientist",
+      "Chicken": "Chicken",
+      "Horse": "Horse",
+      "Stag": "Stag",
+      "Scientist Sentry": "Scientist Sentry",
+      "Bear": "Bear",
+      "Wolf": "Wolf",
+      "Helicopter": "Helicopter",
+      "Fire": "Fire",
+      "Landmine": "Landmine",
+      "Auto Turret": "Auto Turret",
+      "Gun Trap": "Gun Trap",
+      "Barricade": "Barricade",
+      "Bear Trap": "Bear Trap",
+      "145355": "145355",
+      "8403463": "8403463",
+      "6318318": "6318318",
+      "1218640": "1218640",
+      "7403409": "7403409",
+      "674159": "674159",
+      "3029557": "3029557",
+      "8565537": "8565537",
+      "272304": "272304",
+      "9043704": "9043704",
+      "5371427": "5371427",
+      "3451617": "3451617",
+      "7082210": "7082210",
+      "3162723": "3162723",
+      "8052583": "8052583",
+      "8840583": "8840583",
+      "1176678": "1176678",
+      "2913149": "2913149",
+      "5406067": "5406067",
+      "1408360": "1408360",
+      "5500929": "5500929",
+      "5776146": "5776146",
+      "775055": "775055",
+      "4270074": "4270074",
+      "2559570": "2559570",
+      "1898848": "1898848",
+      "2738615": "2738615",
+      "1635502": "1635502",
+      "9872538": "9872538",
+      "4321493": "4321493",
+      "6928549": "6928549",
+      "8909853": "8909853",
+      "1047893": "1047893",
+      "7487986": "7487986",
+      "6592194": "6592194",
+      "3747104": "3747104",
+      "9101915": "9101915",
+      "357811": "357811",
+      "237998": "237998",
+      "2833637": "2833637",
+      "8104327": "8104327",
+      "6272785": "6272785",
+      "5530500": "5530500",
+      "4961885": "4961885",
+      "6264910": "6264910",
+      "831096": "831096",
+      "4087926": "4087926",
+      "355972": "355972",
+      "1070991": "1070991",
+      "6080982": "6080982",
+      "9921193": "9921193",
+      "3826551": "3826551",
+      "4351012": "4351012",
+      "733363": "733363",
+      "2086932": "2086932",
+      "1194768": "1194768",
+      "7379535": "7379535",
+      "3260677": "3260677",
+      "6582400": "6582400",
+      "2516604": "2516604",
+      "5346728": "5346728",
+      "8265093": "8265093",
+      "6756377": "6756377",
+      "3166110": "3166110",
+      "5308286": "5308286",
+      "1217032": "1217032",
+      "1186805": "1186805",
+      "2612539": "2612539",
+      "6484161": "6484161",
+      "7440443": "7440443",
+      "6243636": "6243636",
+      "8302515": "8302515",
+      "624326": "624326",
+      "9075502": "9075502",
+      "5570884": "5570884",
+      "3948133": "3948133",
+      "Wooden Floor Spikes": "Wooden Floor Spikes",
+      "2803828": "2803828",
+      "8437646": "8437646",
+      "1651194": "1651194",
+      "2938707": "2938707",
+      "5851370": "5851370",
+      "7996453": "7996453",
+      "1736279": "1736279",
+      "5848587": "5848587",
+      "1437313": "1437313",
+      "1167427": "1167427",
+      "4984787": "4984787",
+      "9442918": "9442918",
+      "2079987": "2079987",
+      "1540605": "1540605",
+      "8860596": "8860596",
+      "3021029": "3021029",
+      "9349432": "9349432",
+      "1560845": "1560845",
+      "2146387": "2146387",
+      "6961549": "6961549",
+      "6993256": "6993256",
+      "4081909": "4081909",
+      "1052347": "1052347",
+      "9263627": "9263627",
+      "4529724": "4529724",
+      "3130683": "3130683",
+      "1207111": "1207111",
+      "4048905": "4048905",
+      "6328044": "6328044",
+      "9979095": "9979095",
+      "2323027": "2323027",
+      "3987305": "3987305",
+      "2547723": "2547723",
+      "3327764": "3327764",
+      "6222483": "6222483",
+      "5986098": "5986098",
+      "8143826": "8143826",
+      "2497990": "2497990",
+      "8460535": "8460535",
+      "493094": "493094",
+      "8056945": "8056945",
+      "4837730": "4837730",
+      "3983345": "3983345",
+      "1250125": "1250125",
+      "7769424": "7769424",
+      "4238661": "4238661",
+      "6809811": "6809811",
+      "6573163": "6573163",
+      "6746401": "6746401",
+      "4772615": "4772615",
+      "6005677": "6005677",
+      "8413254": "8413254",
+      "5921355": "5921355",
+      "5160448": "5160448",
+      "4191757": "4191757",
+      "3252118": "3252118",
+      "2891856": "2891856",
+      "2559059": "2559059",
+      "1548415": "1548415",
+      "9372320": "9372320",
+      "1372209": "1372209",
+      "3013178": "3013178",
+      "346299": "346299",
+      "6332210": "6332210"
+    },
+    "Bodyparts": {
+      "Chest": "Chest",
+      "Body": "Body",
+      "Head": "Head",
+      "Stomach": "Stomach",
+      "Arm": "Arm",
+      "Leg": "Leg",
+      "Hand": "Hand",
+      "Foot": "Foot"
+    },
+    "Weapons": {
+      "LR-300 Assault Rifle": "LR-300 Assault Rifle",
+      "Stone Pickaxe": "Stone Pickaxe",
+      "Pickaxe": "Pickaxe",
+      "Rock": "Rock",
+      "Stone Hatchet": "Stone Hatchet",
+      "Hunting Bow": "Hunting Bow",
+      "Hatchet": "Hatchet",
+      "Bone Club": "Bone Club",
+      "Salvaged Cleaver": "Salvaged Cleaver",
+      "Mace": "Mace",
+      "Wooden Spear": "Wooden Spear",
+      "Torch": "Torch",
+      "Crossbow": "Crossbow",
+      "F1 Grenade": "F1 Grenade",
+      "Longsword": "Longsword",
+      "Revolver": "Revolver",
+      "Double Barrel Shotgun": "Double Barrel Shotgun",
+      "Bone Knife": "Bone Knife",
+      "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+      "Machete": "Machete",
+      "Thompson": "Thompson",
+      "Incendiary Rocket": "Incendiary Rocket",
+      "Spas-12 Shotgun": "Spas-12 Shotgun",
+      "Bolt Action Rifle": "Bolt Action Rifle",
+      "Stone Spear": "Stone Spear",
+      "High Velocity Rocket": "High Velocity Rocket",
+      "Nailgun": "Nailgun",
+      "Chainsaw": "Chainsaw",
+      "Salvaged Sword": "Salvaged Sword",
+      "Flashlight": "Flashlight",
+      "Assault Rifle": "Assault Rifle",
+      "Rocket": "Rocket",
+      "Satchel Charge": "Satchel Charge",
+      "Salvaged Axe": "Salvaged Axe",
+      "M92 Pistol": "M92 Pistol",
+      "Eoka Pistol": "Eoka Pistol",
+      "MP5A4": "MP5A4",
+      "Salvaged Icepick": "Salvaged Icepick",
+      "Timed Explosive Charge": "Timed Explosive Charge",
+      "Jackhammer": "Jackhammer",
+      "Flame Thrower": "Flame Thrower",
+      "M249": "M249",
+      "Custom SMG": "Custom SMG"
+    },
+    "Attachments": {
+      "Weapon flashlight": "Weapon flashlight",
+      "4x Zoom Scope": "4x Zoom Scope",
+      "Muzzle Boost": "Muzzle Boost",
+      "Simple Handmade Sight": "Simple Handmade Sight",
+      "Silencer": "Silencer",
+      "Holosight": "Holosight",
+      "Weapon Lasersight": "Weapon Lasersight",
+      "Muzzle Brake": "Muzzle Brake"
+    }
+  },
+  "Variable Formats": {
+    "attachments": " ({value})"
+  },
+  "Variable Colors": {
+    "killer": "#C4FF00",
+    "victim": "#C4FF00",
+    "weapon": "#C4FF00",
+    "attachments": "#C4FF00",
+    "distance": "#C4FF00",
+    "owner": "#C4FF00"
+  },
+  "Chat Format": "<color=#838383>[<color=#80D000>DeathNotes</color>] {message}</color>",
+  "Chat Icon (SteamID)": "76561198077847390",
+  "Show Kills in Console": true,
+  "Show Kills in Chat": true,
+  "Message Broadcast Radius (in meters)": -1,
+  "Use Metric Distance": true
+}

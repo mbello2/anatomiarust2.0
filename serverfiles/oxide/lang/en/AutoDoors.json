@@ -1,0 +1,6 @@
+{
+  "DelayDisabled": "Automatic door closing is now disabled",
+  "DelaySet": "Automatic door closing delay set to {0}s",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "Usage": "/{0} to disable automatic doors\n /{0} # (a number between 5 and 30)"
+}

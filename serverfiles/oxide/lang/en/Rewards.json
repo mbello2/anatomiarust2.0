@@ -1,0 +1,19 @@
+{
+  "KillReward": "You received {0}. Reward for killing {1}",
+  "ActivityReward": "You received {0}. Reward for activity",
+  "WelcomeReward": "Welcome to server! You received {0} as a welcome reward",
+  "VictimNoMoney": "{0} doesn't have enough money.",
+  "SetRewards": "Varaibles you can set:",
+  "RewardSet": "Reward was set",
+  "stag": "a stag",
+  "boar": "a boar",
+  "horse": "a horse",
+  "bear": "a bear",
+  "wolf": "a wolf",
+  "chicken": "a chicken",
+  "autoturret": "an autoturret",
+  "helicopter": "a helicopter",
+  "Prefix": "Rewards",
+  "HappyHourStart": "Happy hour started",
+  "HappyHourEnd": "Happy hour ended"
+}

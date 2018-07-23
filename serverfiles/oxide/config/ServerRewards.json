@@ -1,0 +1,52 @@
+{
+  "Active categories (global)": {
+    "Show commands tab": true,
+    "Show exchange tab": true,
+    "Show items tab": true,
+    "Show kits tab": true,
+    "Show seller tab": true,
+    "Show transfer tab": true
+  },
+  "Coloring": {
+    "Background color": {
+      "Hex color": "#2a2a2a",
+      "Transparency (0 - 1)": 0.98
+    },
+    "Button color - accept": {
+      "Hex color": "#00cd00",
+      "Transparency (0 - 1)": 0.9
+    },
+    "Button color - inactive": {
+      "Hex color": "#a8a8a8",
+      "Transparency (0 - 1)": 0.9
+    },
+    "Button color - standard": {
+      "Hex color": "#2a2a2a",
+      "Transparency (0 - 1)": 0.9
+    },
+    "Primary panel color": {
+      "Hex color": "#696969",
+      "Transparency (0 - 1)": 0.4
+    },
+    "Primary text color": "#ce422b",
+    "Secondary panel color": {
+      "Hex color": "#373737",
+      "Transparency (0 - 1)": 0.98
+    },
+    "Secondary text color": "#939393"
+  },
+  "Currency exchange rates": {
+    "Value of Economics": 100,
+    "Value of RP": 1
+  },
+  "Options": {
+    "Data save interval": 600,
+    "Log all transactions": true,
+    "Use NPC dealers only": false
+  },
+  "UI Options": {
+    "Disable fade in effect": true,
+    "Display kit contents as the description": true,
+    "Display user playtime": true
+  }
+}

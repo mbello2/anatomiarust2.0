@@ -1,0 +1,6 @@
+{
+  "DC_DelayInSeconds": 300,
+  "PreventDamage": true,
+  "PreventLooting": true,
+  "Start_DelayInSeconds": 300
+}

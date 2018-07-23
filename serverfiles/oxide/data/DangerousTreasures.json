@@ -1,0 +1,14 @@
+{
+  "SecondsUntilEvent": 1532324123.7729492,
+  "TotalEvents": 26,
+  "Players": {
+    "76561198083769728": {
+      "StolenChestsTotal": 2,
+      "StolenChestsSeed": 2
+    }
+  },
+  "Markers": [
+    290369
+  ],
+  "CustomPosition": null
+}

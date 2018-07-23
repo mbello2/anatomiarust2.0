@@ -1,0 +1,15 @@
+{
+  "Settings": {
+    "Give Points Every x Barrels": 1,
+    "Give Points For Barrels": true,
+    "Give Points For Crates": false,
+    "Permission List": {
+      "barrelpoints.default": 2.0,
+      "barrelpoints.vip": 5.0
+    },
+    "Reset Barrel Count on Death": true,
+    "Send Notification Message": true,
+    "Use Economics": true,
+    "Use ServerRewards": false
+  }
+}

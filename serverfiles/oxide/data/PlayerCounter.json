@@ -1,0 +1,218 @@
+{
+  "76561198834870491": {
+    "position": "left",
+    "toggle": true,
+    "elements": [
+      {
+        "name": "23d1e4b2139d4ed680055ed1c83b7246",
+        "parent": "Hud",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Image",
+            "sprite": "Assets/Content/UI/UI.Background.Tile.psd",
+            "material": "Assets/Icons/IconMaterial.mat",
+            "color": "0 0 0 0",
+            "imagetype": "Simple",
+            "png": null,
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0.003 0.75",
+            "anchormax": "1 0.998",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      },
+      {
+        "name": "c43ea159a5cc42719e1ec2ecfbf5c903",
+        "parent": "23d1e4b2139d4ed680055ed1c83b7246",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Text",
+            "text": "3/50",
+            "fontSize": 18,
+            "font": "RobotoCondensed-Bold.ttf",
+            "align": "UpperLeft",
+            "color": "1 1 1 0.5",
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0 0",
+            "anchormax": "1 1",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      }
+    ],
+    "container": "23d1e4b2139d4ed680055ed1c83b7246",
+    "playerCounter": {
+      "Text": {
+        "type": "UnityEngine.UI.Text",
+        "text": "3/50",
+        "fontSize": 18,
+        "font": "RobotoCondensed-Bold.ttf",
+        "align": "UpperLeft",
+        "color": "1 1 1 0.5",
+        "fadeIn": 0.0
+      },
+      "RectTransform": {
+        "type": "RectTransform",
+        "anchormin": "0 0",
+        "anchormax": "1 1",
+        "offsetmin": "0.0 0.0",
+        "offsetmax": "1.0 1.0"
+      },
+      "FadeOut": 0.0
+    }
+  },
+  "76561198360164120": {
+    "position": "left",
+    "toggle": true,
+    "elements": [
+      {
+        "name": "7a1f28e6db3e402e89ab61a768f78716",
+        "parent": "Hud",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Image",
+            "sprite": "Assets/Content/UI/UI.Background.Tile.psd",
+            "material": "Assets/Icons/IconMaterial.mat",
+            "color": "0 0 0 0",
+            "imagetype": "Simple",
+            "png": null,
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0.003 0.75",
+            "anchormax": "1 0.998",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      },
+      {
+        "name": "92498314aefd4f69aee455267f2180f4",
+        "parent": "7a1f28e6db3e402e89ab61a768f78716",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Text",
+            "text": "3/50",
+            "fontSize": 18,
+            "font": "RobotoCondensed-Bold.ttf",
+            "align": "UpperLeft",
+            "color": "1 1 1 0.5",
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0 0",
+            "anchormax": "1 1",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      }
+    ],
+    "container": "7a1f28e6db3e402e89ab61a768f78716",
+    "playerCounter": {
+      "Text": {
+        "type": "UnityEngine.UI.Text",
+        "text": "3/50",
+        "fontSize": 18,
+        "font": "RobotoCondensed-Bold.ttf",
+        "align": "UpperLeft",
+        "color": "1 1 1 0.5",
+        "fadeIn": 0.0
+      },
+      "RectTransform": {
+        "type": "RectTransform",
+        "anchormin": "0 0",
+        "anchormax": "1 1",
+        "offsetmin": "0.0 0.0",
+        "offsetmax": "1.0 1.0"
+      },
+      "FadeOut": 0.0
+    }
+  },
+  "76561198159089381": {
+    "position": "left",
+    "toggle": true,
+    "elements": [
+      {
+        "name": "08785eca31cf48e1bff18e09092b04d8",
+        "parent": "Hud",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Image",
+            "sprite": "Assets/Content/UI/UI.Background.Tile.psd",
+            "material": "Assets/Icons/IconMaterial.mat",
+            "color": "0 0 0 0",
+            "imagetype": "Simple",
+            "png": null,
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0.003 0.75",
+            "anchormax": "1 0.998",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      },
+      {
+        "name": "fffb41a432f245278b2dfa28e3e69059",
+        "parent": "08785eca31cf48e1bff18e09092b04d8",
+        "components": [
+          {
+            "type": "UnityEngine.UI.Text",
+            "text": "3/50",
+            "fontSize": 18,
+            "font": "RobotoCondensed-Bold.ttf",
+            "align": "UpperLeft",
+            "color": "1 1 1 0.5",
+            "fadeIn": 0.0
+          },
+          {
+            "type": "RectTransform",
+            "anchormin": "0 0",
+            "anchormax": "1 1",
+            "offsetmin": "0.0 0.0",
+            "offsetmax": "1.0 1.0"
+          }
+        ],
+        "fadeOut": 0.0
+      }
+    ],
+    "container": "08785eca31cf48e1bff18e09092b04d8",
+    "playerCounter": {
+      "Text": {
+        "type": "UnityEngine.UI.Text",
+        "text": "3/50",
+        "fontSize": 18,
+        "font": "RobotoCondensed-Bold.ttf",
+        "align": "UpperLeft",
+        "color": "1 1 1 0.5",
+        "fadeIn": 0.0
+      },
+      "RectTransform": {
+        "type": "RectTransform",
+        "anchormin": "0 0",
+        "anchormax": "1 1",
+        "offsetmin": "0.0 0.0",
+        "offsetmax": "1.0 1.0"
+      },
+      "FadeOut": 0.0
+    }
+  }
+}

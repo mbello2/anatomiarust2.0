@@ -1,0 +1,8 @@
+{
+  "Ignored Plugins (Filenames of plugins which to ignore in version check)": [],
+  "Settings": {
+    "Auto Check Interval (in Minutes)": 60.0,
+    "Use EmailAPI": false,
+    "Use PushAPI": false
+  }
+}

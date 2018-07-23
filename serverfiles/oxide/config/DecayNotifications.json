@@ -1,0 +1,5 @@
+{
+  "AutomaticNotificationsEnabled": true,
+  "MinutesLeftNeededToSendNotification": 30.0,
+  "NotificationIntervalInMinutes": 10.0
+}

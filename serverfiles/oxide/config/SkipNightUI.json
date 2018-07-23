@@ -1,0 +1,320 @@
+{
+  "Message Colors": {
+    "Primary": "#ce422b",
+    "Secondary": "#939393"
+  },
+  "Options": {
+    "Duration the vote will be open": 240,
+    "Required vote percentage": 40.0,
+    "Time the vote will open": 18.0,
+    "Time to set on successful vote": 8.0
+  },
+  "UI Configuration Name": "Design_3",
+  "UI Configurations": {
+    "Design_1": {
+      "Image Elements": [],
+      "Main Container Size": {
+        "Horizontal End": 62.5,
+        "Horizontal Start": 37.5,
+        "Vertical End": 98.0,
+        "Vertical Start": 93.0
+      },
+      "Panel Elements": [
+        {
+          "Background Alpha": 0.7,
+          "Background Color (Hex)": "#4c4c4c",
+          "Size": {
+            "Horizontal End": 100.0,
+            "Horizontal Start": 0.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 0.0
+          }
+        }
+      ],
+      "Text Elements": [
+        {
+          "Size": {
+            "Horizontal End": 100.0,
+            "Horizontal Start": 2.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 0.0
+          },
+          "Text": {
+            "Alignment": "MiddleLeft",
+            "Color (Hex)": "#ce422b",
+            "Size": 15,
+            "Text": "Skip Night"
+          }
+        }
+      ],
+      "Time Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Text",
+          "Size": {
+            "Horizontal End": 95.0,
+            "Horizontal Start": 80.0,
+            "Vertical End": 90.0,
+            "Vertical Start": 10.0
+          },
+          "Text Options (Text)": {
+            "Alignment": "MiddleRight",
+            "Color (Hex)": "",
+            "Size": 14,
+            "Text": ""
+          },
+          "URL or Image filename (Graphic)": ""
+        }
+      ],
+      "Vote Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 1.0,
+          "Bar Color (Solid)": "#EBB146",
+          "Progress Type": "Solid",
+          "Size": {
+            "Horizontal End": 80.0,
+            "Horizontal Start": 25.0,
+            "Vertical End": 85.0,
+            "Vertical Start": 15.0
+          },
+          "Text Options (Text)": null,
+          "URL or Image filename (Graphic)": ""
+        },
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Text",
+          "Size": {
+            "Horizontal End": 80.0,
+            "Horizontal Start": 25.0,
+            "Vertical End": 85.0,
+            "Vertical Start": 15.0
+          },
+          "Text Options (Text)": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "",
+            "Size": 14,
+            "Text": "{currentAmount} / {requiredAmount}"
+          },
+          "URL or Image filename (Graphic)": ""
+        }
+      ]
+    },
+    "Design_2": {
+      "Image Elements": [
+        {
+          "Size": {
+            "Horizontal End": 13.5,
+            "Horizontal Start": 7.0,
+            "Vertical End": 33.0,
+            "Vertical Start": 10.0
+          },
+          "URL or Image filename": "https://www.chaoscode.io/oxide/Images/timericon.png"
+        }
+      ],
+      "Main Container Size": {
+        "Horizontal End": 60.0,
+        "Horizontal Start": 40.0,
+        "Vertical End": 95.0,
+        "Vertical Start": 85.0
+      },
+      "Panel Elements": [
+        {
+          "Background Alpha": 0.85,
+          "Background Color (Hex)": "#191919",
+          "Size": {
+            "Horizontal End": 100.0,
+            "Horizontal Start": 0.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 0.0
+          }
+        }
+      ],
+      "Text Elements": [
+        {
+          "Size": {
+            "Horizontal End": 80.0,
+            "Horizontal Start": 20.0,
+            "Vertical End": 96.0,
+            "Vertical Start": 70.0
+          },
+          "Text": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "#C4FF00",
+            "Size": 14,
+            "Text": "Skip the Night"
+          }
+        }
+      ],
+      "Time Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Graphic",
+          "Size": {
+            "Horizontal End": 90.0,
+            "Horizontal Start": 20.0,
+            "Vertical End": 28.0,
+            "Vertical Start": 15.0
+          },
+          "Text Options (Text)": null,
+          "URL or Image filename (Graphic)": "https://www.chaoscode.io/oxide/Images/progressbar.png"
+        }
+      ],
+      "Vote Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 1.0,
+          "Bar Color (Solid)": "#4ca5ff",
+          "Progress Type": "Solid",
+          "Size": {
+            "Horizontal End": 95.0,
+            "Horizontal Start": 5.0,
+            "Vertical End": 68.0,
+            "Vertical Start": 40.0
+          },
+          "Text Options (Text)": null,
+          "URL or Image filename (Graphic)": ""
+        },
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Text",
+          "Size": {
+            "Horizontal End": 95.0,
+            "Horizontal Start": 5.0,
+            "Vertical End": 68.0,
+            "Vertical Start": 40.0
+          },
+          "Text Options (Text)": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "",
+            "Size": 14,
+            "Text": "{currentAmount} / {requiredAmount}"
+          },
+          "URL or Image filename (Graphic)": ""
+        }
+      ]
+    },
+    "Design_3": {
+      "Image Elements": [
+        {
+          "Size": {
+            "Horizontal End": 98.0,
+            "Horizontal Start": 75.0,
+            "Vertical End": 95.0,
+            "Vertical Start": 5.0
+          },
+          "URL or Image filename": "https://images.vexels.com/media/users/3/132347/isolated/preview/be0aa6f53b4ac58a4a3612d6dc7a7854-stopwatch-timer-icon-by-vexels.png"
+        }
+      ],
+      "Main Container Size": {
+        "Horizontal End": 60.0,
+        "Horizontal Start": 40.0,
+        "Vertical End": 98.0,
+        "Vertical Start": 90.0
+      },
+      "Panel Elements": [
+        {
+          "Background Alpha": 0.85,
+          "Background Color (Hex)": "#191919",
+          "Size": {
+            "Horizontal End": 72.0,
+            "Horizontal Start": 0.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 55.0
+          }
+        },
+        {
+          "Background Alpha": 0.85,
+          "Background Color (Hex)": "#191919",
+          "Size": {
+            "Horizontal End": 100.0,
+            "Horizontal Start": 73.25,
+            "Vertical End": 100.0,
+            "Vertical Start": 0.0
+          }
+        },
+        {
+          "Background Alpha": 0.85,
+          "Background Color (Hex)": "#191919",
+          "Size": {
+            "Horizontal End": 72.0,
+            "Horizontal Start": 0.0,
+            "Vertical End": 50.0,
+            "Vertical Start": 0.0
+          }
+        }
+      ],
+      "Text Elements": [
+        {
+          "Size": {
+            "Horizontal End": 72.0,
+            "Horizontal Start": 0.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 55.0
+          },
+          "Text": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "#ce422b",
+            "Size": 14,
+            "Text": "Skip night by typing /voteday"
+          }
+        }
+      ],
+      "Time Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Text",
+          "Size": {
+            "Horizontal End": 100.0,
+            "Horizontal Start": 73.0,
+            "Vertical End": 100.0,
+            "Vertical Start": 0.0
+          },
+          "Text Options (Text)": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "",
+            "Size": 16,
+            "Text": ""
+          },
+          "URL or Image filename (Graphic)": ""
+        }
+      ],
+      "Vote Progress Elements": [
+        {
+          "Bar Alpha (Solid)": 1.0,
+          "Bar Color (Solid)": "#585858",
+          "Progress Type": "Solid",
+          "Size": {
+            "Horizontal End": 70.0,
+            "Horizontal Start": 2.0,
+            "Vertical End": 45.0,
+            "Vertical Start": 5.0
+          },
+          "Text Options (Text)": null,
+          "URL or Image filename (Graphic)": ""
+        },
+        {
+          "Bar Alpha (Solid)": 0.0,
+          "Bar Color (Solid)": "",
+          "Progress Type": "Text",
+          "Size": {
+            "Horizontal End": 70.0,
+            "Horizontal Start": 2.0,
+            "Vertical End": 45.0,
+            "Vertical Start": 5.0
+          },
+          "Text Options (Text)": {
+            "Alignment": "MiddleCenter",
+            "Color (Hex)": "",
+            "Size": 14,
+            "Text": "{currentAmount} / {requiredAmount}"
+          },
+          "URL or Image filename (Graphic)": ""
+        }
+      ]
+    }
+  }
+}

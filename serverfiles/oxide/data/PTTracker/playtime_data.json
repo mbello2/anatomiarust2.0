@@ -1,0 +1,1810 @@
+{
+  "timeData": {
+    "76561198360164120": {
+      "playTime": 98399.907683610916,
+      "afkTime": 20112.759437799454,
+      "lastReward": 97200.0,
+      "referrals": 0
+    },
+    "76561198834870491": {
+      "playTime": 25481.582104206085,
+      "afkTime": 4266.3958425521851,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198027042823": {
+      "playTime": 150.72362589836121,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198123535081": {
+      "playTime": 992.57423949241638,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198141387792": {
+      "playTime": 960.01950812339783,
+      "afkTime": 4.0586540699005127,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198302716349": {
+      "playTime": 2353.4814248085022,
+      "afkTime": 552.458967924118,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198382386734": {
+      "playTime": 502.4381263256073,
+      "afkTime": 44.927853584289551,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198314372251": {
+      "playTime": 16008.35554599762,
+      "afkTime": 441.01954436302185,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198261608124": {
+      "playTime": 240.00974726676941,
+      "afkTime": 29.45704174041748,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198396683041": {
+      "playTime": 602.20831060409546,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198111948753": {
+      "playTime": 1500.0429430007935,
+      "afkTime": 64.91602897644043,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198111201899": {
+      "playTime": 25876.938414335251,
+      "afkTime": 3405.6074659824371,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198210817733": {
+      "playTime": 454.460914850235,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198148028592": {
+      "playTime": 51.626953125,
+      "afkTime": 60.000979423522949,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198434887012": {
+      "playTime": 377.2382926940918,
+      "afkTime": 110.83496165275574,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198135115433": {
+      "playTime": 1582.8975148200989,
+      "afkTime": 786.73529076576233,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198386218022": {
+      "playTime": 1027.8173828125,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198376222549": {
+      "playTime": 518.64353632926941,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198172282767": {
+      "playTime": 780.01368403434753,
+      "afkTime": 21.474600791931152,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198032713694": {
+      "playTime": 43.177733182907104,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198338758055": {
+      "playTime": 600.00292611122131,
+      "afkTime": 64.479489326477051,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198295108594": {
+      "playTime": 2631.0654242038727,
+      "afkTime": 119.99905872344971,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198034518893": {
+      "playTime": 397.8847553730011,
+      "afkTime": 60.0009822845459,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198064866952": {
+      "playTime": 2310.562507390976,
+      "afkTime": 60.000992059707642,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198380267702": {
+      "playTime": 3708.1240050792694,
+      "afkTime": 122.62696170806885,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198261264124": {
+      "playTime": 813.96094632148743,
+      "afkTime": 60.002931118011475,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198134850602": {
+      "playTime": 540.00292587280273,
+      "afkTime": 42.866236448287964,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198174580137": {
+      "playTime": 37.26464319229126,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198439226057": {
+      "playTime": 780.0227472782135,
+      "afkTime": 355.84518480300903,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198276012434": {
+      "playTime": 448.04199290275574,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198366697199": {
+      "playTime": 299.99510765075684,
+      "afkTime": 16.137706279754639,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198083769728": {
+      "playTime": 129783.1684319973,
+      "afkTime": 4564.96342921257,
+      "lastReward": 129600.0,
+      "referrals": 0
+    },
+    "76561198088273555": {
+      "playTime": 599.99903225898743,
+      "afkTime": 362.01464295387268,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198401738267": {
+      "playTime": 2640.2666409015656,
+      "afkTime": 2376.4667925834656,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198064227863": {
+      "playTime": 2122.5859260559082,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198285307947": {
+      "playTime": 960.00102376937866,
+      "afkTime": 2134.2206587791443,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198054026368": {
+      "playTime": 1620.0185718536377,
+      "afkTime": 162.480464220047,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198208415073": {
+      "playTime": 59.993167638778687,
+      "afkTime": 4.0009787082672119,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198105371671": {
+      "playTime": 7380.1629958152771,
+      "afkTime": 1417.2784652709961,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198375803314": {
+      "playTime": 25863.06668305397,
+      "afkTime": 2396.2353587150574,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198028023557": {
+      "playTime": 1977.1289210319519,
+      "afkTime": 59.996092796325684,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198206129620": {
+      "playTime": 1693.4325983524323,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198828906845": {
+      "playTime": 239.98922443389893,
+      "afkTime": 41.60548210144043,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198005839642": {
+      "playTime": 132.36818170547485,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198317099015": {
+      "playTime": 98.503875255584717,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198178869085": {
+      "playTime": 219.71289134025574,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198159089381": {
+      "playTime": 2699.4052650928497,
+      "afkTime": 1.4970896244049072,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198372698490": {
+      "playTime": 120.00292110443115,
+      "afkTime": 11.46192193031311,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198084197303": {
+      "playTime": 56.283201456069946,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198083373861": {
+      "playTime": 664.42674803733826,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198819011307": {
+      "playTime": 10982.745189905167,
+      "afkTime": 444.01652336120605,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198315747387": {
+      "playTime": 54.550827264785767,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198357172904": {
+      "playTime": 2953.3417909145355,
+      "afkTime": 59.999993562698364,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198402534200": {
+      "playTime": 1740.0341980457306,
+      "afkTime": 137.83789563179016,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198015583429": {
+      "playTime": 1304.441401720047,
+      "afkTime": 43.127926111221313,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198333227078": {
+      "playTime": 2820.0234158039093,
+      "afkTime": 78.833021402359009,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198316351548": {
+      "playTime": 12444.35419344902,
+      "afkTime": 1620.3527734279633,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198275756148": {
+      "playTime": 420.00488138198853,
+      "afkTime": 10.759811162948608,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198073105212": {
+      "playTime": 7847.5664131641388,
+      "afkTime": 358.6445300579071,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198223409548": {
+      "playTime": 42.795876026153564,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198398711207": {
+      "playTime": 324.11040282249451,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198438023709": {
+      "playTime": 365.7646472454071,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198399320311": {
+      "playTime": 21541.67387342453,
+      "afkTime": 833.45314049720764,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198273991836": {
+      "playTime": 28982.526411056519,
+      "afkTime": 1004.8896942138672,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198336412641": {
+      "playTime": 1080.0117280483246,
+      "afkTime": 17.048834085464478,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198064684442": {
+      "playTime": 2693.4784500598907,
+      "afkTime": 1482.8545711040497,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198066858553": {
+      "playTime": 5460.1504082679749,
+      "afkTime": 32.050796031951904,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198134106173": {
+      "playTime": 3180.0107574462891,
+      "afkTime": 51.090807676315308,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561197987424065": {
+      "playTime": 612.646496295929,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198120038938": {
+      "playTime": 273.49220585823059,
+      "afkTime": 7.9882817268371582,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198044264595": {
+      "playTime": 244.41503572463989,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198291782233": {
+      "playTime": 443.870103597641,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198351320770": {
+      "playTime": 930.369127035141,
+      "afkTime": 23.622078418731689,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198004221849": {
+      "playTime": 620.92383313179016,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198843379503": {
+      "playTime": 360.0029628276825,
+      "afkTime": 9.1425631046295166,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198399766430": {
+      "playTime": 62.237304210662842,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198388556385": {
+      "playTime": 75.017590761184692,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198106595705": {
+      "playTime": 33.185499906539917,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198843831247": {
+      "playTime": 382.75194263458252,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198068967630": {
+      "playTime": 264.1474781036377,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198150194450": {
+      "playTime": 163.50976324081421,
+      "afkTime": 0.35742592811584473,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198385690244": {
+      "playTime": 45.81152868270874,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198343395244": {
+      "playTime": 5664.9619553089142,
+      "afkTime": 168.03806900978088,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198124029999": {
+      "playTime": 256.27832770347595,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198374459413": {
+      "playTime": 178.39159560203552,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198082046005": {
+      "playTime": 207.42577862739563,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198426410546": {
+      "playTime": 406.5615246295929,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198119161087": {
+      "playTime": 1256.8710789680481,
+      "afkTime": 60.002915859222412,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198193721941": {
+      "playTime": 420.00972175598145,
+      "afkTime": 60.323254823684692,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198200801875": {
+      "playTime": 49.783183097839355,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198242943544": {
+      "playTime": 1415.6204257011414,
+      "afkTime": 278.98675441741943,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198136856601": {
+      "playTime": 300.01171731948853,
+      "afkTime": 53.715822219848633,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198325357884": {
+      "playTime": 7473.7451348304749,
+      "afkTime": 729.23631405830383,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198135546792": {
+      "playTime": 180.00780057907104,
+      "afkTime": 12.477560997009277,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198840687435": {
+      "playTime": 311.431645154953,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198127336396": {
+      "playTime": 52.578132152557373,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198145095807": {
+      "playTime": 871.40821146965027,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198022466739": {
+      "playTime": 5625.8012065887451,
+      "afkTime": 218.60652089118958,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198834768038": {
+      "playTime": 425.22070789337158,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198452160423": {
+      "playTime": 472.081059217453,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198342499882": {
+      "playTime": 715.481439113617,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198140580032": {
+      "playTime": 3207.8349239826202,
+      "afkTime": 285.52343440055847,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561197967200054": {
+      "playTime": 1727.5285654067993,
+      "afkTime": 7.2558724880218506,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198176705662": {
+      "playTime": 326.858384847641,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198802153362": {
+      "playTime": 599.00684285163879,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198044980681": {
+      "playTime": 960.04003858566284,
+      "afkTime": 1.5810480117797852,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198806116674": {
+      "playTime": 429.36231255531311,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198838593449": {
+      "playTime": 600.02439332008362,
+      "afkTime": 12.782231569290161,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198845463114": {
+      "playTime": 62.213855266571045,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198400676387": {
+      "playTime": 831.2363076210022,
+      "afkTime": 60.147473335266113,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198100577973": {
+      "playTime": 716.09961032867432,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198818354794": {
+      "playTime": 753.8759868144989,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198210227155": {
+      "playTime": 532.94435811042786,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198076904737": {
+      "playTime": 84.637701988220215,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198436229431": {
+      "playTime": 1080.0341799259186,
+      "afkTime": 32.366206407547,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198150380799": {
+      "playTime": 506.65042924880981,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198254130000": {
+      "playTime": 12925.981495141983,
+      "afkTime": 425.59375262260437,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198361914072": {
+      "playTime": 217.77050995826721,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198193883273": {
+      "playTime": 137.22460842132568,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198845127873": {
+      "playTime": 159.0780508518219,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198065584142": {
+      "playTime": 128.00979137420654,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198372046070": {
+      "playTime": 1451.5126502513885,
+      "afkTime": 360.01956605911255,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198404498140": {
+      "playTime": 263.98044872283936,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198316378191": {
+      "playTime": 719.14901685714722,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198019432176": {
+      "playTime": 1732.7637033462524,
+      "afkTime": 299.99899697303772,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198378063183": {
+      "playTime": 612.25875854492188,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198843193987": {
+      "playTime": 421.31348466873169,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198108184984": {
+      "playTime": 5797.106600522995,
+      "afkTime": 720.01855373382568,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198414319742": {
+      "playTime": 3653.2519755363464,
+      "afkTime": 122.07909750938416,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198312488576": {
+      "playTime": 720.02541255950928,
+      "afkTime": 0.066400766372680664,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198108042833": {
+      "playTime": 56177.7920396328,
+      "afkTime": 3286.1399767398834,
+      "lastReward": 54000.0,
+      "referrals": 0
+    },
+    "76561198368972675": {
+      "playTime": 8518.44289970398,
+      "afkTime": 100.18455147743225,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198277960247": {
+      "playTime": 1914.6588032245636,
+      "afkTime": 72.553694725036621,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198808426277": {
+      "playTime": 2231.2900998592377,
+      "afkTime": 60.023754835128784,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198113345500": {
+      "playTime": 54.028333187103271,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198427708679": {
+      "playTime": 4984.4221935272217,
+      "afkTime": 300.00879883766174,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198834926775": {
+      "playTime": 1920.0372507572174,
+      "afkTime": 134.16310501098633,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198077567495": {
+      "playTime": 2680.8095831871033,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198275277977": {
+      "playTime": 278.35744166374207,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198094482757": {
+      "playTime": 180.08687257766724,
+      "afkTime": 43.9892737865448,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198238495268": {
+      "playTime": 1093.9784920215607,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198163968464": {
+      "playTime": 3693.3516836166382,
+      "afkTime": 960.0361795425415,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198294377268": {
+      "playTime": 720.03615856170654,
+      "afkTime": 241.76853728294373,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198253714711": {
+      "playTime": 560.88379120826721,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198113846636": {
+      "playTime": 2570.71485042572,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198150219087": {
+      "playTime": 4543.2978417873383,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198078803492": {
+      "playTime": 16261.693570613861,
+      "afkTime": 420.00576376914978,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198845855332": {
+      "playTime": 276.48408603668213,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198122223471": {
+      "playTime": 54.226568698883057,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198376526451": {
+      "playTime": 189.01659560203552,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198349892699": {
+      "playTime": 3470.9823791980743,
+      "afkTime": 551.0303521156311,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198342593447": {
+      "playTime": 2925.3789155483246,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198076264288": {
+      "playTime": 1755.1133387088776,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198071782622": {
+      "playTime": 2055.5341382026672,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198176230815": {
+      "playTime": 240.00057458877563,
+      "afkTime": 40.773408174514771,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198101319168": {
+      "playTime": 397.537828207016,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198034132238": {
+      "playTime": 1909.0730192661285,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198375762745": {
+      "playTime": 2968.1889288425446,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198105829585": {
+      "playTime": 1001.4080584049225,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198042897130": {
+      "playTime": 511.71739721298218,
+      "afkTime": 120.00363326072693,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198257344243": {
+      "playTime": 277.56599926948547,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198217229036": {
+      "playTime": 1080.0135056972504,
+      "afkTime": 67.685917139053345,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198313280721": {
+      "playTime": 1643.0040149688721,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198037184504": {
+      "playTime": 152749.31951236725,
+      "afkTime": 8635.3169250488281,
+      "lastReward": 151200.0,
+      "referrals": 0
+    },
+    "76561198277964979": {
+      "playTime": 384.78885507583618,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198425935722": {
+      "playTime": 56296.006877183914,
+      "afkTime": 3977.1203057765961,
+      "lastReward": 54000.0,
+      "referrals": 0
+    },
+    "76561198349175943": {
+      "playTime": 5333.0253775119781,
+      "afkTime": 10.533227682113647,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198101869955": {
+      "playTime": 59.995358467102051,
+      "afkTime": 5240.0186784267426,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198155875259": {
+      "playTime": 251.80925726890564,
+      "afkTime": 119.99250912666321,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198184918813": {
+      "playTime": 17.606544733047485,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198328932531": {
+      "playTime": 8320.48684167862,
+      "afkTime": 479.99578404426575,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198028859894": {
+      "playTime": 180.66020131111145,
+      "afkTime": 0.56249594688415527,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198081458636": {
+      "playTime": 3035.3191211223602,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198283869078": {
+      "playTime": 1359.8533067703247,
+      "afkTime": 5418.448371887207,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198234166244": {
+      "playTime": 477.11948394775391,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198392698217": {
+      "playTime": 698.35151934623718,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198092471789": {
+      "playTime": 674.12116646766663,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198215131616": {
+      "playTime": 2960.3064484596252,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198822141218": {
+      "playTime": 1205.0284819602966,
+      "afkTime": 120.00261354446411,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198142311823": {
+      "playTime": 29.987483739852905,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198798997856": {
+      "playTime": 1117.1244919300079,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198371161913": {
+      "playTime": 240.00727772712708,
+      "afkTime": 21.123178482055664,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198055566131": {
+      "playTime": 12958.346606731415,
+      "afkTime": 719.98055386543274,
+      "lastReward": 10800.0,
+      "referrals": 0
+    },
+    "76561198035443024": {
+      "playTime": 10394.218641996384,
+      "afkTime": 7698.3179211616516,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198446629409": {
+      "playTime": 1319.6543846130371,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198807985500": {
+      "playTime": 989.41720247268677,
+      "afkTime": 60.002265930175781,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198182149299": {
+      "playTime": 1528.5898163318634,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198144011758": {
+      "playTime": 254.23171329498291,
+      "afkTime": 120.0045006275177,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198219561025": {
+      "playTime": 1627.8244335651398,
+      "afkTime": 128.85237646102905,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198329083797": {
+      "playTime": 162.28418517112732,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198307253023": {
+      "playTime": 3120.2881197929382,
+      "afkTime": 203.75233697891235,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198823607470": {
+      "playTime": 600.0088677406311,
+      "afkTime": 36.583214044570923,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198161247685": {
+      "playTime": 578.84471726417542,
+      "afkTime": 60.002263784408569,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198321104155": {
+      "playTime": 5462.7953109741211,
+      "afkTime": 0.0,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198433236850": {
+      "playTime": 2092.2755920886993,
+      "afkTime": 31.401526689529419,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198314466843": {
+      "playTime": 4186.8567032814026,
+      "afkTime": 240.00421190261841,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198174707238": {
+      "playTime": 1910.3182983398438,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198254047912": {
+      "playTime": 200.35265707969666,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198015002223": {
+      "playTime": 67.100975751876831,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198278898806": {
+      "playTime": 141.14140558242798,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198201202678": {
+      "playTime": 190.21298909187317,
+      "afkTime": 60.002291440963745,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198136840438": {
+      "playTime": 900.029895067215,
+      "afkTime": 0.28712725639343262,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198357084754": {
+      "playTime": 9590.7295773029327,
+      "afkTime": 60.00425124168396,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198212409939": {
+      "playTime": 207.83216571807861,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198260895932": {
+      "playTime": 3222.1431918144226,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198451539660": {
+      "playTime": 446.3178870677948,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198056235255": {
+      "playTime": 299.90290999412537,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198039222568": {
+      "playTime": 120.00452637672424,
+      "afkTime": 17.075272083282471,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198051254344": {
+      "playTime": 249.80215215682983,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198271971641": {
+      "playTime": 38970.0520195961,
+      "afkTime": 3720.1125547885895,
+      "lastReward": 36000.0,
+      "referrals": 0
+    },
+    "76561198260330969": {
+      "playTime": 65951.9741306305,
+      "afkTime": 17402.79709815979,
+      "lastReward": 64800.0,
+      "referrals": 0
+    },
+    "76561198075122180": {
+      "playTime": 64.611644268035889,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198058639997": {
+      "playTime": 2300.3327131271362,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198320776589": {
+      "playTime": 3770.8709516525269,
+      "afkTime": 300.01534295082092,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198118814402": {
+      "playTime": 716.2478084564209,
+      "afkTime": 60.002252101898193,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198247345078": {
+      "playTime": 515.82180881500244,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198310756992": {
+      "playTime": 184.87800312042236,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198327143078": {
+      "playTime": 11160.416223049164,
+      "afkTime": 196.55576467514038,
+      "lastReward": 10800.0,
+      "referrals": 0
+    },
+    "76561198242618998": {
+      "playTime": 23364.440009355545,
+      "afkTime": 425.54039859771729,
+      "lastReward": 21600.0,
+      "referrals": 0
+    },
+    "76561198798937415": {
+      "playTime": 9360.6222920417786,
+      "afkTime": 0.0,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198154602889": {
+      "playTime": 19398.919062614441,
+      "afkTime": 964.42176651954651,
+      "lastReward": 18000.0,
+      "referrals": 0
+    },
+    "76561198293664793": {
+      "playTime": 4680.2725975513458,
+      "afkTime": 0.0,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198334239580": {
+      "playTime": 522.350204706192,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198213445241": {
+      "playTime": 60.00908088684082,
+      "afkTime": 327.95287394523621,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198343881815": {
+      "playTime": 68777.6020014286,
+      "afkTime": 3625.32208609581,
+      "lastReward": 68400.0,
+      "referrals": 0
+    },
+    "76561198092997001": {
+      "playTime": 52.986599922180176,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198283909666": {
+      "playTime": 540.02243590354919,
+      "afkTime": 23.312634706497192,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198127966963": {
+      "playTime": 3794.7873861789703,
+      "afkTime": 60.000505685806274,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198274259443": {
+      "playTime": 447.07062530517578,
+      "afkTime": 120.00260853767395,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198847335973": {
+      "playTime": 3285.9431900978088,
+      "afkTime": 59.999210596084595,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198118966635": {
+      "playTime": 120.00260877609253,
+      "afkTime": 33.855655670166016,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198147096556": {
+      "playTime": 2390.838116645813,
+      "afkTime": 180.0117552280426,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198428716673": {
+      "playTime": 5489.6174161434174,
+      "afkTime": 1225.1337652206421,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198131972403": {
+      "playTime": 14629.491251468658,
+      "afkTime": 350.68576955795288,
+      "lastReward": 14400.0,
+      "referrals": 0
+    },
+    "76561198144290840": {
+      "playTime": 776.68686938285828,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198834138777": {
+      "playTime": 6112.683465719223,
+      "afkTime": 120.00525116920471,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198413395553": {
+      "playTime": 4980.1935486793518,
+      "afkTime": 244.52856349945068,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198077438278": {
+      "playTime": 708.816400051117,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198333173615": {
+      "playTime": 4470.0765726566315,
+      "afkTime": 339.88073778152466,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198397444657": {
+      "playTime": 120.00067329406738,
+      "afkTime": 10.326226234436035,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198191255663": {
+      "playTime": 1.7402396202087402,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198157004224": {
+      "playTime": 1411.8562984466553,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198226690660": {
+      "playTime": 3666.8138620853424,
+      "afkTime": 420.0082790851593,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198220205799": {
+      "playTime": 2472.2149941921234,
+      "afkTime": 60.000265121459961,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198840859800": {
+      "playTime": 3137.6935515403748,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198117606953": {
+      "playTime": 59.995443105697632,
+      "afkTime": 47.764934539794922,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198155733918": {
+      "playTime": 1483.3963482379913,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198350239552": {
+      "playTime": 1944.8455181121826,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198134078266": {
+      "playTime": 453.24851679801941,
+      "afkTime": 60.004230976104736,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198130806984": {
+      "playTime": 119.9928138256073,
+      "afkTime": 96.0141990184784,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198341065601": {
+      "playTime": 24887.005516290665,
+      "afkTime": 840.04170775413513,
+      "lastReward": 21600.0,
+      "referrals": 0
+    },
+    "76561198248114606": {
+      "playTime": 3300.6475982666016,
+      "afkTime": 42.9621376991272,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198142502210": {
+      "playTime": 614.82864189147949,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198328178454": {
+      "playTime": 136.07301688194275,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198265022445": {
+      "playTime": 780.00235486030579,
+      "afkTime": 1.1963138580322266,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198197414790": {
+      "playTime": 540.0489981174469,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198115050261": {
+      "playTime": 529.62585043907166,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198049013383": {
+      "playTime": 1017.8818256855011,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198827908957": {
+      "playTime": 80.587511777877808,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198017887550": {
+      "playTime": 5185.8247330188751,
+      "afkTime": 60.000279903411865,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198033849782": {
+      "playTime": 60.002220630645752,
+      "afkTime": 1121.3296666145325,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198075411253": {
+      "playTime": 7599.8873553276062,
+      "afkTime": 546.50277662277222,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198000240938": {
+      "playTime": 7844.2294898033142,
+      "afkTime": 458.76789879798889,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198202892461": {
+      "playTime": 2167.5986833572388,
+      "afkTime": 25.413232564926147,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198109212569": {
+      "playTime": 150.16578936576843,
+      "afkTime": 480.01315951347351,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198236265748": {
+      "playTime": 2400.0566310882568,
+      "afkTime": 74.9700653553009,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198817697859": {
+      "playTime": 1080.0185210704803,
+      "afkTime": 125.60613870620728,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198346983302": {
+      "playTime": 3900.6168143749237,
+      "afkTime": 119.99869680404663,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198246089014": {
+      "playTime": 254.39794826507568,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198256710593": {
+      "playTime": 17.431748151779175,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198261916243": {
+      "playTime": 571.48968815803528,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198192702202": {
+      "playTime": 31.755066633224487,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198844409352": {
+      "playTime": 100.04645562171936,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198272897659": {
+      "playTime": 693.91543912887573,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198091290089": {
+      "playTime": 1440.3122909069061,
+      "afkTime": 1561.2411692142487,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198059973778": {
+      "playTime": 1298.7195100784302,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198179117785": {
+      "playTime": 600.03061962127686,
+      "afkTime": 37.932833433151245,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198131876045": {
+      "playTime": 119.999680519104,
+      "afkTime": 6.5879132747650146,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198191044726": {
+      "playTime": 9181.0349931716919,
+      "afkTime": 298.21146273612976,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198157233387": {
+      "playTime": 11046.685426473618,
+      "afkTime": 417.18619680404663,
+      "lastReward": 10800.0,
+      "referrals": 0
+    },
+    "76561198826194947": {
+      "playTime": 397.78194808959961,
+      "afkTime": 2640.2467317581177,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198072271313": {
+      "playTime": 128.36488723754883,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198206058336": {
+      "playTime": 78.575661420822144,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198128693498": {
+      "playTime": 351.38808035850525,
+      "afkTime": 180.31173753738403,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198353856543": {
+      "playTime": 5160.2000937461853,
+      "afkTime": 493.66885995864868,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198842587852": {
+      "playTime": 92.825784206390381,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198302334251": {
+      "playTime": 119.99974799156189,
+      "afkTime": 15.461987972259521,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198127680364": {
+      "playTime": 1199.9974524974823,
+      "afkTime": 49.405572652816772,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198074989499": {
+      "playTime": 2339.9149942398071,
+      "afkTime": 184.17179894447327,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198218544337": {
+      "playTime": 2486.1324326992035,
+      "afkTime": 309.74305319786072,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198063824602": {
+      "playTime": 2156.4537129402161,
+      "afkTime": 115.50269436836243,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198181511142": {
+      "playTime": 55.640520095825195,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561197994377280": {
+      "playTime": 1860.2867221832275,
+      "afkTime": 873.39771842956543,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198261925181": {
+      "playTime": 732.568834066391,
+      "afkTime": 0.0,
+      "lastReward": 0.0,
+      "referrals": 0
+    },
+    "76561198056034256": {
+      "playTime": 6258.4822878837585,
+      "afkTime": 300.01189589500427,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198090588920": {
+      "playTime": 17580.390743732452,
+      "afkTime": 420.01407694816589,
+      "lastReward": 14400.0,
+      "referrals": 0
+    },
+    "76561198134462233": {
+      "playTime": 16080.440079927444,
+      "afkTime": 1192.4322376251221,
+      "lastReward": 14400.0,
+      "referrals": 0
+    },
+    "76561198231438844": {
+      "playTime": 3879.5628728866577,
+      "afkTime": 780.01862788200378,
+      "lastReward": 3600.0,
+      "referrals": 0
+    },
+    "76561198135193562": {
+      "playTime": 11930.396547794342,
+      "afkTime": 360.00842833518982,
+      "lastReward": 10800.0,
+      "referrals": 0
+    },
+    "76561198121046141": {
+      "playTime": 7740.2017178535461,
+      "afkTime": 64.150162220001221,
+      "lastReward": 7200.0,
+      "referrals": 0
+    },
+    "76561198346090407": {
+      "playTime": 120.00278282165527,
+      "afkTime": 21.701061964035034,
+      "lastReward": 0.0,
+      "referrals": 0
+    }
+  }
+}

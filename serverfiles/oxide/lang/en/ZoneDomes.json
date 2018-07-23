@@ -1,0 +1,17 @@
+{
+  "noInfo": "Unable to find information for: ",
+  "noEntity": "Unable to find the sphere entity with for zone ID: ",
+  "remInvalid": "Removing invalid zone data",
+  "remSuccess": "You have successfully removed the sphere from zone: ",
+  "noVerify": "Unable to verify with ZoneManager the ID: ",
+  "noLoc": "Unable to retrieve location data from ZoneManager for: ",
+  "noRad": "Unable to retrieve radius data from ZoneManager for: ",
+  "newSuccess": "You have successfully created a sphere for the zone: ",
+  "noZM": "Unable to find ZoneManager, unable to proceeed",
+  "invZone": "Found {0} invalid zones. Removing them from data",
+  "listForm": "--- Sphere List --- \n <ID> -- <Radius> -- <Position>",
+  "addSyn": " - Adds a sphere to the zone <zoneid>",
+  "remSyn": " - Removes a sphere from the zone <zoneid>",
+  "listSyn": " - Lists all current active spheres and their position",
+  "alreadyExists": "This zone already has a dome"
+}

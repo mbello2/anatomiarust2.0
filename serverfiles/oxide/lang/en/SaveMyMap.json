@@ -1,0 +1,13 @@
+{
+  "kickreason": "Map restore was initiated. Please wait a momemt",
+  "loadedinfo": "Saveinverval set to: {0} sec. | Custom save after every '{1}' saves",
+  "alreadysaving": "Server already saving",
+  "customsavecomplete": "Custom saving complete",
+  "needconfirm": "You need to confirm with 'force'",
+  "definefilename": "You need to define a filename to load",
+  "lastfilename": "You can load the last file by typing 'load' as name",
+  "filenotfound": "The given filename was not found.",
+  "dirnotfound": "Save Directory not found. Will be recreated for next save.",
+  "loadoverride": "Loadfile override succesful.",
+  "loadoverridecancel": "Loadfile override aborted, map change detected."
+}

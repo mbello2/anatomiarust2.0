@@ -1,0 +1,16 @@
+{
+  "Players": {
+    "76561198383905932": {
+      "UserId": 76561198383905932,
+      "TimeLeft": 3600,
+      "Multiple": false,
+      "InitTimestamp": 1529342173
+    },
+    "76561198003814833": {
+      "UserId": 76561198003814833,
+      "TimeLeft": 3390,
+      "Multiple": true,
+      "InitTimestamp": 1529343177
+    }
+  }
+}

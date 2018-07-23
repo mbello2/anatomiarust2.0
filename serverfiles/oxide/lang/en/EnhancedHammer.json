@@ -1,0 +1,21 @@
+{
+  "NoPermission": "You don't have permission to use this command",
+  "RepairMode": "You are now in REPAIR mode",
+  "UpgradeBlocked": "You can't upgrade it, something is blocking it's way",
+  "BuildingBlocked": "Building is blocked",
+  "CantUpgradeWalls": "Can't upgrade walls! Switching to REPAIR mode",
+  "CantAffordUpgrade": "Can't afford to upgrade",
+  "UpgradeModeGrade": "You are now in UPGRADE mode [ {0} ]",
+  "TimerSetTo": "Timer set to {0} seconds",
+  "TimerUnlimited": "Timer will never end",
+  "Help1": "Command usage",
+  "Help2": "<color=yellow>/eh <enable | disable></color> - Enables or disabled plugin functionality.",
+  "Help3": "<color=yellow>/eh <show | hide></color> - Shows or hides plugin icons.",
+  "Help4": "<color=yellow>/eh timer <0 (unltd) | seconds></color> - Time in which hammer goes back to default mode.",
+  "Help5": "<color=yellow>/eh msgs <show | hide ></color> - Show messages in chat about hammer state.",
+  "Action1": "Icons",
+  "Action2": "Plugin",
+  "Action3": "Messages",
+  "ActionEnabled": "Enabled",
+  "ActionDisabled": "Disabled"
+}

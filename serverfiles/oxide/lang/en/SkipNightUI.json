@@ -1,0 +1,10 @@
+{
+  "voteSuccess": "{msg}You have voted to skip night!</color>",
+  "noVote": "{msg}There is not currently a vote open!</color>",
+  "alreadyOpen": "{msg}The is already a vote in progress!</color>",
+  "invalidSyntax": "{msg}Invalid Syntax! -</color> {main}/voteday open</color>{msg} || </color> {main}/voteday close</color>",
+  "votingSuccessful": "{main}Voting was successful!</color>{msg} Skipping night</color>",
+  "votingUnsuccessful": "{main}Voting was not successful!</color>{msg} Nighttime inbound</color>",
+  "commandSyn": "{msg}Type </color>{main}/voteday</color>{msg} now if you want to skip the night!\n-- Requires </color>{main}{percent}%</color>{msg} of the players to vote</color>",
+  "skipNight": "Skip Night"
+}

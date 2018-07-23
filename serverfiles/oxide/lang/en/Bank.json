@@ -1,0 +1,12 @@
+{
+  "Denied: Permission": "You lack permission to do that",
+  "Denied: Privilege": "You lack permission to do that",
+  "Denied: Swimming": "You cannot do that while swimming",
+  "Denied: Falling": "You cannot do that while falling",
+  "Denied: Wounded": "You cannot do that while wounded",
+  "Denied: Generic": "You cannot do that right now",
+  "Denied: Irradiated": "You cannot do that while irradiated",
+  "Cooldown: Seconds": "You are doing that too often, try again in a {0} seconds(s).",
+  "Cooldown: Minutes": "You are doing that too often, try again in a {0} minute(s).",
+  "Limit: Return": "Some items were returned to your inventory"
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "GroupName": "default",
+    "Priority": 1,
+    "Title": {
+      "Text": "[Player]",
+      "Color": "green",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "orange",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "admin",
+    "Priority": 0,
+    "Title": {
+      "Text": "[Admin]",
+      "Color": "red",
+      "Size": 19,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 19
+    },
+    "Message": {
+      "Color": "#DD4A68",
+      "Size": 17
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  }
+]

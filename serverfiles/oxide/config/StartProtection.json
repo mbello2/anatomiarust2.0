@@ -1,0 +1,19 @@
+{
+  "Settings": {
+    "bHelicopterProtection": false,
+    "bProtectionEnabled": true,
+    "bSleeperProtection": true,
+    "canLootDrop": false,
+    "canLootFriendDeployables": true,
+    "canLootFriends": false,
+    "canLootHeli": false,
+    "iInactiveDays": 1,
+    "iPunishment": 300,
+    "iTime": 3600,
+    "iUpdateTimerInterval": 10,
+    "showUIIcon": true,
+    "UIIcon": "https://i.imgur.com/hom6JrH.png",
+    "UIIconAnchorMax": "0.290 0.095",
+    "UIIconAnchorMin": "0.245 0.025"
+  }
+}
